@@ -1,0 +1,28 @@
+/* Text size markdown */
+.rendered_html p {
+    font-size: 25px
+}
+
+
+.rendered_html h1 {
+    font-size: 60px
+}
+
+.rendered_html h2 {
+    font-size: 35px
+}
+
+
+/* Table cells */
+.rendered_html table, .rendered_html td, .rendered_html th {
+    font-size: 25px;
+    background-color: white;
+}
+
+/* lists */
+.text_cell_render li {
+  font-size: 20px;
+}
+
+
+

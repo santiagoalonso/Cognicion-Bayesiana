@@ -1,0 +1,172 @@
+\documentclass{article}
+\usepackage[x11names, svgnames, rgb]{xcolor}
+\usepackage[utf8]{inputenc}
+\usepackage{tikz}
+\usetikzlibrary{snakes,arrows,shapes}
+\usepackage{amsmath}
+%
+%
+
+\usepackage[active,tightpage]{preview}
+\PreviewEnvironment{tikzpicture}
+\setlength\PreviewBorder{0pt}%
+
+%
+
+\begin{document}
+\pagestyle{empty}
+%
+%
+%
+
+\enlargethispage{100cm}
+% Start of code
+% \begin{tikzpicture}[anchor=mid,>=latex',line join=bevel,]
+\begin{tikzpicture}[>=latex',line join=bevel,]
+  \pgfsetlinewidth{1bp}
+%%
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (137.5bp,289.0bp) node {Caída Exponencial de la Memoria};
+\end{scope}
+\begin{scope}
+  \pgfsetstrokecolor{black}
+  \definecolor{strokecol}{rgb}{1.0,1.0,1.0};
+  \pgfsetstrokecolor{strokecol}
+  \definecolor{fillcol}{rgb}{1.0,1.0,1.0};
+  \pgfsetfillcolor{fillcol}
+  \filldraw (0.0bp,0.0bp) -- (0.0bp,300.5bp) -- (275.0bp,300.5bp) -- (275.0bp,0.0bp) -- cycle;
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (137.5bp,289.0bp) node {Caída Exponencial de la Memoria};
+\end{scope}
+\begin{scope}
+  \pgfsetstrokecolor{black}
+  \definecolor{strokecol}{rgb}{1.0,1.0,1.0};
+  \pgfsetstrokecolor{strokecol}
+  \definecolor{fillcol}{rgb}{1.0,1.0,1.0};
+  \pgfsetfillcolor{fillcol}
+  \filldraw (0.0bp,0.0bp) -- (0.0bp,300.5bp) -- (275.0bp,300.5bp) -- (275.0bp,0.0bp) -- cycle;
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (137.5bp,289.0bp) node {Caída Exponencial de la Memoria};
+\end{scope}
+\begin{scope}
+  \pgfsetstrokecolor{black}
+  \definecolor{strokecol}{rgb}{1.0,1.0,1.0};
+  \pgfsetstrokecolor{strokecol}
+  \definecolor{fillcol}{rgb}{1.0,1.0,1.0};
+  \pgfsetfillcolor{fillcol}
+  \filldraw (0.0bp,0.0bp) -- (0.0bp,300.5bp) -- (275.0bp,300.5bp) -- (275.0bp,0.0bp) -- cycle;
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (137.5bp,289.0bp) node {Caída Exponencial de la Memoria};
+\end{scope}
+\begin{scope}
+  \pgfsetstrokecolor{black}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (67.0bp,110.0bp) .. controls (67.0bp,110.0bp) and (175.0bp,110.0bp)  .. (175.0bp,110.0bp) .. controls (181.0bp,110.0bp) and (187.0bp,116.0bp)  .. (187.0bp,122.0bp) .. controls (187.0bp,122.0bp) and (187.0bp,226.0bp)  .. (187.0bp,226.0bp) .. controls (187.0bp,232.0bp) and (181.0bp,238.0bp)  .. (175.0bp,238.0bp) .. controls (175.0bp,238.0bp) and (67.0bp,238.0bp)  .. (67.0bp,238.0bp) .. controls (61.0bp,238.0bp) and (55.0bp,232.0bp)  .. (55.0bp,226.0bp) .. controls (55.0bp,226.0bp) and (55.0bp,122.0bp)  .. (55.0bp,122.0bp) .. controls (55.0bp,116.0bp) and (61.0bp,110.0bp)  .. (67.0bp,110.0bp);
+  \draw (65.0bp,226.5bp) node[font=\small] {$\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;                                     \;\;\;\;\;\;\;\;\;\;\;\;\;\;\;j$ Tiempo para recordar};
+\end{scope}
+\begin{scope}
+  \pgfsetstrokecolor{black}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (140.0bp,132.0bp) .. controls (140.0bp,132.0bp) and (165.0bp,132.0bp)  .. (165.0bp,132.0bp) .. controls (171.0bp,132.0bp) and (177.0bp,138.0bp)  .. (177.0bp,144.0bp) .. controls (177.0bp,144.0bp) and (177.0bp,193.0bp)  .. (177.0bp,193.0bp) .. controls (177.0bp,199.0bp) and (171.0bp,205.0bp)  .. (165.0bp,205.0bp) .. controls (165.0bp,205.0bp) and (140.0bp,205.0bp)  .. (140.0bp,205.0bp) .. controls (134.0bp,205.0bp) and (128.0bp,199.0bp)  .. (128.0bp,193.0bp) .. controls (128.0bp,193.0bp) and (128.0bp,144.0bp)  .. (128.0bp,144.0bp) .. controls (128.0bp,138.0bp) and (134.0bp,132.0bp)  .. (140.0bp,132.0bp);
+  \draw (138.0bp,143.5bp) node[font=\small] {$\;\;\;\;\;\;\;\;\;\;\;\; i$ Personas};
+\end{scope}
+  \pgfsetcolor{black}
+  % Edge: theta -> k
+  \draw [->] (102.1bp,184.42bp) .. controls (109.95bp,183.72bp) and (119.32bp,182.88bp)  .. (137.82bp,181.23bp);
+  % Edge: t -> theta
+  \draw [->] (83.5bp,149.74bp) .. controls (83.5bp,152.21bp) and (83.5bp,154.68bp)  .. (83.5bp,167.3bp);
+  % Edge: alpha -> theta
+  \draw [->] (28.418bp,205.37bp) .. controls (36.321bp,202.54bp) and (46.718bp,198.82bp)  .. (65.809bp,191.98bp);
+  % Edge: beta -> theta
+  \draw [->] (28.418bp,167.43bp) .. controls (36.321bp,170.15bp) and (46.718bp,173.72bp)  .. (65.809bp,180.27bp);
+  % Edge: n -> k
+  \draw [->] (152.5bp,248.3bp) .. controls (152.5bp,233.76bp) and (152.5bp,219.21bp)  .. (152.5bp,194.59bp);
+  % Node: theta
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (83.5bp,186.0bp) ellipse (14.5bp and 14.5bp);
+  \draw (83.5bp,186.0bp) ellipse (18.5bp and 18.5bp);
+  \draw (83.5bp,186.0bp) node[font=\small] {$Mem_j$};
+\end{scope}
+  % Node: t
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \definecolor{fillcol}{rgb}{0.75,0.75,0.75};
+  \pgfsetfillcolor{fillcol}
+  \filldraw [opacity=1] (83.5bp,135.0bp) ellipse (14.5bp and 14.5bp);
+  \draw (83.5bp,135.0bp) node[font=\small] {$t_j$};
+\end{scope}
+  % Node: k
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \definecolor{fillcol}{rgb}{0.75,0.75,0.75};
+  \pgfsetfillcolor{fillcol}
+  \filldraw (167.0bp,194.5bp) -- (138.0bp,194.5bp) -- (138.0bp,165.5bp) -- (167.0bp,165.5bp) -- cycle;
+  \draw (152.5bp,180.0bp) node[font=\small] {$Rec_{i,j}$};
+\end{scope}
+  % Node: n
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \definecolor{fillcol}{rgb}{0.75,0.75,0.75};
+  \pgfsetfillcolor{fillcol}
+  \filldraw (167.0bp,277.5bp) -- (138.0bp,277.5bp) -- (138.0bp,248.5bp) -- (167.0bp,248.5bp) -- cycle;
+  \draw (152.5bp,263.0bp) node[font=\small] {$Items_n$};
+\end{scope}
+  % Node: alpha_dist
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (260.5bp,180.0bp) node[font=\small] {$\alpha \sim Beta(1,1)$};
+\end{scope}
+  % Node: beta_dist
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (260.5bp,126.0bp) node[font=\small] {$\beta \sim Beta(1,1)$};
+\end{scope}
+  % Node: theta_dist
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (260.5bp,72.0bp) node[font=\small] {$Mem_j \sim min\left(1, e^{-\alpha t_j} + \beta\right)$};
+\end{scope}
+  % Node: k_dist
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (260.5bp,18.0bp) node[font=\small] {$Rec_{i,j} \sim Binomial(Mem_j,Items_n)$};
+\end{scope}
+  % Node: alpha
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (14.5bp,210.0bp) ellipse (14.5bp and 14.5bp);
+  \draw (14.5bp,210.0bp) node[font=\large] {$\alpha$};
+\end{scope}
+  % Node: beta
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (14.5bp,163.0bp) ellipse (14.5bp and 14.5bp);
+  \draw (14.5bp,163.0bp) node[font=\large] {$\beta$};
+\end{scope}
+%
+\end{tikzpicture}
+% End of code
+
+%
+\end{document}
+%
+
+

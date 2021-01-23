@@ -1,0 +1,142 @@
+\documentclass{article}
+\usepackage[x11names, svgnames, rgb]{xcolor}
+\usepackage[utf8]{inputenc}
+\usepackage{tikz}
+\usetikzlibrary{snakes,arrows,shapes}
+\usepackage{amsmath}
+%
+%
+
+\usepackage[active,tightpage]{preview}
+\PreviewEnvironment{tikzpicture}
+\setlength\PreviewBorder{0pt}%
+
+%
+
+\begin{document}
+\pagestyle{empty}
+%
+%
+%
+
+\enlargethispage{100cm}
+% Start of code
+% \begin{tikzpicture}[anchor=mid,>=latex',line join=bevel,]
+\begin{tikzpicture}[>=latex',line join=bevel,]
+  \pgfsetlinewidth{1bp}
+%%
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (85.0bp,473.5bp) node {A/B testing};
+\end{scope}
+  \pgfsetcolor{black}
+  % Edge: theta_1 -> k_1
+  \draw [->] (54.184bp,434.83bp) .. controls (48.529bp,425.81bp) and (40.528bp,413.05bp)  .. (28.183bp,393.35bp);
+  % Edge: theta_1 -> delta
+  \draw [->] (65.254bp,433.26bp) .. controls (67.446bp,425.53bp) and (70.292bp,415.5bp)  .. (75.671bp,396.53bp);
+  % Edge: n_1 -> k_1
+  \draw [->] (15.512bp,432.94bp) .. controls (16.149bp,424.41bp) and (16.989bp,413.15bp)  .. (18.49bp,393.04bp);
+  % Edge: theta_2 -> k_2
+  \draw [->] (115.82bp,434.83bp) .. controls (121.47bp,425.81bp) and (129.47bp,413.05bp)  .. (141.82bp,393.35bp);
+  % Edge: theta_2 -> delta
+  \draw [->] (103.23bp,433.9bp) .. controls (99.859bp,425.82bp) and (95.358bp,415.05bp)  .. (87.333bp,395.85bp);
+  % Edge: n_2 -> k_2
+  \draw [->] (154.49bp,432.94bp) .. controls (153.85bp,424.41bp) and (153.01bp,413.15bp)  .. (151.51bp,393.04bp);
+  % Node: theta_1
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (61.5bp,447.5bp) ellipse (14.5bp and 14.5bp);
+  \draw (61.5bp,447.5bp) node[font=\small] {$\theta_1$};
+\end{scope}
+  % Node: k_1
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \definecolor{fillcol}{rgb}{0.75,0.75,0.75};
+  \pgfsetfillcolor{fillcol}
+  \filldraw (34.0bp,393.0bp) -- (5.0bp,393.0bp) -- (5.0bp,364.0bp) -- (34.0bp,364.0bp) -- cycle;
+  \draw (19.5bp,378.5bp) node[font=\small] {$k_{1}$};
+\end{scope}
+  % Node: delta
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (80.5bp,378.5bp) ellipse (14.5bp and 14.5bp);
+  \draw (80.5bp,378.5bp) ellipse (18.5bp and 18.5bp);
+  \draw (80.5bp,378.5bp) node[font=\small] {$\delta$};
+\end{scope}
+  % Node: n_1
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \definecolor{fillcol}{rgb}{0.75,0.75,0.75};
+  \pgfsetfillcolor{fillcol}
+  \filldraw (29.0bp,462.0bp) -- (0.0bp,462.0bp) -- (0.0bp,433.0bp) -- (29.0bp,433.0bp) -- cycle;
+  \draw (14.5bp,447.5bp) node[font=\small] {$n_{1}$};
+\end{scope}
+  % Node: theta_2
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (108.5bp,447.5bp) ellipse (14.5bp and 14.5bp);
+  \draw (108.5bp,447.5bp) node[font=\small] {$\theta_2$};
+\end{scope}
+  % Node: k_2
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \definecolor{fillcol}{rgb}{0.75,0.75,0.75};
+  \pgfsetfillcolor{fillcol}
+  \filldraw (165.0bp,393.0bp) -- (136.0bp,393.0bp) -- (136.0bp,364.0bp) -- (165.0bp,364.0bp) -- cycle;
+  \draw (150.5bp,378.5bp) node[font=\small] {$k_{2}$};
+\end{scope}
+  % Node: n_2
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \definecolor{fillcol}{rgb}{0.75,0.75,0.75};
+  \pgfsetfillcolor{fillcol}
+  \filldraw (170.0bp,462.0bp) -- (141.0bp,462.0bp) -- (141.0bp,433.0bp) -- (170.0bp,433.0bp) -- cycle;
+  \draw (155.5bp,447.5bp) node[font=\small] {$n_{2}$};
+\end{scope}
+  % Node: k_1_dist
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (80.5bp,306.0bp) node[font=\small] {$k_{1} \sim  Binomial(\theta_1, n_1)$};
+\end{scope}
+  % Node: k_2_dist
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (80.5bp,234.0bp) node[font=\small] {$k_{2} \sim  Binomial(\theta_2, n_2)$};
+\end{scope}
+  % Node: theta_1_dist
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (80.5bp,162.0bp) node[font=\small] {$\theta_1 \sim Beta(1,1)$};
+\end{scope}
+  % Node: theta_2_dist
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (80.5bp,90.0bp) node[font=\small] {$\theta_2 \sim Beta(1,1)$};
+\end{scope}
+  % Node: delta_dist
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (80.5bp,18.0bp) node[font=\small] {$\delta = \theta_1 - \theta_2$};
+\end{scope}
+%
+\end{tikzpicture}
+% End of code
+
+%
+\end{document}
+%
+
+

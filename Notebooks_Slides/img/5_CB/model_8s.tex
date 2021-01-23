@@ -1,0 +1,200 @@
+\documentclass{article}
+\usepackage[x11names, svgnames, rgb]{xcolor}
+\usepackage[utf8]{inputenc}
+\usepackage{tikz}
+\usetikzlibrary{snakes,arrows,shapes}
+\usepackage{amsmath}
+%
+%
+
+\usepackage[active,tightpage]{preview}
+\PreviewEnvironment{tikzpicture}
+\setlength\PreviewBorder{0pt}%
+
+%
+
+\begin{document}
+\pagestyle{empty}
+%
+%
+%
+
+\enlargethispage{100cm}
+% Start of code
+% \begin{tikzpicture}[anchor=mid,>=latex',line join=bevel,]
+\begin{tikzpicture}[>=latex',line join=bevel,]
+  \pgfsetlinewidth{1bp}
+%%
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (119.0bp,325.5bp) node {8 schools};
+\end{scope}
+  \pgfsetcolor{black}
+  % Edge: hyperpar -> theta_1
+  \draw [->] (111.99bp,303.0bp) .. controls (94.473bp,295.49bp) and (48.381bp,275.73bp)  .. (14.003bp,261.0bp);
+  % Edge: hyperpar -> theta_2
+  \draw [->] (111.9bp,301.74bp) .. controls (99.242bp,294.15bp) and (72.478bp,278.09bp)  .. (46.199bp,262.32bp);
+  % Edge: hyperpar -> theta_3
+  \draw [->] (112.72bp,299.72bp) .. controls (105.57bp,292.57bp) and (93.668bp,280.67bp)  .. (77.125bp,264.12bp);
+  % Edge: hyperpar -> theta_4
+  \draw [->] (116.91bp,299.72bp) .. controls (114.72bp,293.15bp) and (111.19bp,282.56bp)  .. (105.04bp,264.12bp);
+  % Edge: hyperpar -> theta_5
+  \draw [->] (121.09bp,299.72bp) .. controls (123.28bp,293.15bp) and (126.81bp,282.56bp)  .. (132.96bp,264.12bp);
+  % Edge: hyperpar -> theta_6
+  \draw [->] (125.28bp,299.72bp) .. controls (132.43bp,292.57bp) and (144.33bp,280.67bp)  .. (160.88bp,264.12bp);
+  % Edge: hyperpar -> theta_7
+  \draw [->] (126.1bp,301.74bp) .. controls (138.76bp,294.15bp) and (165.52bp,278.09bp)  .. (191.8bp,262.32bp);
+  % Edge: hyperpar -> theta_8
+  \draw [->] (126.01bp,303.0bp) .. controls (143.53bp,295.49bp) and (189.62bp,275.73bp)  .. (224.0bp,261.0bp);
+  % Edge: theta_1 -> y_1
+  \draw [->] (7.0bp,249.72bp) .. controls (7.0bp,243.29bp) and (7.0bp,233.02bp)  .. (7.0bp,214.12bp);
+  % Edge: theta_2 -> y_2
+  \draw [->] (39.0bp,249.72bp) .. controls (39.0bp,243.29bp) and (39.0bp,233.02bp)  .. (39.0bp,214.12bp);
+  % Edge: theta_3 -> y_3
+  \draw [->] (71.0bp,249.72bp) .. controls (71.0bp,243.29bp) and (71.0bp,233.02bp)  .. (71.0bp,214.12bp);
+  % Edge: theta_4 -> y_4
+  \draw [->] (103.0bp,249.72bp) .. controls (103.0bp,243.29bp) and (103.0bp,233.02bp)  .. (103.0bp,214.12bp);
+  % Edge: theta_5 -> y_5
+  \draw [->] (135.0bp,249.72bp) .. controls (135.0bp,243.29bp) and (135.0bp,233.02bp)  .. (135.0bp,214.12bp);
+  % Edge: theta_6 -> y_6
+  \draw [->] (167.0bp,249.72bp) .. controls (167.0bp,243.29bp) and (167.0bp,233.02bp)  .. (167.0bp,214.12bp);
+  % Edge: theta_7 -> y_7
+  \draw [->] (199.0bp,249.72bp) .. controls (199.0bp,243.29bp) and (199.0bp,233.02bp)  .. (199.0bp,214.12bp);
+  % Edge: theta_8 -> y_8
+  \draw [->] (231.0bp,249.72bp) .. controls (231.0bp,243.29bp) and (231.0bp,233.02bp)  .. (231.0bp,214.12bp);
+  % Node: hyperpar
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (119.0bp,307.0bp) node[font=\small] {$\mu,\tau$};
+\end{scope}
+  % Node: theta_1
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (7.0bp,257.0bp) node[font=\small] {$\theta_1$};
+\end{scope}
+  % Node: theta_2
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (39.0bp,257.0bp) node[font=\small] {$\theta_2$};
+\end{scope}
+  % Node: theta_3
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (71.0bp,257.0bp) node[font=\small] {$\theta_3$};
+\end{scope}
+  % Node: theta_4
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (103.0bp,257.0bp) node[font=\small] {$\theta_4$};
+\end{scope}
+  % Node: theta_5
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (135.0bp,257.0bp) node[font=\small] {$\theta_5$};
+\end{scope}
+  % Node: theta_6
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (167.0bp,257.0bp) node[font=\small] {$\theta_6$};
+\end{scope}
+  % Node: theta_7
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (199.0bp,257.0bp) node[font=\small] {$\theta_7$};
+\end{scope}
+  % Node: theta_8
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (231.0bp,257.0bp) node[font=\small] {$\theta_8$};
+\end{scope}
+  % Node: y_1
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (7.0bp,207.0bp) node[font=\small] {$y_1$};
+\end{scope}
+  % Node: y_2
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (39.0bp,207.0bp) node[font=\small] {$y_2$};
+\end{scope}
+  % Node: y_3
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (71.0bp,207.0bp) node[font=\small] {$y_3$};
+\end{scope}
+  % Node: y_4
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (103.0bp,207.0bp) node[font=\small] {$y_4$};
+\end{scope}
+  % Node: y_5
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (135.0bp,207.0bp) node[font=\small] {$y_5$};
+\end{scope}
+  % Node: y_6
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (167.0bp,207.0bp) node[font=\small] {$y_6$};
+\end{scope}
+  % Node: y_7
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (199.0bp,207.0bp) node[font=\small] {$y_7$};
+\end{scope}
+  % Node: y_8
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (231.0bp,207.0bp) node[font=\small] {$y_8$};
+\end{scope}
+  % Node: mu_dist
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (231.0bp,157.0bp) node[font=\small] {$\mu \sim  Uniform(0,K_1)$};
+\end{scope}
+  % Node: tau_dist
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (231.0bp,107.0bp) node[font=\small] {$\tau \sim  Uniform(0,K_2)$};
+\end{scope}
+  % Node: theta_dist
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (231.0bp,57.0bp) node[font=\small] {$\theta_j \sim  Normal(\mu, \tau)$};
+\end{scope}
+  % Node: y_dist
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (231.0bp,7.0bp) node[font=\small] {$y_j \sim  Normal(\theta_j, \sigma^2_{j \; data})$};
+\end{scope}
+%
+\end{tikzpicture}
+% End of code
+
+%
+\end{document}
+%
+
+

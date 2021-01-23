@@ -1,0 +1,103 @@
+\documentclass{article}
+\usepackage[x11names, svgnames, rgb]{xcolor}
+\usepackage[utf8]{inputenc}
+\usepackage{tikz}
+\usetikzlibrary{snakes,arrows,shapes}
+\usepackage{amsmath}
+%
+%
+
+\usepackage[active,tightpage]{preview}
+\PreviewEnvironment{tikzpicture}
+\setlength\PreviewBorder{0pt}%
+
+%
+
+\begin{document}
+\pagestyle{empty}
+%
+%
+%
+
+\enlargethispage{100cm}
+% Start of code
+% \begin{tikzpicture}[anchor=mid,>=latex',line join=bevel,]
+\begin{tikzpicture}[>=latex',line join=bevel,]
+  \pgfsetlinewidth{1bp}
+%%
+\begin{scope}
+  \pgfsetstrokecolor{black}
+  \definecolor{strokecol}{rgb}{1.0,1.0,1.0};
+  \pgfsetstrokecolor{strokecol}
+  \definecolor{fillcol}{rgb}{1.0,1.0,1.0};
+  \pgfsetfillcolor{fillcol}
+  \filldraw (0.0bp,0.0bp) -- (0.0bp,380.81bp) -- (160.0bp,380.81bp) -- (160.0bp,0.0bp) -- cycle;
+\end{scope}
+\begin{scope}
+  \pgfsetstrokecolor{black}
+  \definecolor{strokecol}{rgb}{1.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (78.0bp,113.81bp) -- (78.0bp,289.81bp) -- (152.0bp,289.81bp) -- (152.0bp,113.81bp) -- cycle;
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (88.0bp,278.31bp) node {$\theta_i$};
+\end{scope}
+  \pgfsetcolor{black}
+  % Edge: f -> g
+  \draw [->] (115.0bp,208.68bp) .. controls (115.0bp,200.43bp) and (115.0bp,191.03bp)  .. (115.0bp,172.0bp);
+  % Edge: d -> e
+  \draw [->] (25.0bp,330.53bp) .. controls (25.0bp,312.88bp) and (25.0bp,288.75bp)  .. (25.0bp,259.06bp);
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (52.0bp,305.31bp) node { mi texto};
+  % Edge: e -> f
+  \draw [->] (50.07bp,233.81bp) .. controls (58.07bp,233.81bp) and (67.123bp,233.81bp)  .. (78.0bp,233.81bp);
+  \draw (68.0bp,244.31bp) node {};
+  % Edge: g -> h
+  \draw [->] (115.0bp,113.81bp) .. controls (115.0bp,107.82bp) and (115.0bp,101.42bp)  .. (115.0bp,84.907bp);
+  % Node: e
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (38.0bp,258.81bp) .. controls (38.0bp,258.81bp) and (12.0bp,258.81bp)  .. (12.0bp,258.81bp) .. controls (6.0bp,258.81bp) and (0.0bp,252.81bp)  .. (0.0bp,246.81bp) .. controls (0.0bp,246.81bp) and (0.0bp,220.81bp)  .. (0.0bp,220.81bp) .. controls (0.0bp,214.81bp) and (6.0bp,208.81bp)  .. (12.0bp,208.81bp) .. controls (12.0bp,208.81bp) and (38.0bp,208.81bp)  .. (38.0bp,208.81bp) .. controls (44.0bp,208.81bp) and (50.0bp,214.81bp)  .. (50.0bp,220.81bp) .. controls (50.0bp,220.81bp) and (50.0bp,246.81bp)  .. (50.0bp,246.81bp) .. controls (50.0bp,252.81bp) and (44.0bp,258.81bp)  .. (38.0bp,258.81bp);
+  \draw (25.0bp,233.81bp) node {$\mu$};
+\end{scope}
+  % Node: f
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (115.0bp,233.81bp) node {VI};
+\end{scope}
+  % Node: g
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (132.0bp,171.81bp) .. controls (132.0bp,171.81bp) and (98.0bp,171.81bp)  .. (98.0bp,171.81bp) .. controls (92.0bp,171.81bp) and (86.0bp,165.81bp)  .. (86.0bp,159.81bp) .. controls (86.0bp,159.81bp) and (86.0bp,133.81bp)  .. (86.0bp,133.81bp) .. controls (86.0bp,127.81bp) and (92.0bp,121.81bp)  .. (98.0bp,121.81bp) .. controls (98.0bp,121.81bp) and (132.0bp,121.81bp)  .. (132.0bp,121.81bp) .. controls (138.0bp,121.81bp) and (144.0bp,127.81bp)  .. (144.0bp,133.81bp) .. controls (144.0bp,133.81bp) and (144.0bp,159.81bp)  .. (144.0bp,159.81bp) .. controls (144.0bp,165.81bp) and (138.0bp,171.81bp)  .. (132.0bp,171.81bp);
+  \draw (115.0bp,146.81bp) node {$\sum_i x_i$};
+\end{scope}
+  % Node: d
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw [rounded corners] (25.0bp,355.81bp) ellipse (25.0bp and 25.0bp);
+  \draw (25.0bp,355.81bp) node {Nodo};
+\end{scope}
+  % Node: h
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw [rounded corners] (115.0bp,42.41bp) ellipse (30.34bp and 30.34bp);
+  \draw [rounded corners] (115.0bp,42.41bp) ellipse (34.33bp and 34.33bp);
+  \draw [rounded corners] (115.0bp,42.41bp) ellipse (38.32bp and 38.32bp);
+  \draw [rounded corners] (115.0bp,42.41bp) ellipse (42.31bp and 42.31bp);
+  \draw (115.0bp,42.406bp) node {$\int \beta_i di$};
+\end{scope}
+%
+\end{tikzpicture}
+% End of code
+
+%
+\end{document}
+%
+
+

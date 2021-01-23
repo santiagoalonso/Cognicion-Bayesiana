@@ -1,0 +1,407 @@
+\documentclass{article}
+\usepackage[x11names, svgnames, rgb]{xcolor}
+\usepackage[utf8]{inputenc}
+\usepackage{tikz}
+\usetikzlibrary{snakes,arrows,shapes}
+\usepackage{amsmath}
+%
+%
+
+\usepackage[active,tightpage]{preview}
+\PreviewEnvironment{tikzpicture}
+\setlength\PreviewBorder{0pt}%
+
+%
+
+\begin{document}
+\pagestyle{empty}
+%
+%
+%
+
+\enlargethispage{100cm}
+% Start of code
+% \begin{tikzpicture}[anchor=mid,>=latex',line join=bevel,]
+\begin{tikzpicture}[>=latex',line join=bevel,]
+  \pgfsetlinewidth{1bp}
+%%
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (257.0bp,2233.5bp) node {Cumulative Prospect Theory};
+\end{scope}
+\begin{scope}
+  \pgfsetstrokecolor{black}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (20.0bp,1652.0bp) .. controls (20.0bp,1652.0bp) and (494.0bp,1652.0bp)  .. (494.0bp,1652.0bp) .. controls (500.0bp,1652.0bp) and (506.0bp,1658.0bp)  .. (506.0bp,1664.0bp) .. controls (506.0bp,1664.0bp) and (506.0bp,2162.0bp)  .. (506.0bp,2162.0bp) .. controls (506.0bp,2168.0bp) and (500.0bp,2174.0bp)  .. (494.0bp,2174.0bp) .. controls (494.0bp,2174.0bp) and (20.0bp,2174.0bp)  .. (20.0bp,2174.0bp) .. controls (14.0bp,2174.0bp) and (8.0bp,2168.0bp)  .. (8.0bp,2162.0bp) .. controls (8.0bp,2162.0bp) and (8.0bp,1664.0bp)  .. (8.0bp,1664.0bp) .. controls (8.0bp,1658.0bp) and (14.0bp,1652.0bp)  .. (20.0bp,1652.0bp);
+  \draw (18.0bp,2162.5bp) node[font=\small] {$\;\;\;\;\;\;\;\;\;\;\;\; i$ Individuo};
+\end{scope}
+\begin{scope}
+  \pgfsetstrokecolor{black}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (88.0bp,1662.0bp) .. controls (88.0bp,1662.0bp) and (202.0bp,1662.0bp)  .. (202.0bp,1662.0bp) .. controls (208.0bp,1662.0bp) and (214.0bp,1668.0bp)  .. (214.0bp,1674.0bp) .. controls (214.0bp,1674.0bp) and (214.0bp,2129.0bp)  .. (214.0bp,2129.0bp) .. controls (214.0bp,2135.0bp) and (208.0bp,2141.0bp)  .. (202.0bp,2141.0bp) .. controls (202.0bp,2141.0bp) and (88.0bp,2141.0bp)  .. (88.0bp,2141.0bp) .. controls (82.0bp,2141.0bp) and (76.0bp,2135.0bp)  .. (76.0bp,2129.0bp) .. controls (76.0bp,2129.0bp) and (76.0bp,1674.0bp)  .. (76.0bp,1674.0bp) .. controls (76.0bp,1668.0bp) and (82.0bp,1662.0bp)  .. (88.0bp,1662.0bp);
+  \draw (86.0bp,2129.5bp) node[font=\small] {$\;\;\;\;\;\;\;\;\;\;\; t$ Turno};
+\end{scope}
+  \pgfsetcolor{black}
+  % Edge: val -> EV
+  \draw [->] (183.01bp,1907.7bp) .. controls (182.62bp,1900.1bp) and (182.16bp,1891.1bp)  .. (181.19bp,1872.2bp);
+  % Edge: w_prob -> EV
+  \draw [->] (136.93bp,1911.2bp) .. controls (143.8bp,1901.3bp) and (152.87bp,1888.2bp)  .. (166.8bp,1868.1bp);
+  % Edge: choice -> choice_data
+  \draw [->] (182.0bp,1747.9bp) .. controls (182.0bp,1740.1bp) and (182.0bp,1731.0bp)  .. (182.0bp,1712.2bp);
+  % Edge: x -> val
+  \draw [->] (160.37bp,2074.9bp) .. controls (171.8bp,2064.8bp) and (186.5bp,2049.3bp)  .. (193.0bp,2032.0bp) .. controls (202.1bp,2007.7bp) and (198.07bp,1978.1bp)  .. (190.21bp,1947.1bp);
+  % Edge: x -> c
+  \draw [->] (136.34bp,2069.7bp) .. controls (131.3bp,2059.6bp) and (124.82bp,2046.6bp)  .. (114.63bp,2026.3bp);
+  % Edge: c -> w_prob
+  \draw [->] (110.74bp,1988.5bp) .. controls (113.11bp,1979.3bp) and (116.04bp,1967.8bp)  .. (121.22bp,1947.6bp);
+  % Edge: p -> w_prob
+  \draw [->] (155.57bp,1989.7bp) .. controls (150.65bp,1979.6bp) and (144.34bp,1966.6bp)  .. (134.41bp,1946.3bp);
+  % Edge: EV -> choice
+  \draw [->] (180.6bp,1823.6bp) .. controls (180.8bp,1815.6bp) and (181.03bp,1806.7bp)  .. (181.51bp,1788.2bp);
+  % Edge: alpha_normal -> alpha
+  \draw [->] (364.74bp,2068.5bp) .. controls (366.83bp,2060.4bp) and (369.34bp,2050.6bp)  .. (374.22bp,2031.5bp);
+  % Edge: beta_normal -> beta
+  \draw [->] (304.9bp,2068.1bp) .. controls (306.11bp,2060.3bp) and (307.55bp,2050.9bp)  .. (310.48bp,2031.9bp);
+  % Edge: gamma_normal -> gamma
+  \draw [->] (43.506bp,2067.7bp) .. controls (43.31bp,2060.1bp) and (43.079bp,2051.1bp)  .. (42.596bp,2032.2bp);
+  % Edge: delta_normal -> delta
+  \draw [->] (244.99bp,2067.7bp) .. controls (245.38bp,2060.1bp) and (245.84bp,2051.1bp)  .. (246.81bp,2032.2bp);
+  % Edge: lambda_normal -> lambd
+  \draw [->] (424.49bp,2068.9bp) .. controls (427.52bp,2060.5bp) and (431.2bp,2050.2bp)  .. (438.14bp,2030.9bp);
+  % Edge: phi_normal -> phi
+  \draw [->] (480.66bp,2068.4bp) .. controls (485.07bp,2047.3bp) and (489.56bp,2011.9bp)  .. (479.0bp,1984.0bp) .. controls (460.71bp,1935.6bp) and (416.26bp,1893.3bp)  .. (379.04bp,1863.0bp);
+  % Edge: alpha -> val
+  \draw [->] (361.5bp,1992.4bp) .. controls (356.95bp,1989.3bp) and (351.95bp,1986.3bp)  .. (347.0bp,1984.0bp) .. controls (289.02bp,1957.3bp) and (265.14bp,1976.4bp)  .. (208.0bp,1948.0bp) .. controls (207.7bp,1947.8bp) and (207.39bp,1947.7bp)  .. (198.58bp,1942.1bp);
+  % Edge: beta -> val
+  \draw [->] (295.13bp,1993.1bp) .. controls (290.59bp,1990.0bp) and (285.69bp,1986.8bp)  .. (281.0bp,1984.0bp) .. controls (249.85bp,1965.6bp) and (238.57bp,1967.3bp)  .. (208.0bp,1948.0bp) .. controls (207.71bp,1947.8bp) and (207.43bp,1947.6bp)  .. (198.88bp,1941.6bp);
+  % Edge: gamma -> w_prob
+  \draw [->] (59.405bp,1990.8bp) .. controls (72.34bp,1978.8bp) and (90.08bp,1962.4bp)  .. (111.69bp,1942.3bp);
+  % Edge: delta -> w_prob
+  \draw [->] (229.56bp,1992.2bp) .. controls (225.8bp,1989.4bp) and (221.83bp,1986.5bp)  .. (218.0bp,1984.0bp) .. controls (191.14bp,1966.1bp) and (182.5bp,1964.8bp)  .. (155.0bp,1948.0bp) .. controls (153.55bp,1947.1bp) and (152.07bp,1946.2bp)  .. (142.15bp,1939.8bp);
+  % Edge: phi -> choice
+  \draw [->] (338.17bp,1837.4bp) .. controls (305.67bp,1823.2bp) and (244.6bp,1796.4bp)  .. (199.97bp,1776.9bp);
+  % Edge: lambd -> val
+  \draw [->] (427.63bp,1992.1bp) .. controls (423.07bp,1989.0bp) and (418.04bp,1986.1bp)  .. (413.0bp,1984.0bp) .. controls (327.49bp,1948.7bp) and (292.4bp,1985.9bp)  .. (208.0bp,1948.0bp) .. controls (207.58bp,1947.8bp) and (207.15bp,1947.6bp)  .. (198.22bp,1942.1bp);
+  % Edge: hyper_mu_sd -> alpha_normal
+  \draw [->] (292.35bp,2196.3bp) .. controls (304.93bp,2192.3bp) and (320.83bp,2185.3bp)  .. (331.0bp,2174.0bp) .. controls (344.94bp,2158.5bp) and (352.23bp,2136.0bp)  .. (357.86bp,2108.1bp);
+  % Edge: hyper_mu_sd -> beta_normal
+  \draw [->] (277.79bp,2182.5bp) .. controls (282.39bp,2164.8bp) and (289.39bp,2137.7bp)  .. (297.2bp,2107.5bp);
+  % Edge: hyper_mu_sd -> gamma_normal
+  \draw [->] (252.92bp,2200.9bp) .. controls (207.61bp,2200.4bp) and (99.222bp,2196.6bp)  .. (72.0bp,2174.0bp) .. controls (55.638bp,2160.4bp) and (48.768bp,2137.0bp)  .. (44.687bp,2108.1bp);
+  % Edge: hyper_mu_sd -> delta_normal
+  \draw [->] (268.21bp,2182.5bp) .. controls (263.61bp,2164.8bp) and (256.61bp,2137.7bp)  .. (248.8bp,2107.5bp);
+  % Edge: hyper_mu_sd_exp -> lambda_normal
+  \draw [->] (442.21bp,2182.5bp) .. controls (437.61bp,2164.8bp) and (430.61bp,2137.7bp)  .. (422.8bp,2107.5bp);
+  % Edge: hyper_mu_sd_exp -> phi_normal
+  \draw [->] (451.79bp,2182.5bp) .. controls (456.39bp,2164.8bp) and (463.39bp,2137.7bp)  .. (471.2bp,2107.5bp);
+  % Node: val
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (184.0bp,1928.0bp) ellipse (20.0bp and 20.0bp);
+  \draw (184.0bp,1928.0bp) node[font=\small] {$v(x_{it})$};
+\end{scope}
+  % Node: EV
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (180.0bp,1848.0bp) ellipse (20.0bp and 20.0bp);
+  \draw (180.0bp,1848.0bp) ellipse (24.0bp and 24.0bp);
+  \draw (180.0bp,1848.0bp) node[font=\small] {$V(O)$};
+\end{scope}
+  % Node: w_prob
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (126.0bp,1928.0bp) ellipse (20.0bp and 20.0bp);
+  \draw (126.0bp,1928.0bp) node[font=\small] {$\pi(p_{it})$};
+\end{scope}
+  % Node: choice
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (182.0bp,1768.0bp) ellipse (20.0bp and 20.0bp);
+  \draw (182.0bp,1768.0bp) node[font=\small] {$p_{it}(A,B)$};
+\end{scope}
+  % Node: choice_data
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \definecolor{fillcol}{rgb}{0.75,0.75,0.75};
+  \pgfsetfillcolor{fillcol}
+  \filldraw (202.0bp,1712.0bp) -- (162.0bp,1712.0bp) -- (162.0bp,1672.0bp) -- (202.0bp,1672.0bp) -- cycle;
+  \draw (182.0bp,1692.0bp) node[font=\small] {$Choice_{it}$};
+\end{scope}
+  % Node: x
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \definecolor{fillcol}{rgb}{0.75,0.75,0.75};
+  \pgfsetfillcolor{fillcol}
+  \filldraw [opacity=1] (145.0bp,2088.0bp) ellipse (20.0bp and 20.0bp);
+  \draw (145.0bp,2088.0bp) node[font=\small] {$x_{it}$};
+\end{scope}
+  % Node: c
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (106.0bp,2008.0bp) ellipse (20.0bp and 20.0bp);
+  \draw (106.0bp,2008.0bp) node[font=\small] {$c_{it}$};
+\end{scope}
+  % Node: p
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \definecolor{fillcol}{rgb}{0.75,0.75,0.75};
+  \pgfsetfillcolor{fillcol}
+  \filldraw [opacity=1] (164.0bp,2008.0bp) ellipse (20.0bp and 20.0bp);
+  \draw (164.0bp,2008.0bp) node[font=\small] {$p_{it}$};
+\end{scope}
+  % Node: alpha_normal
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (360.0bp,2088.0bp) ellipse (20.0bp and 20.0bp);
+  \draw (360.0bp,2088.0bp) node[font=\small] {$\alpha_{N_i}$};
+\end{scope}
+  % Node: alpha
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (380.0bp,2008.0bp) ellipse (20.0bp and 20.0bp);
+  \draw (380.0bp,2008.0bp) ellipse (24.0bp and 24.0bp);
+  \draw (380.0bp,2008.0bp) node[font=\small] {$\alpha_i$};
+\end{scope}
+  % Node: beta_normal
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (302.0bp,2088.0bp) ellipse (20.0bp and 20.0bp);
+  \draw (302.0bp,2088.0bp) node[font=\small] {$\beta_{N_i}$};
+\end{scope}
+  % Node: beta
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (314.0bp,2008.0bp) ellipse (20.0bp and 20.0bp);
+  \draw (314.0bp,2008.0bp) ellipse (24.0bp and 24.0bp);
+  \draw (314.0bp,2008.0bp) node[font=\small] {$\beta_i$};
+\end{scope}
+  % Node: gamma_normal
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (44.0bp,2088.0bp) ellipse (20.0bp and 20.0bp);
+  \draw (44.0bp,2088.0bp) node[font=\small] {$\gamma_{N_i}$};
+\end{scope}
+  % Node: gamma
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (42.0bp,2008.0bp) ellipse (20.0bp and 20.0bp);
+  \draw (42.0bp,2008.0bp) ellipse (24.0bp and 24.0bp);
+  \draw (42.0bp,2008.0bp) node[font=\small] {$\gamma_i$};
+\end{scope}
+  % Node: delta_normal
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (244.0bp,2088.0bp) ellipse (20.0bp and 20.0bp);
+  \draw (244.0bp,2088.0bp) node[font=\small] {$\delta_{N_i}$};
+\end{scope}
+  % Node: delta
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (248.0bp,2008.0bp) ellipse (20.0bp and 20.0bp);
+  \draw (248.0bp,2008.0bp) ellipse (24.0bp and 24.0bp);
+  \draw (248.0bp,2008.0bp) node[font=\small] {$\delta_i$};
+\end{scope}
+  % Node: lambda_normal
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (418.0bp,2088.0bp) ellipse (20.0bp and 20.0bp);
+  \draw (418.0bp,2088.0bp) node[font=\small] {$\lambda_{N_i}$};
+\end{scope}
+  % Node: lambd
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (446.0bp,2008.0bp) ellipse (20.0bp and 20.0bp);
+  \draw (446.0bp,2008.0bp) ellipse (24.0bp and 24.0bp);
+  \draw (446.0bp,2008.0bp) node[font=\small] {$\lambda_i$};
+\end{scope}
+  % Node: phi_normal
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (476.0bp,2088.0bp) ellipse (20.0bp and 20.0bp);
+  \draw (476.0bp,2088.0bp) node[font=\small] {$\phi_{N_i}$};
+\end{scope}
+  % Node: phi
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (360.0bp,1848.0bp) ellipse (20.0bp and 20.0bp);
+  \draw (360.0bp,1848.0bp) ellipse (24.0bp and 24.0bp);
+  \draw (360.0bp,1848.0bp) node[font=\small] {$\phi_i$};
+\end{scope}
+  % Node: hyper_mu_sd
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (273.0bp,2202.0bp) ellipse (20.0bp and 20.0bp);
+  \draw (273.0bp,2202.0bp) node[font=\small] {$(\mu,\sigma)$};
+\end{scope}
+  % Node: hyper_mu_sd_exp
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (447.0bp,2202.0bp) ellipse (20.0bp and 20.0bp);
+  \draw (447.0bp,2202.0bp) node[font=\small] {$(\mu_l,\sigma_l)$};
+\end{scope}
+  % Node: choice_data_dist
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (182.0bp,1616.0bp) node[font=\small] {$Choice_{it} \sim Bernoulli(p_{it}(A,B))$};
+\end{scope}
+  % Node: hyper_mu_dist
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (182.0bp,1540.0bp) node[font=\small] {$\mu \sim Normal(0,1)$};
+\end{scope}
+  % Node: hyper_sd_dist
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (182.0bp,1464.0bp) node[font=\small] {$\sigma \sim Uniform(0,10)$};
+\end{scope}
+  % Node: hyper_mu_dist_exp
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (182.0bp,1388.0bp) node[font=\small] {$\mu_l \sim Uniform(-2.3,1.61)$};
+\end{scope}
+  % Node: hyper_sd_dist_exp
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (182.0bp,1312.0bp) node[font=\small] {$\sigma_l \sim Uniform(0,1.13)$};
+\end{scope}
+  % Node: alpha_normal_dist
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (182.0bp,1236.0bp) node[font=\small] {$\alpha_{N_i} \sim Normal(\mu,\sigma)[-3,3]$};
+\end{scope}
+  % Node: alpha_dist
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (182.0bp,1160.0bp) node[font=\small] {$\alpha_i \sim Std-Normal_{CDF}(\alpha_{N_i})$};
+\end{scope}
+  % Node: beta_normal_dist
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (182.0bp,1084.0bp) node[font=\small] {$\beta_{N_i} \sim Normal(\mu,\sigma)[-3,3]$};
+\end{scope}
+  % Node: beta_dist
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (182.0bp,1008.0bp) node[font=\small] {$\beta_i \sim Std-Normal_{CDF}(\beta_{N_i})$};
+\end{scope}
+  % Node: gamma_normal_dist
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (182.0bp,932.0bp) node[font=\small] {$\gamma_{N_i} \sim Normal(\mu,\sigma)[-3,3]$};
+\end{scope}
+  % Node: gamma_dist
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (182.0bp,856.0bp) node[font=\small] {$\gamma_i \sim Std-Normal_{CDF}(\gamma_{N_i})$};
+\end{scope}
+  % Node: delta_normal_dist
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (182.0bp,780.0bp) node[font=\small] {$\delta_{N_i} \sim Normal(\mu,\sigma)[-3,3]$};
+\end{scope}
+  % Node: delta_dist
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (182.0bp,704.0bp) node[font=\small] {$\delta_i \sim Std-Normal_{CDF}(\delta_{N_i})$};
+\end{scope}
+  % Node: lambda_normal_dist
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (182.0bp,628.0bp) node[font=\small] {$\lambda_{N_i} \sim Normal(\mu_l,\sigma_l)$};
+\end{scope}
+  % Node: lambda_dist
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (182.0bp,552.0bp) node[font=\small] {$\lambda_i \sim e^{\lambda_{N_i}}$};
+\end{scope}
+  % Node: phi_normal_dist
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (182.0bp,476.0bp) node[font=\small] {$\phi_{N_i} \sim Normal(\mu_l,\sigma_l)$};
+\end{scope}
+  % Node: phi_dist
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (182.0bp,400.0bp) node[font=\small] {$\phi_i \sim e^{\phi_{N_i}}$};
+\end{scope}
+  % Node: val_dist
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (182.0bp,324.0bp) node[font=\small] {$v(x_{it}) = \left\lbrace \parbox{7cm}{$x_{it}^{\alpha_i} \;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\; x_{it} \ge 0$ \\ \\ $-\lambda_i(-x_{it})^{\beta} \;\;\;\; x_{it} <0 $} \right.$};
+\end{scope}
+  % Node: c_dist
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (182.0bp,248.0bp) node[font=\small] {$c_{it} = \left\lbrace \parbox{7cm}{$\gamma_i \;\;\;\;\;\; x_{it} \ge 0$ \\ \\ $\delta_i \;\;\;\;\;\; x_{it} <0 $} \right.$};
+\end{scope}
+  % Node: w_prob_dist
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (182.0bp,172.0bp) node[font=\small] {$\pi(p_{it})= \frac{p_{it}^c}{(p_{it}^c-(1-p_{it}^c))^{1/c}}$};
+\end{scope}
+  % Node: EV_dist
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (182.0bp,96.0bp) node[font=\small] {$V(O) = \pi(p_{it_A})v(x_{it_A}) + \pi(p_{it_B})v(x_{it_B})$};
+\end{scope}
+  % Node: choice_dist
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (182.0bp,20.0bp) node[font=\small] {$p_{it}(A,B) = \frac{1}{1+e^{\phi (V(B_t)-V(A_t))}}$};
+\end{scope}
+%
+\end{tikzpicture}
+% End of code
+
+%
+\end{document}
+%
+
+

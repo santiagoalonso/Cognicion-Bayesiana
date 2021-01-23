@@ -1,0 +1,283 @@
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Inzane Syllabus Template
+% LaTeX Template
+% Version 1.2 (8.22.2019)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Carmine Spagnuolo (cspagnuolo@unisa.it) with major modifications by 
+% Zane Wolf (zwolf.mlxvi@gmail.com)
+%
+% I (Zane) have left a lot of instructions both in the .tex file and the .cls file that can guide you to customize this document to suite your tastes and requirements. Here is a brief guide: 
+%  - Changing the Main Color: .cls line 39
+%  - Adding more FAQs: .cls line 126 and .tex line 99
+%  - Adding TA emails: uncomment .cls lines 220 & 224 and .tex lines 85 and 89
+%  - Deleting the FAQ sidebar entirely: .tex line 188
+%  - Removing the Lab/TA Info and placing a brief Overview/About section in their place:        uncomment .tex line 91 and .cls line 227, and comment .cls lines for the LAB/TA info        that you no longer want (c. lines 184-227)
+
+%
+% I am also happy to help with crafting/designing modifications to this template to help suite your personal needs in a syllabus. Feel free to reach out! 
+%
+% License:
+% The MIT License (see included LICENSE file)
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[letterpaper]{inzane_syllabus} % a4paper for A4
+
+\usepackage{booktabs, colortbl, xcolor}
+\usepackage{tabularx}
+\usepackage{enumitem}
+\usepackage{ltablex} 
+\usepackage{multirow}
+
+\setlist{nolistsep}
+
+\usepackage{lscape}
+\newcolumntype{r}{>{\hsize=0.9\hsize}X}
+\newcolumntype{w}{>{\hsize=0.6\hsize}X}
+\newcolumntype{m}{>{\hsize=.9\hsize}X}
+
+\renewcommand{\familydefault}{\sfdefault}
+\renewcommand{\arraystretch}{2.0}
+%----------------------------------------------------------------------------------------
+%	 PERSONAL INFORMATION
+%----------------------------------------------------------------------------------------
+
+\profilepic{ai.png} % Profile picture, if the height of the picture is less than that of the cirle, it will have a flat bottom. 
+
+
+% To remove any of the following, you need to comment/delete the lines in the .cls file (c. line 186). Commenting/deleting the lines below will produce an error. 
+
+%To add different lines, you will need to create the new command, e.g. \profPhone, in the .cls file c. line 76, and command to create the line in the side bar in the .cls file c. line 186
+
+\classname{Cognici\'on \\ Bayesiana} 
+\classnum{ECON 1122} 
+
+%%%%%%%%%%%%%%% PROF INFO
+\profname{Santiago Alonso-D\'iaz}
+\officehours{Atenci\'on: Martes \& Jueves 2-3p} 
+\office{Edificio 20, piso 7}
+\site{github.com/santiagoalonso} 
+\email{alonsosantiago@javeriana.edu.co}
+
+%%%%%%%%%%%%%%% COURSE  INFO
+\prereq{Prereq: Prob., Cálculo Dif. e Int.}
+\classdays{Martes \& Jueves}
+\classhours{11a-12.30p}
+\classloc{Edificio 3, 434}
+
+%%%%%%%%%%%%%%% LAB INFO
+\labdays{Wed \& Fri}
+\labhours{2-5p}
+\labloc{Lab Space}
+
+%%%%%%%%%%%%%%% TA INFO
+\taAname{Alice}
+\taAofficehours{Office Hrs: Tues \& Thurs 10-11a}
+\taAoffice{MCZ 104}
+% \taAemail{}
+\taBname{James}
+\taBofficehours{Office Hrs: Tues \& Thurs 3-4p}
+\taBoffice{MCZ 104}
+% \taBemail{}
+
+% \about{Fish make up the largest group of vertebrates on the planet, easily outnumbering mammals, marsupials, birds, and reptiles combined. Not only are they abundant, but they've diversified into an extraordinary array of sizes, shapes, lifestyles, and habitats. You can find them in the coldest, deepest parts of the ocean, and in the hottest freshwater ponds in the desert. This course will explore fish diversity and their biology. } 
+
+
+%---------------------------------------------------------------------------------------
+%	 FAQs
+%----------------------------------------------------------------------------------------
+%to add more questions or remove this section, go to the .cls file and start with lines comment
+%lines 226-250. Also comment out this section as well as line 152(ish), the command \makeSide
+
+\qOne{Do we dissect real fish in this course?}
+\aOne{Yes, we do actually dissect fish. If you know of any issues that may cause you difficulties during dissections, please notify your TA ASAP.}
+
+\qTwo{What is a fish?}
+\aTwo{No clue. When someone says `fish', we have a picture of a general fish of a general shape in our minds, but the truth is that `fish' doesn't have scientific meaning. Here's a funny video about that: \href{https://youtu.be/uhwcEvMJz1Y}{Youtube (hyperlink)}. }
+
+\qThree{What is your favorite fish?}
+\aThree{A lumpsucker. They are incredibly, adorably weird-looking.}
+
+\qFour{What's the difference between plural `fish' and `fishes'?}
+\aFour{`Fish' is the plural form when talking about two or more fish of the same species. `Fishes' is the plural when talking about two or more different species.}
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	 DESCRIPTION
+%----------------------------------------------------------------------------------------
+
+\makeprofile % Print the sidebar
+
+%----------------------------------------------------------------------------------------
+%	 OVERVIEW
+%----------------------------------------------------------------------------------------
+
+\section{Descripci\'on \& Objetivos de Formaci\'on}
+
+Las aproximaciones Bayesianas se han vuelto est\'andar en muchas ciencias. Econom\'ia, ciencia cognitiva, inteligencia artificial, y muchas otras usan soluciones inspiradas en Bayes. Una de sus fortalezas es que nos permite inferir distribuciones de variables latentes a partir de observables. Por ejemplo, no podemos observar la utilidad subjetiva de una actividad (estudiar ciencia cognitiva), pero s\'i inferirla del contexto, acciones, y otras variables medibles. Para inferir variables cognitivas latentes, tenemos que proponer un modelo generativo. En este curso se dar\'an bases conceptuales y computacionales para hacerlo. Ser\'a un curso pr\'actico e introductorio donde el estudiante obtendr\'a conocimientos para estructurar hip\'otesis y plasmarlas en modelos gr\'aficos. Es interdisciplinar: estudiantes de diferentes \'areas son bienvenidos. No se requiere conocimiento previo de programaci\'on ni de teor\'ia Bayesiana, se dar\'an las herramientas necesarias.
+
+
+%----------------------------------------------------------------------------------------
+%	 READING MATERIAL
+%----------------------------------------------------------------------------------------
+\vspace{0.75cm} %I make liberal use of the \vspace{} command to partition and place sections just how I want them. Alter as you see fit. 
+\section{Material}
+
+{\color{myCOLOR}  Libros de texto}\\
+
+Davidson-Pilon, C. (2015). \textit{Bayesian methods for hackers: probabilistic programming and Bayesian inference}. Addison-Wesley Professional.\\
+
+Gelman, A., Carlin, J. B., Stern, H. S., Dunson, D. B., Vehtari, A., \& Rubin, D. B. (2013). \textit{Bayesian data analysis}. CRC press.\\
+
+Kruschke, J. (2014). \textit{Doing Bayesian data analysis: A tutorial with R, JAGS, and Stan}. Academic Press.\\
+
+Lee, M. D., \& Wagenmakers, E. J. (2014). \textit{Bayesian cognitive modeling: A practical course}. Cambridge University Press. \\
+
+
+{\color{myCOLOR} Otras referencias}\\
+
+Art\'iculos de revistas acad\'emicas y cap\'itulos de libros (durante el curso se dar\'an m\'as detalles)
+
+%----------------------------------------------------------------------------------------
+%	 GRADING SCHEME
+%----------------------------------------------------------------------------------------
+\vspace{0.75cm}
+\section{Calificaciones}
+
+%below is the \twentyshort environment - a list with only two inputs. However, there is a \twenty environment, which creates a list with four inputs. You can find/alter details of that table in the .cls file c. lines 320. 
+\begin{twentyshort}
+	%\twentyitemshort{X\%}{Attendance/Participation}
+	\twentyitemshort{33\%}{Presentaci\'on de un paper}
+	\twentyitemshort{33\%}{Talleres}
+    	\twentyitemshort{34\%}{Propuesta de modelo gr\'afico}
+\end{twentyshort}
+
+ \subsection{Presentaci\'on de un paper}
+El profesor dar\'a a los estudiantes papers con modelos cognitivos bayesianos para presentar. Debe ser una presentaci\'on fiel al paper. El objetivo de la actividad es entender el modelo de otra persona (s)
+
+\subsection{Talleres}
+ El estudiante resolver\'a ejercicios de programaci\'on relacionados con el curso. No se requiere conocimiento previo de programaci\'on. Los talleres ayudar\'an en este aprendizaje. 
+ 
+\subsection{Propuesta de modelo}
+Proponer un modelo cognitivo de alg\'un tema de inter\'es (propuesto por el profesor o el estudiante). El objetivo es poner en un modelo \textit{gr\'afico} ideas e hip\'otesis causales, y justificarlas. No es necesario tener un modelo funcional con c\'odigo (aunque ser\'ia un reto interesante para el estudiante que as\'i lo desee).
+
+\vspace{0.75cm}
+\section{Estrategias Pedag\'ogicas}
+
+El profesor presenta la teor\'ia en formato cátedra, apoyado en implementaciones en un lenguaje de programaci\'on (Python/R). No se requiere conocimiento previo en programaci\'on. Habr\'a tutoriales y talleres con ejercicios.  
+
+Los estudiante har\'an parte activa con una presentaci\'on en clase de un art\'iculo acad\'emico con un modelo cognitivo. El art\'iculo es asignado por el profesor. 
+
+\vspace{0.75cm}
+\section{Resultados de Aprendizaje Esperados (RAE)}
+
+%use \begin{outline} or \begin{outline}[enumerate] to create a list with subitems. 
+\begin{itemize}
+\item Manejar conceptos claves de la teoría bayesiana como posteriors, priors, likelihood, marginales, modelos generativos, entre otros.
+\item Diagramar modelos generativos, justificando cualquier conexi\'on y nodo con argumentos
+\item Familiarizarse con herramientas computacionales para hacer inferencia bayesiana (PyMC, Stan, Edward)
+\item Entrenar habilidades blandas, en particular presentaci\'on en p\'ublico de modelos formales
+
+\end{itemize}
+
+\vspace{0.75cm}
+\section{Fechas (siguiente p\'agina)}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                COURSE SCHEDULE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\newpage
+\makeFullPage
+\section{Fechas FALTA LOS TALLERES EN EL CALENDARIO}
+
+\begin{center}
+\begin{tabularx}{\textwidth}{p{2cm}p{8cm}p{9.5cm}} %change the width of the comments by changing these cm measurements. Add/substract columns by adding/deleting p{} sections. 
+\arrayrulecolor{myCOLOR}\hline
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% MODULE 1
+\multicolumn{3}{l}{\textbf{\textcolor{myCOLOR}{\large MODULO 1: Introducci\'on a an\'alisis bayesianos }}} \\
+\hline
+% Week & Topic & Readings \\ \hline 
+%%Alternatively, instead of Week #, you can do Class date for meeting
+Semana 1 & Ciencia cognitiva bayesiana & Jacobs, R. A., \& Kruschke, J. K. (2011). Bayesian learning theory applied to human cognition. Wiley Interdisciplinary Reviews: Cognitive Science, 2(1), 8-21. \\
+& & Tutorial: Intro. Python\\  
+
+\arrayrulecolor{maingray}\hline
+Semana 2 & Conociendo a Bayes & Gelman, et al, (2013): Cap\'itulo 1 \& 2 \\ & & Kruschke, J. (2014): Cap\'itulo 4, 5 \& 6 \\ 
+&  & Davidson-Pilon, C. (2015): Cap\'itulo 1 \\ & &Tutorial:  Intro. Python \\ 
+
+
+\arrayrulecolor{maingray}\hline
+Semana 3 & Métodos computacionales 1: Intro.  & Gelman, et al, (2013): Cap\'itulo 11 \\ & & Kruschke, J. (2014): Cap\'itulo 7 \\ &  & Tutorial:  Intro. Python \\ 
+
+\arrayrulecolor{maingray}\hline
+Semana 4 & Métodos computacionales 2: Herramientas 1  & Davidson-Pilon, C. (2015): Capítulo 1 \& 2. \\ &  & Tutorial:  Python Prob. Prog. \\ 
+
+\arrayrulecolor{maingray}\hline
+Semana 5 & Métodos computacionales 2: Herramientas 2  & Davidson-Pilon, C. (2015): Capítulo 1 \& 2. \\ &  & Tutorial:  Python Prob. Prog. \\ 
+
+\arrayrulecolor{maingray}\hline
+Semana 6 &  Comparaci\'on de modelos 1  & Gelman, et al, (2013): Cap\'itulo 5 \\ & & Kruschke, J. (2014): Cap\'itulo 9 \\  & & Tutorial: Python Prob. Prog. \\
+
+\arrayrulecolor{maingray}\hline
+Semana 7 & Comparaci\'on de modelos 2 & Gelman, et al, (2013): Cap\'itulo 6, 7 \& 14 \\ & & Kruschke, J. (2014): Cap\'itulo 10 \\ & & Tutorial:  Python Prob. Prog. \\
+
+
+ \arrayrulecolor{myCOLOR}\hline
+\multicolumn{2}{l}{\textbf{\textcolor{myCOLOR}{\large MODULO 2:  Cognici\'on Bayesiana }}} \\
+\hline
+ Semana 8 & Decisiones de riesgo 1 & Lee, M. D., \& Wagenmakers, E. J. (2014): Cap\'itulo: 16 \\ & & Python: Python Prob. Prog. \\
+ 
+ \arrayrulecolor{maingray}\hline
+Semana 9 & Decisiones de riesgo 2 & Alonso-Díaz, et. al. (2018). \\ & & Python: Python Prob. Prog. \\
+
+\arrayrulecolor{maingray}\hline
+Semana 10 & Heur\'isticas  & Lee, M. D., \& Wagenmakers, E. J. (2014): Cap\'itulo: 18 \\ & & Parpart, Paula (2018) \\ & & Python: Python Prob. Prog. \\
+
+\arrayrulecolor{maingray}\hline
+Semana 11 & Sesgos \& discriminabilidad 1 & Wagenmakers, E. J. (2014): Cap\'itulo: 11  \\ & & Python: Python Prob. Prog. \\
+
+\arrayrulecolor{maingray}\hline
+Semana 12 & Sesgos \& discriminabilidad 2 & Wagenmakers, E. J. (2014): Cap\'itulo: 12  \\ & & Python: Python Prob. Prog. \\
+
+\arrayrulecolor{maingray}\hline
+Semana 13 & Cognici\'on num\'erica o BAYES DRIFT DIFFUSION & Wagenmakers, E. J. (2014): Cap\'itulo: 19; Wiecki Marcus (2013)  \\ & & Python: Python Prob. Prog. \\
+
+ \arrayrulecolor{maingray}\hline
+Semana 14 & Cognici\'on num\'erica 2 & Alonso-Díaz, et. al. (2018). \\ & & Python: Python Prob. Prog. \\
+
+
+\arrayrulecolor{maingray}\hline
+Semana 14 & Bounded Rationality O Bayesian reinforced learning (PUEDE SER DOS SEMANAS) \& Information & Gottwald \& Braun (2019); Dorfman, et al, (2019); Liquin, et al, cogsci2020, liyu Xia, et al, cogsci2020 \\  
+
+\arrayrulecolor{maingray}\hline
+Semana 14 & Human inquiries/Curiosity O Bayesian Theory of the Mind  & Coenen, Nelson, \& Gureckis (2018); Baker, Jara-Ettinger, et al (2017); Dubey, Griffiths (2019);  \\  
+
+
+\arrayrulecolor{maingray}\hline
+Semana 15 & Presentaci\'on de estudiantes \\
+
+\arrayrulecolor{maingray}\hline
+Semana 16 & Reflexiones finales: IA e incertidumbre \\
+\hline
+
+\end{tabularx}
+\end{center}
+
+
+%----------------------------------------------------------------------------------------
+
+\end{document} 
+
+

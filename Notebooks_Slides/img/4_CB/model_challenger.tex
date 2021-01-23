@@ -1,0 +1,114 @@
+\documentclass{article}
+\usepackage[x11names, svgnames, rgb]{xcolor}
+\usepackage[utf8]{inputenc}
+\usepackage{tikz}
+\usetikzlibrary{snakes,arrows,shapes}
+\usepackage{amsmath}
+%
+%
+
+\usepackage[active,tightpage]{preview}
+\PreviewEnvironment{tikzpicture}
+\setlength\PreviewBorder{0pt}%
+
+%
+
+\begin{document}
+\pagestyle{empty}
+%
+%
+%
+
+\enlargethispage{100cm}
+% Start of code
+% \begin{tikzpicture}[anchor=mid,>=latex',line join=bevel,]
+\begin{tikzpicture}[>=latex',line join=bevel,]
+  \pgfsetlinewidth{1bp}
+%%
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (72.0bp,487.5bp) node {Challenger};
+\end{scope}
+  \pgfsetcolor{black}
+  % Edge: beta -> p
+  \draw [->] (28.157bp,443.08bp) .. controls (35.287bp,433.31bp) and (45.025bp,419.97bp)  .. (59.417bp,400.24bp);
+  % Edge: p -> obs
+  \draw [->] (72.0bp,359.99bp) .. controls (72.0bp,352.06bp) and (72.0bp,342.91bp)  .. (72.0bp,324.31bp);
+  % Edge: alpha -> p
+  \draw [->] (72.0bp,439.84bp) .. controls (72.0bp,432.16bp) and (72.0bp,422.88bp)  .. (72.0bp,404.03bp);
+  % Edge: temp -> p
+  \draw [->] (115.84bp,443.08bp) .. controls (108.71bp,433.31bp) and (98.975bp,419.97bp)  .. (84.583bp,400.24bp);
+  % Node: beta
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (18.0bp,458.0bp) ellipse (18.0bp and 18.0bp);
+  \draw (18.0bp,458.0bp) node[font=\small] {$\beta$};
+\end{scope}
+  % Node: p
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (72.0bp,382.0bp) ellipse (18.0bp and 18.0bp);
+  \draw (72.0bp,382.0bp) ellipse (22.0bp and 22.0bp);
+  \draw (72.0bp,382.0bp) node[font=\small] {$p$};
+\end{scope}
+  % Node: obs
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \definecolor{fillcol}{rgb}{0.75,0.75,0.75};
+  \pgfsetfillcolor{fillcol}
+  \filldraw (90.0bp,324.0bp) -- (54.0bp,324.0bp) -- (54.0bp,288.0bp) -- (90.0bp,288.0bp) -- cycle;
+  \draw (72.0bp,306.0bp) node[font=\small] {Defecto};
+\end{scope}
+  % Node: alpha
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (72.0bp,458.0bp) ellipse (18.0bp and 18.0bp);
+  \draw (72.0bp,458.0bp) node[font=\small] {$\alpha$};
+\end{scope}
+  % Node: temp
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \definecolor{fillcol}{rgb}{0.75,0.75,0.75};
+  \pgfsetfillcolor{fillcol}
+  \filldraw [opacity=1] (126.0bp,458.0bp) ellipse (18.0bp and 18.0bp);
+  \draw (126.0bp,458.0bp) node[font=\small] {Clima};
+\end{scope}
+  % Node: beta_dist
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (72.0bp,234.0bp) node[font=\small] {$\beta \sim  Normal(\mu=0, \sigma^2=1000)$};
+\end{scope}
+  % Node: alpha_dist
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (72.0bp,162.0bp) node[font=\small] {$\alpha \sim  Normal(\mu=0, \sigma^2=1000)$};
+\end{scope}
+  % Node: p_dist
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (72.0bp,90.0bp) node[font=\small] {$p = \frac{1}{1+e^{\beta \times \text{Clima} + \alpha}}$};
+\end{scope}
+  % Node: obs_dist
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (72.0bp,18.0bp) node[font=\small] {$Defecto \sim Bernoulli(p)$};
+\end{scope}
+%
+\end{tikzpicture}
+% End of code
+
+%
+\end{document}
+%
+
+

@@ -1,0 +1,65 @@
+\documentclass{article}
+\usepackage[x11names, svgnames, rgb]{xcolor}
+\usepackage[utf8]{inputenc}
+\usepackage{tikz}
+\usetikzlibrary{snakes,arrows,shapes}
+\usepackage{amsmath}
+%
+%
+
+\usepackage[active,tightpage]{preview}
+\PreviewEnvironment{tikzpicture}
+\setlength\PreviewBorder{0pt}%
+
+%
+
+\begin{document}
+\pagestyle{empty}
+%
+%
+%
+
+\enlargethispage{100cm}
+% Start of code
+% \begin{tikzpicture}[anchor=mid,>=latex',line join=bevel,]
+\begin{tikzpicture}[>=latex',line join=bevel,]
+  \pgfsetlinewidth{1bp}
+%%
+\pgfsetcolor{black}
+  % Edge: a1 -> a1
+  \draw [->] (11.707bp,38.057bp) .. controls (10.374bp,47.963bp) and (12.755bp,57.085bp)  .. (18.848bp,57.085bp) .. controls (22.657bp,57.085bp) and (25.015bp,53.522bp)  .. (25.989bp,38.057bp);
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (18.848bp,64.585bp) node[font=\small] {0};
+  % Edge: a1 -> a2
+  \draw [->] (37.706bp,20.237bp) .. controls (47.297bp,20.237bp) and (59.346bp,20.237bp)  .. (80.486bp,20.237bp);
+  \draw (59.197bp,27.737bp) node[font=\small] {1};
+  % Edge: a2 -> a1
+  \draw [->] (84.316bp,8.6005bp) .. controls (76.182bp,3.3271bp) and (65.647bp,-1.2369bp)  .. (55.697bp,1.2369bp) .. controls (51.734bp,2.2221bp) and (47.728bp,3.7354bp)  .. (34.885bp,10.167bp);
+  \draw (59.197bp,8.7369bp) node[font=\normalsize] {$\frac{\theta}{1-\theta}$};
+  % Edge: a2 -> a2
+  \draw [->] (92.404bp,38.057bp) .. controls (91.071bp,47.963bp) and (93.451bp,57.085bp)  .. (99.545bp,57.085bp) .. controls (103.35bp,57.085bp) and (105.71bp,53.522bp)  .. (106.69bp,38.057bp);
+  \draw (99.545bp,64.585bp) node[font=\normalsize] {$1-\frac{\theta}{1-\theta}$};
+  % Node: a1
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (18.85bp,20.24bp) ellipse (18.7bp and 18.7bp);
+  \draw (18.848bp,20.237bp) node {$\theta$};
+\end{scope}
+  % Node: a2
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (99.54bp,20.24bp) ellipse (18.7bp and 18.7bp);
+  \draw (99.545bp,20.237bp) node {$1-\theta$};
+\end{scope}
+%
+\end{tikzpicture}
+% End of code
+
+%
+\end{document}
+%
+
+

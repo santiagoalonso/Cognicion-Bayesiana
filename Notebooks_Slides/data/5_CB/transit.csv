@@ -1,0 +1,61 @@
+category,bike_friendly,n_bikes,n_other,block
+Residential,Yes,16.0,58.0,0
+Residential,Yes,9.0,90.0,1
+Residential,Yes,10.0,48.0,2
+Residential,Yes,13.0,57.0,3
+Residential,Yes,19.0,103.0,4
+Residential,Yes,20.0,57.0,5
+Residential,Yes,18.0,86.0,6
+Residential,Yes,17.0,112.0,7
+Residential,Yes,35.0,273.0,8
+Residential,Yes,55.0,64.0,9
+Residential,No,12.0,113.0,0
+Residential,No,1.0,18.0,1
+Residential,No,2.0,14.0,2
+Residential,No,4.0,44.0,3
+Residential,No,9.0,208.0,4
+Residential,No,7.0,67.0,5
+Residential,No,9.0,29.0,6
+Residential,No,8.0,154.0,7
+Residential,No,,,8
+Residential,No,,,9
+Fairly busy,Yes,8.0,29.0,0
+Fairly busy,Yes,35.0,415.0,1
+Fairly busy,Yes,31.0,425.0,2
+Fairly busy,Yes,19.0,42.0,3
+Fairly busy,Yes,38.0,180.0,4
+Fairly busy,Yes,47.0,675.0,5
+Fairly busy,Yes,44.0,620.0,6
+Fairly busy,Yes,44.0,437.0,7
+Fairly busy,Yes,29.0,47.0,8
+Fairly busy,Yes,18.0,462.0,9
+Fairly busy,No,10.0,557.0,0
+Fairly busy,No,43.0,1258.0,1
+Fairly busy,No,5.0,499.0,2
+Fairly busy,No,14.0,601.0,3
+Fairly busy,No,58.0,1163.0,4
+Fairly busy,No,15.0,700.0,5
+Fairly busy,No,0.0,90.0,6
+Fairly busy,No,47.0,1093.0,7
+Fairly busy,No,51.0,1459.0,8
+Fairly busy,No,32.0,1086.0,9
+Busy,Yes,60.0,1545.0,0
+Busy,Yes,51.0,1499.0,1
+Busy,Yes,58.0,1598.0,2
+Busy,Yes,59.0,503.0,3
+Busy,Yes,53.0,407.0,4
+Busy,Yes,68.0,1494.0,5
+Busy,Yes,68.0,1558.0,6
+Busy,Yes,60.0,1706.0,7
+Busy,Yes,71.0,476.0,8
+Busy,Yes,63.0,752.0,9
+Busy,No,8.0,1248.0,0
+Busy,No,9.0,1246.0,1
+Busy,No,6.0,1596.0,2
+Busy,No,9.0,1765.0,3
+Busy,No,19.0,1290.0,4
+Busy,No,61.0,2498.0,5
+Busy,No,31.0,2346.0,6
+Busy,No,75.0,3101.0,7
+Busy,No,14.0,1918.0,8
+Busy,No,25.0,2318.0,9

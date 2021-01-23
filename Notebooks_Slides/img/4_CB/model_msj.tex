@@ -1,0 +1,142 @@
+\documentclass{article}
+\usepackage[x11names, svgnames, rgb]{xcolor}
+\usepackage[utf8]{inputenc}
+\usepackage{tikz}
+\usetikzlibrary{snakes,arrows,shapes}
+\usepackage{amsmath}
+%
+%
+
+\usepackage[active,tightpage]{preview}
+\PreviewEnvironment{tikzpicture}
+\setlength\PreviewBorder{0pt}%
+
+%
+
+\begin{document}
+\pagestyle{empty}
+%
+%
+%
+
+\enlargethispage{100cm}
+% Start of code
+% \begin{tikzpicture}[anchor=mid,>=latex',line join=bevel,]
+\begin{tikzpicture}[>=latex',line join=bevel,]
+  \pgfsetlinewidth{1bp}
+%%
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (131.0bp,435.0bp) node {Mensajes de Texto por Día};
+\end{scope}
+\begin{scope}
+  \pgfsetstrokecolor{black}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (134.0bp,31.5bp) .. controls (134.0bp,31.5bp) and (242.0bp,31.5bp)  .. (242.0bp,31.5bp) .. controls (248.0bp,31.5bp) and (254.0bp,37.5bp)  .. (254.0bp,43.5bp) .. controls (254.0bp,43.5bp) and (254.0bp,102.5bp)  .. (254.0bp,102.5bp) .. controls (254.0bp,108.5bp) and (248.0bp,114.5bp)  .. (242.0bp,114.5bp) .. controls (242.0bp,114.5bp) and (134.0bp,114.5bp)  .. (134.0bp,114.5bp) .. controls (128.0bp,114.5bp) and (122.0bp,108.5bp)  .. (122.0bp,102.5bp) .. controls (122.0bp,102.5bp) and (122.0bp,43.5bp)  .. (122.0bp,43.5bp) .. controls (122.0bp,37.5bp) and (128.0bp,31.5bp)  .. (134.0bp,31.5bp);
+  \draw (132.0bp,103.0bp) node {\;\;\;\;\;\;\;\; $d$ Días};
+\end{scope}
+  \pgfsetcolor{black}
+  % Edge: lambda -> dias
+  \draw [->] (167.04bp,61.5bp) .. controls (174.78bp,61.5bp) and (184.11bp,61.5bp)  .. (202.94bp,61.5bp);
+  % Edge: alpha -> lambda_a
+  \draw [->] (28.249bp,89.357bp) .. controls (36.276bp,92.415bp) and (46.857bp,96.445bp)  .. (65.77bp,103.65bp);
+  % Edge: alpha -> lambda_b
+  \draw [->] (28.249bp,79.846bp) .. controls (36.17bp,76.954bp) and (46.579bp,73.154bp)  .. (65.336bp,66.306bp);
+  % Edge: lambda_a -> lambda
+  \draw [->] (91.866bp,100.53bp) .. controls (100.7bp,94.327bp) and (113.26bp,85.518bp)  .. (132.54bp,71.991bp);
+  % Edge: lambda_b -> lambda
+  \draw [->] (94.058bp,61.5bp) .. controls (101.48bp,61.5bp) and (110.95bp,61.5bp)  .. (129.89bp,61.5bp);
+  % Edge: tau -> lambda
+  \draw [->] (94.058bp,24.011bp) .. controls (102.69bp,30.069bp) and (114.11bp,38.077bp)  .. (132.56bp,51.022bp);
+  % Node: lambda
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (148.5bp,61.5bp) ellipse (14.5bp and 14.5bp);
+  \draw (148.5bp,61.5bp) ellipse (18.5bp and 18.5bp);
+  \draw (148.5bp,61.5bp) node[font=\small] {$\lambda_{d}$};
+\end{scope}
+  % Node: dias
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \definecolor{fillcol}{rgb}{0.75,0.75,0.75};
+  \pgfsetfillcolor{fillcol}
+  \filldraw (246.0bp,83.0bp) -- (203.0bp,83.0bp) -- (203.0bp,40.0bp) -- (246.0bp,40.0bp) -- cycle;
+  \draw (224.5bp,61.5bp) node[font=\small] {$Conteo_{d}$};
+\end{scope}
+  % Node: alpha
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (14.5bp,84.5bp) ellipse (14.5bp and 14.5bp);
+  \draw (14.5bp,84.5bp) node[font=\small] {$\alpha$};
+\end{scope}
+  % Node: lambda_a
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (79.5bp,108.5bp) ellipse (14.5bp and 14.5bp);
+  \draw (79.5bp,108.5bp) node[font=\small] {$\lambda_a$};
+\end{scope}
+  % Node: lambda_b
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (79.5bp,61.5bp) ellipse (14.5bp and 14.5bp);
+  \draw (79.5bp,61.5bp) node[font=\small] {$\lambda_b$};
+\end{scope}
+  % Node: tau
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (94.0bp,29.0bp) -- (65.0bp,29.0bp) -- (65.0bp,0.0bp) -- (94.0bp,0.0bp) -- cycle;
+  \draw (79.5bp,14.5bp) node[font=\small] {$\tau$};
+\end{scope}
+  % Node: alpha_dist
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (14.5bp,135.5bp) node[font=\small] {$\alpha =  \frac{1}{E[Conteo_{d}]}$};
+\end{scope}
+  % Node: lambda_a_dist
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (14.5bp,189.5bp) node[font=\small] {$\lambda_a \sim Exponential(\alpha)$};
+\end{scope}
+  % Node: lambda_b_dist
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (14.5bp,243.5bp) node[font=\small] {$\lambda_b \sim Exponential(\alpha)$};
+\end{scope}
+  % Node: lambda_dist
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (14.5bp,297.5bp) node[font=\small] {$\lambda = \left\lbrace \parbox{7cm}{$\lambda_a \;\;\; \text{día} < \tau$ \\ \\ $\lambda_b \;\;\; \text{día} \ge \tau$} \right.$};
+\end{scope}
+  % Node: tau_dist
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (14.5bp,351.5bp) node[font=\small] {$\tau \sim Uniform(0, N_{\text{días}})$};
+\end{scope}
+  % Node: dias_dist
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (14.5bp,405.5bp) node[font=\small] {$Conteo_{d} \sim Poisson(\lambda)$};
+\end{scope}
+%
+\end{tikzpicture}
+% End of code
+
+%
+\end{document}
+%
+
+

@@ -1,0 +1,99 @@
+\documentclass{article}
+\usepackage[x11names, svgnames, rgb]{xcolor}
+\usepackage[utf8]{inputenc}
+\usepackage{tikz}
+\usetikzlibrary{snakes,arrows,shapes}
+\usepackage{amsmath}
+%
+%
+
+\usepackage[active,tightpage]{preview}
+\PreviewEnvironment{tikzpicture}
+\setlength\PreviewBorder{0pt}%
+
+%
+
+\begin{document}
+\pagestyle{empty}
+%
+%
+%
+
+\enlargethispage{100cm}
+% Start of code
+% \begin{tikzpicture}[anchor=mid,>=latex',line join=bevel,]
+\begin{tikzpicture}[>=latex',line join=bevel,]
+  \pgfsetlinewidth{1bp}
+%%
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (81.75bp,502.5bp) node {Tramposos};
+\end{scope}
+  \pgfsetcolor{black}
+  % Edge: p_trampa -> p_obt
+  \draw [->] (43.5bp,432.74bp) .. controls (43.5bp,424.94bp) and (43.5bp,416.22bp)  .. (43.5bp,397.35bp);
+  % Edge: p_obt -> X
+  \draw [->] (60.128bp,313.15bp) .. controls (64.222bp,303.46bp) and (68.594bp,293.11bp)  .. (76.578bp,274.22bp);
+  % Edge: N -> X
+  \draw [->] (122.29bp,324.24bp) .. controls (116.9bp,311.74bp) and (110.47bp,296.87bp)  .. (100.6bp,274.02bp);
+  % Node: p_trampa
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (43.5bp,462.0bp) ellipse (29.0bp and 29.0bp);
+  \draw (43.5bp,462.0bp) node[font=\small] {$Prob_{trampa}$};
+\end{scope}
+  % Node: p_obt
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (43.5bp,353.5bp) ellipse (39.5bp and 39.5bp);
+  \draw (43.5bp,353.5bp) ellipse (43.5bp and 43.5bp);
+  \draw (43.5bp,353.5bp) node[font=\small] {$Prop_{tramposos}$};
+\end{scope}
+  % Node: X
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \definecolor{fillcol}{rgb}{0.75,0.75,0.75};
+  \pgfsetfillcolor{fillcol}
+  \filldraw (117.5bp,274.0bp) -- (59.5bp,274.0bp) -- (59.5bp,216.0bp) -- (117.5bp,216.0bp) -- cycle;
+  \draw (88.5bp,245.0bp) node[font=\small] {$Tramposos$};
+\end{scope}
+  % Node: p_trampa_dist
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (88.5bp,162.0bp) node[font=\small] {$Prob_{trampa} \sim  Uniforme(0, 1)$};
+\end{scope}
+  % Node: N
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \definecolor{fillcol}{rgb}{0.75,0.75,0.75};
+  \pgfsetfillcolor{fillcol}
+  \filldraw (163.5bp,382.5bp) -- (105.5bp,382.5bp) -- (105.5bp,324.5bp) -- (163.5bp,324.5bp) -- cycle;
+  \draw (134.5bp,353.5bp) node[font=\small] {N};
+\end{scope}
+  % Node: p_obt_dist
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (88.5bp,90.0bp) node[font=\small] {$Prop_{tramposos} = 0.5*Prob_{trampa} + 0.5^2$};
+\end{scope}
+  % Node: X_dist
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (88.5bp,18.0bp) node[font=\small] {$Tramposos \sim Binomial(N,Prop_{tramposos})$};
+\end{scope}
+%
+\end{tikzpicture}
+% End of code
+
+%
+\end{document}
+%
+
+
