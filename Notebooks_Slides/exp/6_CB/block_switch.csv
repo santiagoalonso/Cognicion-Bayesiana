@@ -1,0 +1,4 @@
+block_address,cond_spanish
+img_links_loose.csv,Va a empezar turnos con opciones de perdida. Oprima barra espaceadora para continuar.
+img_links_win.csv,Va a empezar turnos con opciones de ganancia. Oprima barra espaceadora para continuar.
+img_links_mix.csv,Va a empezar turnos con opciones mixtas (perdida y ganancia). Oprima barra espaceadora para continuar
