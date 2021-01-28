@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="145pt"
+   height="80pt"
+   viewBox="0.00 0.00 145.00 80.22"
+   version="1.1"
+   id="svg6463"
+   sodipodi:docname="mcmc_diagram.gv.svg"
+   inkscape:version="1.0.2 (e86c870, 2021-01-15)">
+  <metadata
+     id="metadata6469">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6467" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     id="namedview6465"
+     showgrid="false"
+     inkscape:zoom="3.4008621"
+     inkscape:cx="91.451107"
+     inkscape:cy="53.333333"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6463"
+     inkscape:document-rotation="0" />
+  <polygon
+     fill="#ffffff"
+     stroke="transparent"
+     points="141,-76.22 141,4 -4,4 -4,-76.22 "
+     id="polygon6410"
+     transform="translate(4,76.22)" />
+  <circle
+     fill="none"
+     stroke="#000000"
+     cx="22"
+     cy="55"
+     id="ellipse6414"
+     r="18" />
+  <text
+     text-anchor="middle"
+     x="22"
+     y="58.700001"
+     font-family="Times, serif"
+     font-size="14px"
+     id="text6416"
+     style="font-size:8.02200019px;">\fontsize{22pt}{1em}$\theta$</text>
+  <path
+     fill="none"
+     stroke="#000000"
+     d="M 13.64,38.71 C 11.62,28.62 14.41,19 22,19 c 4.86,0 7.76,3.95 8.68,9.44"
+     id="path6421" />
+  <polygon
+     fill="#000000"
+     stroke="#000000"
+     points="26.36,-37.51 23.17,-47.61 30.17,-47.39 "
+     id="polygon6423"
+     transform="translate(4,76.22)" />
+  <circle
+     fill="none"
+     stroke="#000000"
+     cx="121"
+     cy="55"
+     id="ellipse6430"
+     r="18" />
+  <text
+     text-anchor="middle"
+     x="121"
+     y="58.700001"
+     font-family="Times, serif"
+     font-size="14px"
+     id="text6432"
+     style="font-size:8.02200019px;">\fontsize{22pt}{1em}$1-\theta$</text>
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m 40.34,55 c 14.48,0 35.4,0 52.16,0"
+     id="path6437" />
+  <polygon
+     fill="#000000"
+     stroke="#000000"
+     points="98.81,-21.22 88.81,-17.72 88.81,-24.72 "
+     id="polygon6439"
+     transform="translate(4,76.22)" />
+  <path
+     fill="none"
+     stroke="#000000"
+     d="M 105.69,64.87 C 99.6,68.5 92.24,72.17 85,74 73.37,76.96 69.63,76.96 58,74 54.04,73 50.05,71.45 46.24,69.65"
+     id="path6446" />
+  <polygon
+     fill="#000000"
+     stroke="#000000"
+     points="33.31,-11.35 43.78,-9.71 40.48,-3.54 "
+     id="polygon6448"
+     transform="translate(4,76.22)" />
+  <text
+     text-anchor="middle"
+     x="71.5"
+     y="70.199997"
+     font-family="Times, serif"
+     font-size="14px"
+     id="text6450"
+     style="font-size:8.02200019px;">\fontsize{22pt}{1em}$\frac{\theta}{1-\theta}$</text>
+  <path
+     fill="none"
+     stroke="#000000"
+     d="M 112.64,38.71 C 110.62,28.62 113.41,19 121,19 c 4.86,0 7.76,3.95 8.68,9.44"
+     id="path6455" />
+  <polygon
+     fill="#000000"
+     stroke="#000000"
+     points="125.36,-37.51 122.17,-47.61 129.17,-47.39 "
+     id="polygon6457"
+     transform="translate(4,76.22)" />
+  <text
+     text-anchor="middle"
+     x="121"
+     y="15.2"
+     font-family="Times, serif"
+     font-size="14px"
+     id="text6459"
+     style="font-size:8.02200019px;">\fontsize{22pt}{1em}$1-\frac{\theta}{1-\theta}$</text>
+  <text
+     xml:space="preserve"
+     style="font-size:10.0275px;line-height:1.25;font-family:sans-serif;stroke-width:0.752062"
+     x="21.396587"
+     y="16.522957"
+     id="text6952"><tspan
+       sodipodi:role="line"
+       id="tspan6950"
+       x="21.396587"
+       y="16.522957"
+       style="font-size:10.0275px;stroke-width:0.752062">\fontsize{22pt}{1em}$0$</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:10.0275px;line-height:1.25;font-family:sans-serif;stroke-width:0.752062"
+     x="65.260307"
+     y="48.163822"
+     id="text6956"><tspan
+       sodipodi:role="line"
+       id="tspan6954"
+       x="65.260307"
+       y="48.163822"
+       style="font-size:10.0275px;stroke-width:0.752062">\fontsize{22pt}{1em}$1$</tspan></text>
+</svg>

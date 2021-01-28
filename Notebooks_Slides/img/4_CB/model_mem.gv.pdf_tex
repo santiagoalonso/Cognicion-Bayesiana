@@ -1,0 +1,77 @@
+%% Creator: Inkscape 1.0.2 (e86c870, 2021-01-15), www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'model_mem.gv.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{470.4508667bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.56966629)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{model_mem.gv.pdf}}%
+    \put(0.39749104,0.52885438){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\fontsize{22pt}{1em}$\text{Caída Exponencial de la Memoria}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{model_mem.gv.pdf}}%
+    \put(0.3836745,0.35242788){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\text{Tiempo para recordar}_j$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{model_mem.gv.pdf}}%
+    \put(0.5080233,0.13348897){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\text{Persona}_i$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{model_mem.gv.pdf}}%
+    \put(0.06164299,0.31735514){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\alpha$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{model_mem.gv.pdf}}%
+    \put(0.25294884,0.24508405){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$Mem_j$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{model_mem.gv.pdf}}%
+    \put(0.5080233,0.23233032){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$Rec_{i,j}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{model_mem.gv.pdf}}%
+    \put(0.06164299,0.17281295){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\beta$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=8]{model_mem.gv.pdf}}%
+    \put(0.5080233,0.45126923){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$Items_n$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=9]{model_mem.gv.pdf}}%
+    \put(0.25294884,0.09203937){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$t_j$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=10]{model_mem.gv.pdf}}%
+    \put(0.66545966,0.34973604){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\\\alpha \sim Beta(1,1)\\\beta \sim Beta(1,1)\\Mem_j \sim min\left(1, e^{-\alpha t_j} + \beta\right)\\Rec_{i,j} \sim Binomial(Mem_j,Items_n)\\$\end{tabular}}}}%
+  \end{picture}%
+\endgroup%

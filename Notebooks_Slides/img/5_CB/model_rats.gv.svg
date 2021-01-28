@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="386.72687pt"
+   height="166.23839pt"
+   viewBox="0 0 386.72687 166.23839"
+   version="1.1"
+   id="svg1093"
+   sodipodi:docname="model_rats.gv.svg"
+   inkscape:version="1.0.2 (e86c870, 2021-01-15)">
+  <metadata
+     id="metadata1099">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1097" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     id="namedview1095"
+     showgrid="false"
+     inkscape:zoom="1.7738309"
+     inkscape:cx="395.79502"
+     inkscape:cy="124.98453"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1093" />
+  <polygon
+     fill="#ffffff"
+     stroke="transparent"
+     points="-4,4 -4,-141 274,-141 274,4 "
+     id="polygon867"
+     transform="translate(20.061883,162.23839)" />
+  <text
+     text-anchor="middle"
+     x="155.06189"
+     y="40.438389"
+     font-family="Times, serif"
+     font-size="14px"
+     id="text869">Rats tumor</text>
+  <text
+     text-anchor="middle"
+     x="155.06189"
+     y="57.438389"
+     font-family="Times, serif"
+     font-size="14px"
+     id="text873">$\alpha,\beta$</text>
+  <text
+     text-anchor="middle"
+     x="27.061884"
+     y="108.93839"
+     font-family="Times, serif"
+     font-size="14px"
+     id="text878">$\theta_1$</text>
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m 147.81188,58.95839 c -19.89,7.46 -75.709997,28.39 -103.939997,38.98"
+     id="path883" />
+  <polygon
+     fill="#000000"
+     stroke="#000000"
+     points="14.17,-60.69 22.3,-67.48 24.76,-60.92 "
+     id="polygon885"
+     transform="translate(20.061883,162.23839)" />
+  <text
+     text-anchor="middle"
+     x="59.061882"
+     y="108.93839"
+     font-family="Times, serif"
+     font-size="14px"
+     id="text890">$\theta_2$</text>
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m 147.84188,59.84839 c -15.36,7.68 -51.619997,25.81 -72.749997,36.37"
+     id="path895" />
+  <polygon
+     fill="#000000"
+     stroke="#000000"
+     points="46.04,-61.52 53.42,-69.12 56.55,-62.86 "
+     id="polygon897"
+     transform="translate(20.061883,162.23839)" />
+  <text
+     text-anchor="middle"
+     x="91.061882"
+     y="108.93839"
+     font-family="Times, serif"
+     font-size="14px"
+     id="text902">$\theta_3$</text>
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m 147.72188,61.74839 c -10.03,7.52 -28.26,21.19 -41.34,31"
+     id="path907" />
+  <polygon
+     fill="#000000"
+     stroke="#000000"
+     points="78.26,-63.44 84.16,-72.24 88.36,-66.64 "
+     id="polygon909"
+     transform="translate(20.061883,162.23839)" />
+  <text
+     text-anchor="middle"
+     x="123.06188"
+     y="108.93839"
+     font-family="Times, serif"
+     font-size="14px"
+     id="text914">$...$</text>
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m 150.88188,62.51839 c -4.58,6.86 -12.07,18.1 -18.13,27.18"
+     id="path919" />
+  <polygon
+     fill="#000000"
+     stroke="#000000"
+     points="107.08,-64.12 109.72,-74.39 115.54,-70.5 "
+     id="polygon921"
+     transform="translate(20.061883,162.23839)" />
+  <text
+     text-anchor="middle"
+     x="155.06189"
+     y="108.93839"
+     font-family="Times, serif"
+     font-size="14px"
+     id="text926">$...$</text>
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m 155.06188,62.51839 c 0,6.43 0,16.7 0,25.44"
+     id="path931" />
+  <polygon
+     fill="#000000"
+     stroke="#000000"
+     points="135,-64.12 131.5,-74.12 138.5,-74.12 "
+     id="polygon933"
+     transform="translate(20.061883,162.23839)" />
+  <text
+     text-anchor="middle"
+     x="187.06189"
+     y="108.93839"
+     font-family="Times, serif"
+     font-size="14px"
+     id="text938">$...$</text>
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m 159.24188,62.51839 c 4.58,6.86 12.07,18.1 18.13,27.18"
+     id="path943" />
+  <polygon
+     fill="#000000"
+     stroke="#000000"
+     points="162.92,-64.12 154.46,-70.5 160.28,-74.39 "
+     id="polygon945"
+     transform="translate(20.061883,162.23839)" />
+  <text
+     text-anchor="middle"
+     x="219.06189"
+     y="108.93839"
+     font-family="Times, serif"
+     font-size="14px"
+     id="text950">$...$</text>
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m 162.40188,61.74839 c 10.03,7.52 28.26,21.19 41.34,31"
+     id="path955" />
+  <polygon
+     fill="#000000"
+     stroke="#000000"
+     points="191.74,-63.44 181.64,-66.64 185.84,-72.24 "
+     id="polygon957"
+     transform="translate(20.061883,162.23839)" />
+  <text
+     text-anchor="middle"
+     x="251.06189"
+     y="108.93839"
+     font-family="Times, serif"
+     font-size="14px"
+     id="text962">$\theta_{70}$</text>
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m 162.28188,59.84839 c 15.36,7.68 51.62,25.81 72.75,36.37"
+     id="path967" />
+  <polygon
+     fill="#000000"
+     stroke="#000000"
+     points="223.96,-61.52 213.45,-62.86 216.58,-69.12 "
+     id="polygon969"
+     transform="translate(20.061883,162.23839)" />
+  <text
+     text-anchor="middle"
+     x="283.06189"
+     y="108.93839"
+     font-family="Times, serif"
+     font-size="14px"
+     id="text974">$\theta_{71}$</text>
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m 162.31188,58.95839 c 19.89,7.46 75.71,28.39 103.94,38.98"
+     id="path979" />
+  <polygon
+     fill="#000000"
+     stroke="#000000"
+     points="255.83,-60.69 245.24,-60.92 247.7,-67.48 "
+     id="polygon981"
+     transform="translate(20.061883,162.23839)" />
+  <text
+     text-anchor="middle"
+     x="27.061884"
+     y="158.93839"
+     font-family="Times, serif"
+     font-size="14px"
+     id="text986">$y_1$</text>
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m 27.061883,112.51839 c 0,6.43 0,16.7 0,25.44"
+     id="path991" />
+  <polygon
+     fill="#000000"
+     stroke="#000000"
+     points="7,-14.12 3.5,-24.12 10.5,-24.12 "
+     id="polygon993"
+     transform="translate(20.061883,162.23839)" />
+  <text
+     text-anchor="middle"
+     x="59.061882"
+     y="158.93839"
+     font-family="Times, serif"
+     font-size="14px"
+     id="text998">$y_2$</text>
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m 59.061883,112.51839 c 0,6.43 0,16.7 0,25.44"
+     id="path1003" />
+  <polygon
+     fill="#000000"
+     stroke="#000000"
+     points="39,-14.12 35.5,-24.12 42.5,-24.12 "
+     id="polygon1005"
+     transform="translate(20.061883,162.23839)" />
+  <text
+     text-anchor="middle"
+     x="91.061882"
+     y="158.93839"
+     font-family="Times, serif"
+     font-size="14px"
+     id="text1010">$y_3$</text>
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m 91.061883,112.51839 c 0,6.43 0,16.7 0,25.44"
+     id="path1015" />
+  <polygon
+     fill="#000000"
+     stroke="#000000"
+     points="71,-14.12 67.5,-24.12 74.5,-24.12 "
+     id="polygon1017"
+     transform="translate(20.061883,162.23839)" />
+  <text
+     text-anchor="middle"
+     x="123.06188"
+     y="158.93839"
+     font-family="Times, serif"
+     font-size="14px"
+     id="text1022">$...$</text>
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m 123.06188,112.51839 c 0,6.43 0,16.7 0,25.44"
+     id="path1027" />
+  <polygon
+     fill="#000000"
+     stroke="#000000"
+     points="103,-14.12 99.5,-24.12 106.5,-24.12 "
+     id="polygon1029"
+     transform="translate(20.061883,162.23839)" />
+  <text
+     text-anchor="middle"
+     x="155.06189"
+     y="158.93839"
+     font-family="Times, serif"
+     font-size="14px"
+     id="text1034">$...$</text>
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m 155.06188,112.51839 c 0,6.43 0,16.7 0,25.44"
+     id="path1039" />
+  <polygon
+     fill="#000000"
+     stroke="#000000"
+     points="135,-14.12 131.5,-24.12 138.5,-24.12 "
+     id="polygon1041"
+     transform="translate(20.061883,162.23839)" />
+  <text
+     text-anchor="middle"
+     x="187.06189"
+     y="158.93839"
+     font-family="Times, serif"
+     font-size="14px"
+     id="text1046">$...$</text>
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m 187.06188,112.51839 c 0,6.43 0,16.7 0,25.44"
+     id="path1051" />
+  <polygon
+     fill="#000000"
+     stroke="#000000"
+     points="167,-14.12 163.5,-24.12 170.5,-24.12 "
+     id="polygon1053"
+     transform="translate(20.061883,162.23839)" />
+  <text
+     text-anchor="middle"
+     x="219.06189"
+     y="158.93839"
+     font-family="Times, serif"
+     font-size="14px"
+     id="text1058">$...$</text>
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m 219.06188,112.51839 c 0,6.43 0,16.7 0,25.44"
+     id="path1063" />
+  <polygon
+     fill="#000000"
+     stroke="#000000"
+     points="199,-14.12 195.5,-24.12 202.5,-24.12 "
+     id="polygon1065"
+     transform="translate(20.061883,162.23839)" />
+  <text
+     text-anchor="middle"
+     x="251.06189"
+     y="158.93839"
+     font-family="Times, serif"
+     font-size="14px"
+     id="text1070">$y_{70}$</text>
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m 251.06188,112.51839 c 0,6.43 0,16.7 0,25.44"
+     id="path1075" />
+  <polygon
+     fill="#000000"
+     stroke="#000000"
+     points="231,-14.12 227.5,-24.12 234.5,-24.12 "
+     id="polygon1077"
+     transform="translate(20.061883,162.23839)" />
+  <text
+     text-anchor="middle"
+     x="283.06189"
+     y="158.93839"
+     font-family="Times, serif"
+     font-size="14px"
+     id="text1082">$y_{71}$</text>
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m 283.06188,112.51839 c 0,6.43 0,16.7 0,25.44"
+     id="path1087" />
+  <polygon
+     fill="#000000"
+     stroke="#000000"
+     points="263,-14.12 259.5,-24.12 266.5,-24.12 "
+     id="polygon1089"
+     transform="translate(20.061883,162.23839)" />
+  <text
+     xml:space="preserve"
+     style="font-size:20px;line-height:1.25;font-family:sans-serif;stroke-width:0.75"
+     x="212.26402"
+     y="25.695312"
+     id="text1103"><tspan
+       sodipodi:role="line"
+       id="tspan1101"
+       x="212.26402"
+       y="25.695312"
+       style="stroke-width:0.75">$p(\alpha,\beta) \propto  (\alpha + \beta)^{-5/2}$</tspan><tspan
+       sodipodi:role="line"
+       x="212.26402"
+       y="50.695312"
+       style="stroke-width:0.75"
+       id="tspan1105">$\theta_j \sim  Beta(\alpha, \beta)$</tspan><tspan
+       sodipodi:role="line"
+       x="212.26402"
+       y="75.695312"
+       style="stroke-width:0.75"
+       id="tspan1107">$y_j \sim  Binomial(n_j, \theta_j)$</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:20px;line-height:1.25;font-family:sans-serif;stroke-width:0.75"
+     x="450.93298"
+     y="128.25832"
+     id="text1315"><tspan
+       sodipodi:role="line"
+       id="tspan1313"
+       x="450.93298"
+       y="128.25832"
+       style="stroke-width:0.75" /></text>
+</svg>

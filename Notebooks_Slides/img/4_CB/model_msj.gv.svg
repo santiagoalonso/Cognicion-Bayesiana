@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="650pt"
+   height="217pt"
+   viewBox="0 0 650 217"
+   version="1.1"
+   id="svg12105"
+   sodipodi:docname="model_msj.gv.svg"
+   inkscape:version="1.0.2 (e86c870, 2021-01-15)">
+  <metadata
+     id="metadata12111">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12109" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     id="namedview12107"
+     showgrid="false"
+     inkscape:zoom="0.96323766"
+     inkscape:cx="241.33333"
+     inkscape:cy="144.66667"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12105"
+     inkscape:document-rotation="0" />
+  <polygon
+     fill="#ffffff"
+     stroke="transparent"
+     points="358,4 -4,4 -4,-213 358,-213 "
+     id="polygon12007"
+     transform="translate(4,213)" />
+  <text
+     text-anchor="middle"
+     x="181"
+     y="19.199997"
+     font-family="Times, serif"
+     font-size="14px"
+     id="text12009">Mensajes de Texto por Día</text>
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m 180,164 c 0,0 158,0 158,0 6,0 12,-6 12,-12 0,0 0,-87 0,-87 0,-6 -6,-12 -12,-12 0,0 -158,0 -158,0 -6,0 -12,6 -12,12 0,0 0,87 0,87 0,6 6,12 12,12"
+     id="path12013" />
+  <text
+     text-anchor="middle"
+     x="208"
+     y="68.199997"
+     font-family="Times, serif"
+     font-size="14px"
+     id="text12015">$d \ Días$</text>
+  <circle
+     fill="none"
+     stroke="#000000"
+     cx="29"
+     cy="86"
+     id="ellipse12020"
+     r="25" />
+  <text
+     text-anchor="middle"
+     x="29"
+     y="89.699997"
+     font-family="Times, serif"
+     font-size="14px"
+     id="text12022">$\alpha$</text>
+  <circle
+     fill="none"
+     stroke="#000000"
+     cx="115"
+     cy="52"
+     id="ellipse12027"
+     r="25" />
+  <text
+     text-anchor="middle"
+     x="115"
+     y="55.699997"
+     font-family="Times, serif"
+     font-size="14px"
+     id="text12029">$\lambda_a$</text>
+  <path
+     fill="none"
+     stroke="#000000"
+     d="M 52.51,76.89 C 61.55,73.23 72.14,68.94 81.95,64.97"
+     id="path12034" />
+  <polygon
+     fill="#000000"
+     stroke="#000000"
+     points="79.47,-144.87 76.84,-151.36 87.43,-151.86 "
+     id="polygon12036"
+     transform="translate(4,213)" />
+  <circle
+     fill="none"
+     stroke="#000000"
+     cx="115"
+     cy="120"
+     id="ellipse12041"
+     r="25" />
+  <text
+     text-anchor="middle"
+     x="115"
+     y="123.7"
+     font-family="Times, serif"
+     font-size="14px"
+     id="text12043">$\lambda_b$</text>
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m 52.51,95.11 c 9.04,3.66 19.63,7.95 29.44,11.92"
+     id="path12048" />
+  <polygon
+     fill="#000000"
+     stroke="#000000"
+     points="76.84,-102.64 79.47,-109.13 87.43,-102.14 "
+     id="polygon12050"
+     transform="translate(4,213)" />
+  <circle
+     fill="none"
+     stroke="#000000"
+     cx="205"
+     cy="120"
+     id="ellipse12055"
+     r="25" />
+  <circle
+     fill="none"
+     stroke="#000000"
+     cx="205"
+     cy="120"
+     id="ellipse12057"
+     r="29" />
+  <text
+     text-anchor="middle"
+     x="205"
+     y="123.7"
+     font-family="Times, serif"
+     font-size="14px"
+     id="text12059">$\lambda_{d}$</text>
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m 135.53,67.09 c 11.13,8.6 25.33,19.57 37.9,29.29"
+     id="path12064" />
+  <polygon
+     fill="#000000"
+     stroke="#000000"
+     points="167.36,-113.8 171.64,-119.33 177.42,-110.45 "
+     id="polygon12066"
+     transform="translate(4,213)" />
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m 140.05,120 c 7.97,0 17.05,0 25.82,0"
+     id="path12071" />
+  <polygon
+     fill="#000000"
+     stroke="#000000"
+     points="161.93,-89.5 161.93,-96.5 171.93,-93 "
+     id="polygon12073"
+     transform="translate(4,213)" />
+  <polygon
+     fill="#808080"
+     stroke="#000000"
+     points="266,-129 266,-57 338,-57 338,-129 "
+     id="polygon12078"
+     transform="translate(4,213)" />
+  <text
+     text-anchor="middle"
+     x="306"
+     y="123.7"
+     font-family="Times, serif"
+     font-size="14px"
+     id="text12080">$Conteo_{d}$</text>
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m 234.1,120 c 7.98,0 16.86,0 25.58,0"
+     id="path12085" />
+  <polygon
+     fill="#000000"
+     stroke="#000000"
+     points="255.76,-89.5 255.76,-96.5 265.76,-93 "
+     id="polygon12087"
+     transform="translate(4,213)" />
+  <polygon
+     fill="none"
+     stroke="#000000"
+     points="86,-50 86,0 136,0 136,-50 "
+     id="polygon12092"
+     transform="translate(4,213)" />
+  <text
+     text-anchor="middle"
+     x="115"
+     y="191.7"
+     font-family="Times, serif"
+     font-size="14px"
+     id="text12094">$\tau$</text>
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m 140.05,169.42 c 10.3,-7.96 22.45,-17.35 33.38,-25.8"
+     id="path12099" />
+  <polygon
+     fill="#000000"
+     stroke="#000000"
+     points="171.72,-66.73 167.44,-72.26 177.49,-75.61 "
+     id="polygon12101"
+     transform="translate(4,213)" />
+  <text
+     xml:space="preserve"
+     style="font-size:20px;line-height:1.25;font-family:sans-serif;stroke-width:0.75"
+     x="370.78635"
+     y="26.749508"
+     id="text11277"><tspan
+       sodipodi:role="line"
+       id="tspan11275"
+       x="370.78635"
+       y="26.749508"
+       style="stroke-width:0.75">$</tspan><tspan
+       sodipodi:role="line"
+       x="370.78635"
+       y="51.749508"
+       style="stroke-width:0.75"
+       id="tspan11437">\alpha =  \frac{1}{E[Conteo_{d}]}</tspan><tspan
+       sodipodi:role="line"
+       x="370.78635"
+       y="76.749512"
+       style="stroke-width:0.75"
+       id="tspan11285">\lambda_a \sim Exponential(\alpha)</tspan><tspan
+       sodipodi:role="line"
+       x="370.78635"
+       y="101.74951"
+       style="stroke-width:0.75"
+       id="tspan11287">\lambda_b \sim Exponential(\alpha)</tspan><tspan
+       sodipodi:role="line"
+       x="370.78635"
+       y="126.74951"
+       style="stroke-width:0.75"
+       id="tspan11289">\lambda = \left\lbrace \parbox{7cm}{$\lambda_a \;\;\; \text{día} &lt; \tau$ \\\ \\\ $\lambda_b \;\;\; \text{día} \ge \tau$} \right.</tspan><tspan
+       sodipodi:role="line"
+       x="370.78635"
+       y="151.74951"
+       style="stroke-width:0.75"
+       id="tspan11291">\tau \sim Uniform(0, N_{\text{días}})</tspan><tspan
+       sodipodi:role="line"
+       x="370.78635"
+       y="176.74951"
+       style="stroke-width:0.75"
+       id="tspan11445">Conteo_{d} \sim Poisson(\lambda)</tspan><tspan
+       sodipodi:role="line"
+       x="370.78635"
+       y="201.74951"
+       style="stroke-width:0.75"
+       id="tspan11281">$</tspan></text>
+</svg>

@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300pt"
+   height="240pt"
+   viewBox="0 0 300 240"
+   version="1.1"
+   id="svg13594"
+   sodipodi:docname="model_challenger.gv.svg"
+   inkscape:version="1.0.2 (e86c870, 2021-01-15)">
+  <metadata
+     id="metadata13600">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs13598" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     id="namedview13596"
+     showgrid="false"
+     inkscape:zoom="0.95238445"
+     inkscape:cx="227.92589"
+     inkscape:cy="160"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg13594"
+     inkscape:document-rotation="0" />
+  <polygon
+     fill="#ffffff"
+     stroke="transparent"
+     points="169,4 -4,4 -4,-236 169,-236 "
+     id="polygon13524"
+     transform="translate(4,236)" />
+  <text
+     text-anchor="middle"
+     x="86.5"
+     y="19.199997"
+     font-family="Times, serif"
+     font-size="14px"
+     id="text13526">Challenger</text>
+  <circle
+     fill="none"
+     stroke="#000000"
+     cx="25.5"
+     cy="48.5"
+     id="ellipse13530"
+     r="21.5" />
+  <text
+     text-anchor="middle"
+     x="25.5"
+     y="52.199997"
+     font-family="Times, serif"
+     font-size="14px"
+     id="text13532">$\beta$</text>
+  <circle
+     fill="none"
+     stroke="#000000"
+     cx="86.5"
+     cy="131.5"
+     id="ellipse13537"
+     r="21.5" />
+  <circle
+     fill="none"
+     stroke="#000000"
+     cx="86.5"
+     cy="131.5"
+     id="ellipse13539"
+     r="25.5" />
+  <text
+     text-anchor="middle"
+     x="86.5"
+     y="135.2"
+     font-family="Times, serif"
+     font-size="14px"
+     id="text13541">$p$</text>
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m 38.14,66.28 c 7.88,10.47 18.22,24.2 27.32,36.28"
+     id="path13546" />
+  <polygon
+     fill="#000000"
+     stroke="#000000"
+     points="58.7,-131.29 64.29,-135.5 67.51,-125.41 "
+     id="polygon13548"
+     transform="translate(4,236)" />
+  <polygon
+     fill="#808080"
+     stroke="#000000"
+     points="61,-43 61,0 104,0 104,-43 "
+     id="polygon13553"
+     transform="translate(4,236)" />
+  <text
+     text-anchor="middle"
+     x="86.5"
+     y="218.2"
+     font-family="Times, serif"
+     font-size="14px"
+     id="text13555">Defecto</text>
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m 86.5,157.24 c 0,8.05 0,17.08 0,25.51"
+     id="path13560" />
+  <polygon
+     fill="#000000"
+     stroke="#000000"
+     points="79,-53.01 86,-53.01 82.5,-43.01 "
+     id="polygon13562"
+     transform="translate(4,236)" />
+  <circle
+     fill="none"
+     stroke="#000000"
+     cx="86.5"
+     cy="48.5"
+     id="ellipse13567"
+     r="21.5" />
+  <text
+     text-anchor="middle"
+     x="86.5"
+     y="52.199997"
+     font-family="Times, serif"
+     font-size="14px"
+     id="text13569">$\alpha$</text>
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m 86.5,70.36 c 0,7.73 0,16.72 0,25.36"
+     id="path13574" />
+  <polygon
+     fill="#000000"
+     stroke="#000000"
+     points="79,-140.03 86,-140.03 82.5,-130.03 "
+     id="polygon13576"
+     transform="translate(4,236)" />
+  <circle
+     fill="#808080"
+     stroke="#000000"
+     cx="147.5"
+     cy="48.5"
+     id="ellipse13581"
+     r="21.5" />
+  <text
+     text-anchor="middle"
+     x="147.5"
+     y="52.199997"
+     font-family="Times, serif"
+     font-size="14px"
+     id="text13583">Clima</text>
+  <path
+     fill="none"
+     stroke="#000000"
+     d="m 134.86,66.28 c -7.88,10.47 -18.22,24.2 -27.32,36.28"
+     id="path13588" />
+  <polygon
+     fill="#000000"
+     stroke="#000000"
+     points="100.71,-135.5 106.3,-131.29 97.49,-125.41 "
+     id="polygon13590"
+     transform="translate(4,236)" />
+  <text
+     xml:space="preserve"
+     style="font-size:20px;line-height:1.25;font-family:sans-serif;stroke-width:0.75"
+     x="127.91408"
+     y="95.738091"
+     id="text13662"><tspan
+       sodipodi:role="line"
+       x="127.91408"
+       y="95.738091"
+       style="stroke-width:0.75"
+       id="tspan13664">$ \beta \sim  Normal(\mu=0, \sigma^2=1000)</tspan><tspan
+       sodipodi:role="line"
+       x="127.91408"
+       y="120.73809"
+       style="stroke-width:0.75"
+       id="tspan13668">\alpha \sim  Normal(\mu=0, \sigma^2=1000)</tspan><tspan
+       sodipodi:role="line"
+       x="127.91408"
+       y="145.7381"
+       style="stroke-width:0.75"
+       id="tspan2361">Defecto \sim Bernoulli(p)$</tspan><tspan
+       sodipodi:role="line"
+       x="127.91408"
+       y="170.7381"
+       style="stroke-width:0.75"
+       id="tspan196">$p = \frac{ 1 }{1+e^{ \beta \text{Clima} + \alpha}}$</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:20px;line-height:1.25;font-family:sans-serif;stroke-width:0.75"
+     x="129.84415"
+     y="191.47293"
+     id="text45"><tspan
+       sodipodi:role="line"
+       id="tspan43"
+       x="129.84415"
+       y="191.47293"
+       style="stroke-width:0.75" /></text>
+</svg>

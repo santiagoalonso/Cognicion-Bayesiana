@@ -1,0 +1,77 @@
+%% Creator: Inkscape 1.0.2 (e86c870, 2021-01-15), www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'model_BART.gv.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{479.03439331bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.8788513)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0.40237856,0.78423921){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\gamma^{+} \sim Uniform(0,10)\\\\\beta \sim Uniform(0,10)\\\\\omega = -\frac{\gamma^{+}}{log(1-p)}\\\\\theta_{jk} = \frac{1}{1+e^{\beta(k-w)}}\\\\d_{jk} \sim Bernoulli(\theta_{jk})\\$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{model_BART.gv.pdf}}%
+    \put(0.17117769,0.83877065){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}BART\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{model_BART.gv.pdf}}%
+    \put(0.18161535,0.47345245){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$Choice_k$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{model_BART.gv.pdf}}%
+    \put(0.18579041,0.40456387){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$Trial_j$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{model_BART.gv.pdf}}%
+    \put(0.06053845,0.7625757){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$p$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{model_BART.gv.pdf}}%
+    \put(0.13151456,0.57469775){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\omega$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{model_BART.gv.pdf}}%
+    \put(0.20666574,0.29914343){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\theta_{jk}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{model_BART.gv.pdf}}%
+    \put(0.20249068,0.7625757){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\gamma^{+}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=8]{model_BART.gv.pdf}}%
+    \put(0.20666574,0.11126548){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$d_{jk}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=9]{model_BART.gv.pdf}}%
+    \put(0.28181692,0.57469775){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\beta$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=10]{model_BART.gv.pdf}}%
+  \end{picture}%
+\endgroup%

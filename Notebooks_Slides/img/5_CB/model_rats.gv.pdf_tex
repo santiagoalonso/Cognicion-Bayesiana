@@ -1,0 +1,97 @@
+%% Creator: Inkscape 1.0.2 (e86c870, 2021-01-15), www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'model_rats.gv.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{386.72686768bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.42985994)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{model_rats.gv.pdf}}%
+    \put(0.40095969,0.32529418){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Rats tumor\end{tabular}}}}%
+    \put(0.40095969,0.28133551){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\alpha,\beta$\end{tabular}}}}%
+    \put(0.06997673,0.14816658){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\theta_1$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{model_rats.gv.pdf}}%
+    \put(0.15272246,0.14816658){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\theta_2$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{model_rats.gv.pdf}}%
+    \put(0.2354682,0.14816658){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\theta_3$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{model_rats.gv.pdf}}%
+    \put(0.31821394,0.14816658){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$...$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{model_rats.gv.pdf}}%
+    \put(0.40095969,0.14816658){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$...$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{model_rats.gv.pdf}}%
+    \put(0.48370543,0.14816658){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$...$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{model_rats.gv.pdf}}%
+    \put(0.56645116,0.14816658){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$...$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=8]{model_rats.gv.pdf}}%
+    \put(0.6491969,0.14816658){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\theta_{70}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=9]{model_rats.gv.pdf}}%
+    \put(0.73194263,0.14816658){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\theta_{71}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=10]{model_rats.gv.pdf}}%
+    \put(0.06997673,0.01887639){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$y_1$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=11]{model_rats.gv.pdf}}%
+    \put(0.15272246,0.01887639){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$y_2$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=12]{model_rats.gv.pdf}}%
+    \put(0.2354682,0.01887639){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$y_3$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=13]{model_rats.gv.pdf}}%
+    \put(0.31821394,0.01887639){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$...$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=14]{model_rats.gv.pdf}}%
+    \put(0.40095969,0.01887639){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$...$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=15]{model_rats.gv.pdf}}%
+    \put(0.48370543,0.01887639){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$...$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=16]{model_rats.gv.pdf}}%
+    \put(0.56645116,0.01887639){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$...$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=17]{model_rats.gv.pdf}}%
+    \put(0.6491969,0.01887639){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$y_{70}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=18]{model_rats.gv.pdf}}%
+    \put(0.73194263,0.01887639){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$y_{71}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=19]{model_rats.gv.pdf}}%
+    \put(0.54887321,0.36341689){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$p(\alpha,\beta) \propto  (\alpha + \beta)^{-5/2}$\\$\theta_j \sim  Beta(\alpha, \beta)$\\$y_j \sim  Binomial(n_j, \theta_j)$\end{tabular}}}}%
+  \end{picture}%
+\endgroup%
