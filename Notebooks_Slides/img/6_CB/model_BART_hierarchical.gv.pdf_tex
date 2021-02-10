@@ -1,0 +1,86 @@
+%% Creator: Inkscape 1.0.2 (e86c870, 2021-01-15), www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'model_BART_hierarchical.gv.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{342bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,1.52631579)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{model_BART_hierarchical.gv.pdf}}%
+    \put(0.5,1.4701754){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}BART\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{model_BART_hierarchical.gv.pdf}}%
+    \put(0.50584795,1.2333333){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$Conditions_i$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{model_BART_hierarchical.gv.pdf}}%
+    \put(0.33625731,0.69239763){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$Choice_k$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{model_BART_hierarchical.gv.pdf}}%
+    \put(0.35526316,0.5959064){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$Trial_j$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{model_BART_hierarchical.gv.pdf}}%
+    \put(0.08479532,1.09736839){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$p$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{model_BART_hierarchical.gv.pdf}}%
+    \put(0.30116959,0.83421049){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\omega_i$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{model_BART_hierarchical.gv.pdf}}%
+    \put(0.39766082,0.44824558){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\theta_{ijk}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=8]{model_BART_hierarchical.gv.pdf}}%
+    \put(0.30116959,1.09736839){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\gamma_i^{+}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=9]{model_BART_hierarchical.gv.pdf}}%
+    \put(0.20175439,1.36345026){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\mu_{\gamma^{+}}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=10]{model_BART_hierarchical.gv.pdf}}%
+    \put(0.4005848,1.36345026){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\sigma_{\gamma^{+}}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=11]{model_BART_hierarchical.gv.pdf}}%
+    \put(0.51169591,0.83421049){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\beta_i$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=12]{model_BART_hierarchical.gv.pdf}}%
+    \put(0.71637427,1.09736839){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\mu_{\beta}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=13]{model_BART_hierarchical.gv.pdf}}%
+    \put(0.91520468,1.09736839){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\sigma_{\beta}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=14]{model_BART_hierarchical.gv.pdf}}%
+    \put(0.67156269,0.79758913){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\mu_{\gamma^{+}} \sim Uniform(0,10)$\\$\sigma_{\gamma^{+}} \sim Uniform(0,10)$\\$\mu_{\beta} \sim Uniform(0,10)$\\$\sigma_{\beta} \sim Uniform(0,10)$\\$\gamma_i^{+} \sim Normal(\mu_{\gamma^{+}}, \sigma_{\gamma^{+}})$\\$\beta_i \sim Normal(\mu_{\beta}, \sigma_{\beta})$\\$\omega_i = -frac{\gamma_i^{+}}{log(1-p)}$\\$\theta_{ijk} = \frac{1}{1 + e^{\beta_i (k-\omega_i)}}$\\$d_{ijk} \sim Bernoulli(\theta_{ijk})$\end{tabular}}}}%
+    \put(0.37400796,0.19304813){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$d_{ijk}$\end{tabular}}}}%
+  \end{picture}%
+\endgroup%
