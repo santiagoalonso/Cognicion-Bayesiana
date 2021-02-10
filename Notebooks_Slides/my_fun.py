@@ -65,7 +65,7 @@ def slider_econ_risk(alpha):
     fig = plt.figure(constrained_layout=True, figsize = (7,3.5))
     gs = GridSpec(1, 2, figure = fig)
     ax1 = fig.add_subplot(gs[0,0])
-    sns.lineplot(x,y, ax = ax1, color = co)
+    sns.lineplot(x = x, y = y, ax = ax1, color = co)
     ax2 = fig.add_subplot(gs[0,1])
     ax2.axis('off')
     ax2.text(0.5,0.5, r'$ U(x) = x^\alpha$', fontsize = 25)
@@ -86,8 +86,8 @@ def slider_econ_beh_risk(alpha_win, alpha_lose, loss_aversion):
     fig = plt.figure(constrained_layout=True, figsize = (9,3.5))
     gs = GridSpec(1, 2, figure = fig)
     ax1 = fig.add_subplot(gs[0,0])
-    sns.lineplot(x_win, y_win, ax = ax1, color = 'black')
-    sns.lineplot(x_lose, y_lose, ax = ax1, color = 'red')
+    sns.lineplot(x = x_win, y = y_win, ax = ax1, color = 'black')
+    sns.lineplot(x = x_lose, y = y_lose, ax = ax1, color = 'red')
     ax2 = fig.add_subplot(gs[0,1])
     ax2.axis('off')
     ax2.text(0.5,0.5, r'$ U_{win}(x) = x^{\alpha_{win}}$', fontsize = 25)
@@ -103,8 +103,8 @@ def slider_econ_beh_prob(theta):
     fig = plt.figure(constrained_layout=True, figsize = (9,3.5))
     gs = GridSpec(1, 2, figure = fig)
     ax1 = fig.add_subplot(gs[0,0])
-    sns.lineplot(prob, prob_percept, ax = ax1, color = 'black')
-    sns.lineplot(prob, prob, color = 'black')
+    sns.lineplot(x = prob, y = prob_percept, ax = ax1, color = 'black')
+    sns.lineplot(x = prob, y = prob, color = 'black')
     ax1.lines[1].set_linestyle("--")
     ax2 = fig.add_subplot(gs[0,1])
     ax2.axis('off')
@@ -113,5 +113,60 @@ def slider_econ_beh_prob(theta):
     ax1.set_xlabel('Prob.')
     ax1.set_ylabel('Percepción de prob.');
     
+
+
+def value_fun(x, alpha, beta, lambbda):
+    #x: [reward1, reward2]; dataframe
+    #alpha, beta: risk attitudes (win, lose)
+    #lambbda: loss aversion   
+    if (x>=0).all().all():
+        return x**alpha
+    elif (x<=0).all().all():
+        return -lambbda*((-x)**beta)
+    else: #mix
+        if (x.iloc[:,0]>=0).all():
+            return pd.concat([x.iloc[:,0]**alpha, 
+                             -lambbda*((-x.iloc[:,1])**beta)], axis=1)
+        else:
+            return pd.concat([-lambbda*((-x.iloc[:,0])**beta), 
+                             x.iloc[:,1]**alpha], axis=1)
+            
+def weight_fun(x, p, gamma, delta):
+    #x: [reward1, reward2]; 
+    #p: [prob1, prob2]; 
+    #gamma, delta: non-linear prob. perception (win, lose)
     
+    if (x>=0).all().all():
+        num = p**gamma
+        den = pd.concat([num.sum(axis=1)**(1/gamma),
+                         num.sum(axis=1)**(1/gamma)], axis=1)        
+    elif (x<=0).all().all():
+        num = p**delta
+        den = pd.concat([num.sum(axis=1)**(1/delta),
+                         num.sum(axis=1)**(1/delta)], axis=1)
+    else: #mix
+        if (x.iloc[:,0]>=0).all():
+            num = pd.concat([p.iloc[:,0]**gamma, 
+                             p.iloc[:,1]**delta], axis=1)
+            den = pd.concat([num.sum(axis=1)**(1/gamma),
+                            num.sum(axis=1)**(1/delta)], axis=1)
+        else:
+            num = pd.concat([p.iloc[:,0]**delta, 
+                             p.iloc[:,1]**gamma], axis=1)
+            den = pd.concat([num.sum()**(1/delta),
+                            num.sum()**(1/gamma)], axis=1)
+    
+    num.columns = ['Prob_1', 'Prob_2']
+    den.columns = ['Prob_1', 'Prob_2']
+    
+    return num/den
+
+def EV(v,w):
+    # v (value) and w (prob. weights)
+    # v and w are the output of value_fun and weight_fun
+    return pd.DataFrame(v.values*w.values).sum(axis=1)
+    
+def choice_rule(EV, luce):
+    return 1/(1+np.exp(luce*(EV.iloc[:,0] - EV.iloc[:,1]))) #prob. of EV[1]
+
     
