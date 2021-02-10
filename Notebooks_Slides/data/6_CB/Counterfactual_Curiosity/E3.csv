@@ -1,0 +1,1981 @@
+,study,subject,age,gender,trial,time_elapsed,pump_value,n_pumps,limit,outcome,outcome_ec,outcome_rating,diff_pumps_limit,information_outcome,information_sought,information_received_ec,emotion_change_rating,next_trial_n_pumps,next_trial_bank,next_trial_points
+1,E3 effort no bonus,1,19,female,0,187175,85,1,2,bank,1,112,1,try harder,1,NA,-40,3,1,201
+2,E3 effort no bonus,1,19,female,1,240310,67,3,6,bank,1,57,3,try harder,1,NA,-47,5,1,365
+3,E3 effort no bonus,1,19,female,2,282441,73,5,9,bank,1,107,4,no,0,-1,10,10,0,0
+4,E3 effort no bonus,1,19,female,3,310802,12,10,7,bust,-1,-89,-3,no,0,-1,-71,6,0,0
+5,E3 effort no bonus,1,19,female,4,337318,1,6,2,bust,-1,-72,-4,no,0,-1,-47,6,1,390
+6,E3 effort no bonus,1,19,female,5,375242,65,6,8,bank,1,58,2,yes,1,1,42,4,0,0
+7,E3 effort no bonus,1,19,female,6,402254,3,4,0,bust,-1,-96,-4,no,0,-1,-42,9,0,0
+8,E3 effort no bonus,1,19,female,7,431808,89,9,2,bust,-1,-90,-7,no,0,-1,-106,6,1,138
+9,E3 effort no bonus,1,19,female,8,455905,23,6,10,bank,1,78,4,no,0,-1,42,2,1,198
+10,E3 effort no bonus,1,19,female,9,475908,99,2,6,bank,1,49,4,yes,1,1,62,5,0,0
+11,E3 effort no bonus,1,19,female,10,495269,99,5,2,bust,-1,-95,-3,no,0,-1,-80,6,1,426
+12,E3 effort no bonus,1,19,female,11,525419,71,6,9,bank,1,58,3,yes,1,1,47,8,1,72
+13,E3 effort no bonus,1,19,female,12,553409,9,8,11,bank,1,51,3,yes,1,1,69,8,1,744
+14,E3 effort no bonus,1,19,female,13,579983,93,8,11,bank,1,76,3,yes,1,1,86,8,1,160
+15,E3 effort no bonus,1,19,female,14,667778,20,8,9,bank,1,81,1,try harder,1,NA,-23,9,1,855
+16,E3 effort no bonus,1,19,female,15,711247,95,9,12,bank,1,87,3,no,0,-1,69,6,1,372
+17,E3 effort no bonus,1,19,female,16,775091,62,6,10,bank,1,72,4,no,0,-1,-38,9,0,0
+18,E3 effort no bonus,1,19,female,17,797918,27,9,7,bust,-1,-54,-2,no,0,-1,-80,12,0,0
+19,E3 effort no bonus,1,19,female,18,833446,4,12,3,bust,-1,-74,-9,no,0,-1,-71,8,0,0
+20,E3 effort no bonus,1,19,female,19,857172,74,8,4,bust,-1,-121,-4,no,0,-1,-61,3,1,129
+21,E3 effort no bonus,1,19,female,20,880054,43,3,9,bank,1,50,6,no,0,-1,83,12,0,0
+22,E3 effort no bonus,1,19,female,21,904107,3,12,1,bust,-1,-59,-11,no,0,-1,-152,7,1,133
+23,E3 effort no bonus,1,19,female,22,928216,19,7,7,bank,1,72,0,no,0,-1,70,5,0,0
+24,E3 effort no bonus,1,19,female,23,953967,27,5,2,bust,-1,-79,-3,no,0,-1,-62,5,1,175
+25,E3 effort no bonus,1,19,female,24,977604,35,5,6,bank,1,125,1,yes,1,1,87,2,1,176
+26,E3 effort no bonus,1,19,female,25,996605,88,2,7,bank,1,119,5,no,0,-1,95,3,0,0
+27,E3 effort no bonus,1,19,female,26,1024708,48,3,1,bust,-1,-42,-2,no,0,-1,-109,2,0,0
+28,E3 effort no bonus,1,19,female,27,1043868,69,2,1,bust,-1,-56,-1,no,0,-1,-61,3,1,264
+29,E3 effort no bonus,1,19,female,28,1089586,88,3,7,bank,1,71,4,no,0,-1,55,10,0,0
+30,E3 effort no bonus,1,19,female,29,1130638,2,10,2,bust,-1,-104,-8,no,0,-1,-64,5,1,430
+31,E3 effort no bonus,1,19,female,30,1192997,86,5,6,bank,1,82,1,no,0,-1,56,2,1,182
+32,E3 effort no bonus,1,19,female,31,1232619,91,2,4,bank,1,61,2,no,0,-1,97,3,0,0
+33,E3 effort no bonus,1,19,female,32,1254478,66,3,1,bust,-1,-51,-2,no,0,-1,-98,5,1,95
+34,E3 effort no bonus,1,19,female,33,1282592,19,5,7,bank,1,66,2,no,0,-1,51,6,1,354
+35,E3 effort no bonus,1,19,female,34,1304024,59,6,11,bank,1,83,5,try harder,1,NA,61,10,0,0
+36,E3 effort no bonus,1,19,female,35,1325444,7,10,9,bust,-1,-93,-1,no,0,-1,-49,2,1,168
+37,E3 effort no bonus,1,19,female,36,1340665,84,2,4,bank,1,85,2,yes,1,1,78,2,1,154
+38,E3 effort no bonus,1,19,female,37,1363245,77,2,10,bank,1,78,8,no,0,-1,65,1,1,98
+39,E3 effort no bonus,1,19,female,38,1379849,98,1,3,bank,1,32,2,yes,1,1,34,3,0,0
+40,E3 effort no bonus,1,19,female,39,1396622,66,3,0,bust,-1,-53,-3,no,0,-1,-43,7,1,140
+41,E3 effort no bonus,1,19,female,40,1422081,20,7,7,bank,1,60,0,no,0,-1,96,2,1,158
+42,E3 effort no bonus,1,19,female,41,1441433,79,2,10,bank,1,72,8,try harder,1,NA,39,5,0,0
+43,E3 effort no bonus,1,19,female,42,1459803,35,5,4,bust,-1,-77,-1,try harder,1,NA,-28,5,1,90
+44,E3 effort no bonus,1,19,female,43,1485532,18,5,12,bank,1,63,7,no,0,-1,70,10,1,20
+45,E3 effort no bonus,1,19,female,44,1508999,2,10,10,bank,1,97,0,no,0,-1,62,2,1,170
+46,E3 effort no bonus,1,19,female,45,1524749,85,2,9,bank,1,109,7,no,0,-1,48,5,0,0
+47,E3 effort no bonus,1,19,female,46,1542648,19,5,0,bust,-1,-83,-5,no,0,-1,-48,4,0,0
+48,E3 effort no bonus,1,19,female,47,1562088,3,4,1,bust,-1,-77,-3,no,0,-1,-42,3,1,147
+49,E3 effort no bonus,1,19,female,48,1578828,49,3,4,bank,1,48,1,no,0,-1,46,4,1,12
+50,E3 effort no bonus,1,19,female,49,1600395,3,4,11,bank,1,65,7,try harder,1,NA,-29,2,1,130
+51,E3 effort no bonus,1,19,female,50,1617900,65,2,8,bank,1,32,6,no,0,-1,48,4,1,120
+52,E3 effort no bonus,1,19,female,51,1636755,30,4,12,bank,1,56,8,no,0,-1,50,2,1,116
+53,E3 effort no bonus,1,19,female,52,1651661,58,2,7,bank,1,58,5,no,0,-1,57,4,1,44
+54,E3 effort no bonus,1,19,female,53,1669414,11,4,11,bank,1,47,7,no,0,-1,49,6,0,0
+55,E3 effort no bonus,1,19,female,54,1742224,1,6,2,bust,-1,-59,-4,no,0,-1,-59,2,1,128
+56,E3 effort no bonus,1,19,female,55,1763241,64,2,3,bank,1,48,1,no,0,-1,32,4,0,0
+57,E3 effort no bonus,1,19,female,56,1790408,11,4,0,bust,-1,-44,-4,no,0,-1,-42,2,1,52
+58,E3 effort no bonus,1,19,female,57,1807868,26,2,9,bank,1,38,7,no,0,-1,29,2,1,188
+59,E3 effort no bonus,1,19,female,58,1824541,94,2,3,bank,1,91,1,no,0,-1,90,2,0,0
+60,E3 effort no bonus,1,19,female,59,1842305,81,2,0,bust,-1,-37,-2,yes,1,1,18,NA,NA,NA
+61,E3 effort no bonus,2,"18
+18",female,0,91597,5,6,9,bank,1,52,3,try harder,1,NA,3,8,0,0
+62,E3 effort no bonus,2,"18
+18",female,1,122829,9,8,4,bust,-1,-62,-4,yes,1,1,-75,4,1,84
+63,E3 effort no bonus,2,"18
+18",female,2,141816,21,4,5,bank,1,71,1,yes,1,1,97,2,0,0
+64,E3 effort no bonus,2,"18
+18",female,3,160785,86,2,0,bust,-1,-165,-2,yes,1,1,-124,8,1,160
+65,E3 effort no bonus,2,"18
+18",female,4,179996,20,8,11,bank,1,125,3,yes,1,1,47,3,1,267
+66,E3 effort no bonus,2,"18
+18",female,5,197107,89,3,8,bank,1,108,5,yes,1,1,-75,10,0,0
+67,E3 effort no bonus,2,"18
+18",female,6,215531,33,10,9,bust,-1,-108,-1,yes,1,1,-200,7,1,154
+68,E3 effort no bonus,2,"18
+18",female,7,233792,22,7,7,bank,1,116,0,yes,1,1,200,3,0,0
+69,E3 effort no bonus,2,"18
+18",female,8,249028,58,3,2,bust,-1,-109,-1,try harder,1,NA,-31,6,0,0
+70,E3 effort no bonus,2,"18
+18",female,9,273113,98,6,0,bust,-1,-148,-6,yes,1,1,17,1,1,36
+71,E3 effort no bonus,2,"18
+18",female,10,288191,36,1,5,bank,1,98,4,try harder,1,NA,-97,7,1,182
+72,E3 effort no bonus,2,"18
+18",female,11,310959,26,7,8,bank,1,128,1,yes,1,1,110,1,0,0
+73,E3 effort no bonus,2,"18
+18",female,12,340548,38,1,0,bust,-1,-141,-1,yes,1,1,-11,6,1,84
+74,E3 effort no bonus,2,"18
+18",female,13,358951,14,6,6,bank,1,110,0,yes,1,1,200,4,1,336
+75,E3 effort no bonus,2,"18
+18",female,14,373074,84,4,11,bank,1,123,7,yes,1,1,-102,9,1,126
+76,E3 effort no bonus,2,"18
+18",female,15,393268,14,9,12,bank,1,136,3,try harder,1,NA,8,2,1,6
+77,E3 effort no bonus,2,"18
+18",female,16,411463,3,2,8,bank,1,56,6,try harder,1,NA,-35,3,1,63
+78,E3 effort no bonus,2,"18
+18",female,17,428033,21,3,6,bank,1,78,3,yes,1,1,3,6,0,0
+79,E3 effort no bonus,2,"18
+18",female,18,442914,35,6,5,bust,-1,-57,-1,try harder,1,NA,-48,4,1,344
+80,E3 effort no bonus,2,"18
+18",female,19,460412,86,4,4,bank,1,74,0,no,0,-1,1,8,1,184
+81,E3 effort no bonus,2,"18
+18",female,20,479386,23,8,9,bank,1,150,1,try harder,1,NA,-104,5,0,0
+82,E3 effort no bonus,2,"18
+18",female,21,496373,32,5,0,bust,-1,-59,-5,yes,1,1,-107,4,0,0
+83,E3 effort no bonus,2,"18
+18",female,22,514414,61,4,1,bust,-1,-156,-3,try harder,1,NA,-114,7,0,0
+84,E3 effort no bonus,2,"18
+18",female,23,538568,29,7,4,bust,-1,-111,-3,no,0,-1,-1,7,1,42
+85,E3 effort no bonus,2,"18
+18",female,24,560900,6,7,9,bank,1,134,2,no,0,-1,4,4,1,12
+86,E3 effort no bonus,2,"18
+18",female,25,579191,3,4,10,bank,1,103,6,no,0,-1,12,8,1,368
+87,E3 effort no bonus,2,"18
+18",female,26,602083,46,8,9,bank,1,168,1,no,0,-1,0,3,1,126
+88,E3 effort no bonus,2,"18
+18",female,27,621446,42,3,3,bank,1,54,0,yes,1,1,140,6,1,378
+89,E3 effort no bonus,2,"18
+18",female,28,638390,63,6,9,bank,1,152,3,yes,1,1,28,2,0,0
+90,E3 effort no bonus,2,"18
+18",female,29,652784,62,2,0,bust,-1,-62,-2,try harder,1,NA,-42,1,1,59
+91,E3 effort no bonus,2,"18
+18",female,30,667355,59,1,1,bank,1,35,0,yes,1,1,96,5,0,0
+92,E3 effort no bonus,2,"18
+18",female,31,685488,68,5,0,bust,-1,-62,-5,try harder,1,NA,-98,1,1,72
+93,E3 effort no bonus,2,"18
+18",female,32,705063,72,1,1,bank,1,100,0,no,0,-1,1,10,1,540
+94,E3 effort no bonus,2,"18
+18",female,33,730850,54,10,12,bank,1,182,2,no,0,-1,9,5,0,0
+95,E3 effort no bonus,2,"18
+18",female,34,751631,59,5,4,bust,-1,-40,-1,yes,1,1,-157,1,1,57
+96,E3 effort no bonus,2,"18
+18",female,35,767855,57,1,11,bank,1,38,10,yes,1,1,-200,7,1,322
+97,E3 effort no bonus,2,"18
+18",female,36,787674,46,7,12,bank,1,131,5,no,0,-1,5,4,1,184
+98,E3 effort no bonus,2,"18
+18",female,37,805503,46,4,5,bank,1,94,1,no,0,-1,11,6,1,228
+99,E3 effort no bonus,2,"18
+18",female,38,825458,38,6,10,bank,1,120,4,no,0,-1,49,2,1,28
+100,E3 effort no bonus,2,"18
+18",female,39,839362,14,2,12,bank,1,62,10,try harder,1,NA,-39,5,0,0
+101,E3 effort no bonus,2,"18
+18",female,40,856425,49,5,0,bust,-1,-61,-5,try harder,1,NA,-42,1,1,87
+102,E3 effort no bonus,2,"18
+18",female,41,869061,87,1,3,bank,1,34,2,yes,1,1,15,6,1,420
+103,E3 effort no bonus,2,"18
+18",female,42,889078,70,6,11,bank,1,64,5,no,0,-1,39,1,1,84
+104,E3 effort no bonus,2,"18
+18",female,43,902385,84,1,10,bank,1,44,9,try harder,1,NA,-88,9,0,0
+105,E3 effort no bonus,2,"18
+18",female,44,921024,89,9,6,bust,-1,-77,-3,yes,1,1,-37,4,1,344
+106,E3 effort no bonus,2,"18
+18",female,45,938750,86,4,12,bank,1,67,8,no,0,-1,56,5,1,460
+107,E3 effort no bonus,2,"18
+18",female,46,958568,92,5,6,bank,1,93,1,no,0,-1,29,8,0,0
+108,E3 effort no bonus,2,"18
+18",female,47,977230,50,8,5,bust,-1,-120,-3,yes,1,1,-69,3,1,297
+109,E3 effort no bonus,2,"18
+18",female,48,993559,99,3,7,bank,1,72,4,no,0,-1,-2,1,1,78
+110,E3 effort no bonus,2,"18
+18",female,49,1009568,78,1,1,bank,1,35,0,try harder,1,NA,-139,3,1,126
+111,E3 effort no bonus,2,"18
+18",female,50,1023793,42,3,12,bank,1,31,9,yes,1,1,-106,6,1,210
+112,E3 effort no bonus,2,"18
+18",female,51,1040734,35,6,11,bank,1,106,5,no,0,-1,-1,7,0,0
+113,E3 effort no bonus,2,"18
+18",female,52,1057579,9,7,6,bust,-1,-55,-1,yes,1,1,-115,3,1,291
+114,E3 effort no bonus,2,"18
+18",female,53,1075185,97,3,11,bank,1,50,8,no,0,-1,-3,6,1,372
+115,E3 effort no bonus,2,"18
+18",female,54,1093357,62,6,10,bank,1,90,4,no,0,-1,3,10,0,0
+116,E3 effort no bonus,2,"18
+18",female,55,1114670,9,10,7,bust,-1,-141,-3,yes,1,1,-37,4,1,36
+117,E3 effort no bonus,2,"18
+18",female,56,1129788,9,4,11,bank,1,67,7,no,0,-1,27,6,1,570
+118,E3 effort no bonus,2,"18
+18",female,57,1148063,95,6,10,bank,1,94,4,no,0,-1,-3,7,1,385
+119,E3 effort no bonus,2,"18
+18",female,58,1168746,55,7,9,bank,1,131,2,no,0,-1,11,9,1,18
+120,E3 effort no bonus,2,"18
+18",female,59,1192342,2,9,10,bank,1,191,1,no,0,-1,17,NA,NA,NA
+121,E3 effort no bonus,3,18,female,0,154322,10,8,3,bust,-1,-76,-5,yes,1,1,-77,3,0,0
+122,E3 effort no bonus,3,18,female,1,184190,84,3,1,bust,-1,-9,-2,no,0,-1,72,6,1,600
+123,E3 effort no bonus,3,18,female,2,206883,100,6,8,bank,1,200,2,yes,1,1,106,2,1,20
+124,E3 effort no bonus,3,18,female,3,225485,10,2,2,bank,1,-6,0,yes,1,1,171,10,0,0
+125,E3 effort no bonus,3,18,female,4,247173,70,10,5,bust,-1,-169,-5,try harder,1,NA,-153,3,1,90
+126,E3 effort no bonus,3,18,female,5,264070,30,3,4,bank,1,63,1,yes,1,1,34,6,1,384
+127,E3 effort no bonus,3,18,female,6,280888,64,6,7,bank,1,107,1,yes,1,1,200,4,1,276
+128,E3 effort no bonus,3,18,female,7,298583,69,4,9,bank,1,133,5,try harder,1,NA,-26,7,0,0
+129,E3 effort no bonus,3,18,female,8,321838,23,7,6,bust,-1,-122,-1,no,0,-1,50,1,0,0
+130,E3 effort no bonus,3,18,female,9,338630,16,1,0,bust,-1,38,-1,yes,1,1,-117,6,1,258
+131,E3 effort no bonus,3,18,female,10,359704,43,6,10,bank,1,33,4,yes,1,1,53,4,1,220
+132,E3 effort no bonus,3,18,female,11,375213,55,4,9,bank,1,55,5,yes,1,1,-50,8,0,0
+133,E3 effort no bonus,3,18,female,12,396110,76,8,4,bust,-1,-200,-4,yes,1,1,-162,8,1,656
+134,E3 effort no bonus,3,18,female,13,414127,82,8,9,bank,1,126,1,yes,1,1,77,3,0,0
+135,E3 effort no bonus,3,18,female,14,431070,50,3,2,bust,-1,49,-1,try harder,1,NA,-40,6,1,498
+136,E3 effort no bonus,3,18,female,15,448038,83,6,6,bank,1,50,0,yes,1,1,200,4,1,380
+137,E3 effort no bonus,3,18,female,16,464024,95,4,9,bank,1,59,5,try harder,1,NA,-177,5,1,5
+138,E3 effort no bonus,3,18,female,17,481965,1,5,10,bank,1,12,5,yes,1,1,-65,6,0,0
+139,E3 effort no bonus,3,18,female,18,498711,86,6,1,bust,-1,-95,-5,yes,1,1,-77,3,0,0
+140,E3 effort no bonus,3,18,female,19,513820,44,3,0,bust,-1,35,-3,yes,1,1,-200,4,0,0
+141,E3 effort no bonus,3,18,female,20,528454,34,4,1,bust,-1,-188,-3,try harder,1,NA,-88,5,0,0
+142,E3 effort no bonus,3,18,female,21,545191,40,5,2,bust,-1,-141,-3,yes,1,1,-200,5,1,35
+143,E3 effort no bonus,3,18,female,22,575436,7,5,5,bank,1,-102,0,yes,1,1,29,12,0,0
+144,E3 effort no bonus,3,18,female,23,598855,99,12,6,bust,-1,41,-6,try harder,1,NA,-200,5,1,250
+145,E3 effort no bonus,3,18,female,24,617401,50,5,5,bank,1,49,0,yes,1,1,200,4,0,0
+146,E3 effort no bonus,3,18,female,25,636927,91,4,0,bust,-1,-88,-4,no,0,-1,-82,5,0,0
+147,E3 effort no bonus,3,18,female,26,662263,87,5,3,bust,-1,-65,-2,no,0,-1,-126,4,0,0
+148,E3 effort no bonus,3,18,female,27,693423,42,4,0,bust,-1,-74,-4,no,0,-1,-117,3,1,210
+149,E3 effort no bonus,3,18,female,28,714987,70,3,6,bank,1,68,3,no,0,-1,67,4,1,4
+150,E3 effort no bonus,3,18,female,29,740691,1,4,5,bank,1,13,1,try harder,1,NA,-200,2,1,8
+151,E3 effort no bonus,3,18,female,30,783033,4,2,2,bank,1,31,0,yes,1,1,-40,4,0,0
+152,E3 effort no bonus,3,18,female,31,820384,47,4,2,bust,-1,-67,-2,try harder,1,NA,-56,3,1,87
+153,E3 effort no bonus,3,18,female,32,866862,29,3,7,bank,1,-71,4,yes,1,1,-35,2,1,6
+154,E3 effort no bonus,3,18,female,33,1010705,3,2,7,bank,1,-104,5,yes,1,1,89,5,1,95
+155,E3 effort no bonus,3,18,female,34,1069932,19,5,11,bank,1,35,6,try harder,1,NA,-108,6,1,480
+156,E3 effort no bonus,3,18,female,35,1126853,80,6,8,bank,1,200,2,yes,1,1,121,5,0,0
+157,E3 effort no bonus,3,18,female,36,1154681,81,5,1,bust,-1,49,-4,try harder,1,NA,-200,11,0,0
+158,E3 effort no bonus,3,18,female,37,1190047,87,11,4,bust,-1,-122,-7,no,0,-1,81,4,1,272
+159,E3 effort no bonus,3,18,female,38,1220086,68,4,10,bank,1,-93,6,yes,1,1,92,2,1,80
+160,E3 effort no bonus,3,18,female,39,1842244,40,2,7,bank,1,-76,5,try harder,1,NA,-176,4,1,72
+161,E3 effort no bonus,3,18,female,40,1861629,18,4,6,bank,1,56,2,no,0,-1,13,2,1,40
+162,E3 effort no bonus,3,18,female,41,2068132,20,2,2,bank,1,107,0,no,0,-1,-69,4,1,112
+163,E3 effort no bonus,3,18,female,42,2945253,28,4,8,bank,1,20,4,no,0,-1,102,7,1,672
+164,E3 effort no bonus,3,18,female,43,3001908,96,7,9,bank,1,143,2,yes,1,1,23,3,1,93
+165,E3 effort no bonus,3,18,female,44,3025362,31,3,11,bank,1,15,8,yes,1,1,-200,5,0,0
+166,E3 effort no bonus,3,18,female,45,3043183,93,5,0,bust,-1,-200,-5,no,0,-1,-72,5,1,455
+167,E3 effort no bonus,3,18,female,46,3075213,91,5,11,bank,1,24,6,no,0,-1,-56,3,1,165
+168,E3 effort no bonus,3,18,female,47,3106602,55,3,4,bank,1,-8,1,try harder,1,NA,-109,3,1,144
+169,E3 effort no bonus,3,18,female,48,3136536,48,3,7,bank,1,51,4,yes,1,1,-95,4,1,204
+170,E3 effort no bonus,3,18,female,49,3153541,51,4,8,bank,1,-31,4,yes,1,1,17,5,0,0
+171,E3 effort no bonus,3,18,female,50,3260031,51,5,0,bust,-1,-81,-5,try harder,1,NA,-173,4,1,84
+172,E3 effort no bonus,3,18,female,51,3291294,21,4,7,bank,1,6,3,try harder,1,NA,183,3,1,108
+173,E3 effort no bonus,3,18,female,52,3306214,36,3,12,bank,1,-106,9,no,0,-1,47,6,0,0
+174,E3 effort no bonus,3,18,female,53,3397360,86,6,1,bust,-1,97,-5,no,0,-1,35,3,1,126
+175,E3 effort no bonus,3,18,female,54,3413060,42,3,7,bank,1,16,4,yes,1,1,47,6,1,594
+176,E3 effort no bonus,3,18,female,55,3429312,99,6,6,bank,1,200,0,no,0,-1,200,3,0,0
+177,E3 effort no bonus,3,18,female,56,3445192,18,3,0,bust,-1,-200,-3,no,0,-1,200,5,0,0
+178,E3 effort no bonus,3,18,female,57,3462104,98,5,0,bust,-1,-200,-5,no,0,-1,200,3,1,108
+179,E3 effort no bonus,3,18,female,58,3477239,36,3,4,bank,1,-200,1,no,0,-1,189,5,1,355
+180,E3 effort no bonus,3,18,female,59,3493889,71,5,7,bank,1,200,2,no,0,-1,200,NA,NA,NA
+181,E3 effort no bonus,4,21,female,0,270117,90,1,10,bank,1,-78,9,no,0,-1,16,7,0,0
+182,E3 effort no bonus,4,21,female,1,295706,31,7,6,bust,-1,-99,-1,yes,1,1,-144,3,0,0
+183,E3 effort no bonus,4,21,female,2,316264,95,3,0,bust,-1,-95,-3,yes,1,1,-74,7,1,182
+184,E3 effort no bonus,4,21,female,3,338304,26,7,7,bank,1,85,0,yes,1,1,200,2,1,174
+185,E3 effort no bonus,4,21,female,4,361019,87,2,6,bank,1,77,4,try harder,1,NA,-158,5,1,170
+186,E3 effort no bonus,4,21,female,5,380656,34,5,12,bank,1,200,7,yes,1,1,-172,6,0,0
+187,E3 effort no bonus,4,21,female,6,401588,39,6,5,bust,-1,-126,-1,yes,1,1,-64,10,0,0
+188,E3 effort no bonus,4,21,female,7,425248,17,10,1,bust,-1,-166,-9,yes,1,1,125,2,1,42
+189,E3 effort no bonus,4,21,female,8,442152,21,2,12,bank,1,55,10,try harder,1,NA,4,3,1,270
+190,E3 effort no bonus,4,21,female,9,462526,90,3,5,bank,1,121,2,yes,1,1,89,10,0,0
+191,E3 effort no bonus,4,21,female,10,489231,5,10,5,bust,-1,-139,-5,try harder,1,NA,-200,3,1,222
+192,E3 effort no bonus,4,21,female,11,512007,74,3,10,bank,1,102,7,no,0,-1,192,5,0,0
+193,E3 effort no bonus,4,21,female,12,534107,83,5,3,bust,-1,-156,-2,no,0,-1,-25,3,0,0
+194,E3 effort no bonus,4,21,female,13,554625,35,3,0,bust,-1,-200,-3,yes,1,1,-151,5,1,150
+195,E3 effort no bonus,4,21,female,14,575777,30,5,9,bank,1,159,4,try harder,1,NA,-96,5,1,130
+196,E3 effort no bonus,4,21,female,15,602190,26,5,6,bank,1,92,1,yes,1,1,116,3,0,0
+197,E3 effort no bonus,4,21,female,16,624966,57,3,2,bust,-1,-143,-1,no,0,-1,-160,8,0,0
+198,E3 effort no bonus,4,21,female,17,795562,13,8,5,bust,-1,-124,-3,try harder,1,NA,-176,2,1,192
+199,E3 effort no bonus,4,21,female,18,813511,96,2,7,bank,1,48,5,yes,1,1,-81,4,1,336
+200,E3 effort no bonus,4,21,female,19,834654,84,4,5,bank,1,116,1,try harder,1,NA,-141,5,1,125
+201,E3 effort no bonus,4,21,female,20,866116,25,5,10,bank,1,95,5,yes,1,1,-101,8,1,176
+202,E3 effort no bonus,4,21,female,21,890621,22,8,9,bank,1,182,1,try harder,1,NA,103,3,1,270
+203,E3 effort no bonus,4,21,female,22,909461,90,3,11,bank,1,200,8,try harder,1,NA,-200,5,1,275
+204,E3 effort no bonus,4,21,female,23,934327,55,5,7,bank,1,145,2,try harder,1,NA,-58,12,0,0
+205,E3 effort no bonus,4,21,female,24,974793,1,12,4,bust,-1,-9,-8,yes,1,1,27,3,1,240
+206,E3 effort no bonus,4,21,female,25,1024096,80,3,8,bank,1,69,5,no,0,-1,60,5,1,105
+207,E3 effort no bonus,4,21,female,26,1048054,21,5,5,bank,1,127,0,yes,1,1,200,3,1,195
+208,E3 effort no bonus,4,21,female,27,1123098,65,3,5,bank,1,199,2,try harder,1,NA,-48,5,0,0
+209,E3 effort no bonus,4,21,female,28,1163579,20,5,4,bust,-1,-112,-1,try harder,1,NA,-66,6,0,0
+210,E3 effort no bonus,4,21,female,29,1197911,58,6,5,bust,-1,-46,-1,yes,1,1,-128,2,1,134
+211,E3 effort no bonus,4,21,female,30,1216557,67,2,12,bank,1,167,10,no,0,-1,9,3,1,189
+212,E3 effort no bonus,4,21,female,31,1235684,63,3,8,bank,1,98,5,no,0,-1,5,4,0,0
+213,E3 effort no bonus,4,21,female,32,1255144,39,4,0,bust,-1,-200,-4,no,0,-1,-5,2,1,68
+214,E3 effort no bonus,4,21,female,33,1275744,34,2,4,bank,1,34,2,yes,1,1,2,3,1,165
+215,E3 effort no bonus,4,21,female,34,1292985,55,3,6,bank,1,71,3,try harder,1,NA,0,8,0,0
+216,E3 effort no bonus,4,21,female,35,1314080,16,8,5,bust,-1,-62,-3,no,0,-1,-39,5,0,0
+217,E3 effort no bonus,4,21,female,36,1339270,24,5,3,bust,-1,-67,-2,yes,1,1,25,2,1,164
+218,E3 effort no bonus,4,21,female,37,1363493,82,2,3,bank,1,61,1,no,0,-1,24,2,0,0
+219,E3 effort no bonus,4,21,female,38,1381201,86,2,1,bust,-1,-78,-1,no,0,-1,0,2,1,124
+220,E3 effort no bonus,4,21,female,39,1613423,62,2,6,bank,1,25,4,try harder,1,NA,0,4,1,84
+221,E3 effort no bonus,4,21,female,40,1639049,21,4,6,bank,1,63,2,no,0,-1,38,3,1,279
+222,E3 effort no bonus,4,21,female,41,1655334,93,3,10,bank,1,200,7,yes,1,1,-62,4,1,152
+223,E3 effort no bonus,4,21,female,42,1675480,38,4,10,bank,1,57,6,try harder,1,NA,-35,2,1,154
+224,E3 effort no bonus,4,21,female,43,1764199,77,2,9,bank,1,101,7,yes,1,1,-129,7,0,0
+225,E3 effort no bonus,4,21,female,44,1785842,11,7,5,bust,-1,-200,-2,no,0,-1,0,3,1,294
+226,E3 effort no bonus,4,21,female,45,1801409,98,3,12,bank,1,56,9,yes,1,1,-200,6,0,0
+227,E3 effort no bonus,4,21,female,46,1824328,12,6,2,bust,-1,-145,-4,no,0,-1,0,4,1,220
+228,E3 effort no bonus,4,21,female,47,1840551,55,4,9,bank,1,78,5,yes,1,1,21,4,1,248
+229,E3 effort no bonus,4,21,female,48,1856491,62,4,8,bank,1,121,4,yes,1,1,6,8,0,0
+230,E3 effort no bonus,4,21,female,49,1876978,10,8,2,bust,-1,-117,-6,no,0,-1,46,5,1,280
+231,E3 effort no bonus,4,21,female,50,1893171,56,5,12,bank,1,108,7,yes,1,1,-64,3,1,3
+232,E3 effort no bonus,4,21,female,51,1918567,1,3,5,bank,1,45,2,no,0,-1,0,5,0,0
+233,E3 effort no bonus,4,21,female,52,1940360,8,5,0,bust,-1,-79,-5,yes,1,1,123,4,0,0
+234,E3 effort no bonus,4,21,female,53,1956257,86,4,1,bust,-1,-91,-3,no,0,-1,-25,5,1,380
+235,E3 effort no bonus,4,21,female,54,1975296,76,5,11,bank,1,108,6,no,0,-1,72,2,1,18
+236,E3 effort no bonus,4,21,female,55,1989968,9,2,12,bank,1,92,10,no,0,-1,0,4,0,0
+237,E3 effort no bonus,4,21,female,56,2006523,92,4,0,bust,-1,-150,-4,no,0,-1,0,6,0,0
+238,E3 effort no bonus,4,21,female,57,2023511,35,6,5,bust,-1,-82,-1,no,0,-1,-23,2,1,72
+239,E3 effort no bonus,4,21,female,58,2107943,36,2,12,bank,1,44,10,no,0,-1,0,2,1,126
+240,E3 effort no bonus,4,21,female,59,2157383,63,2,12,bank,1,118,10,no,0,-1,77,NA,NA,NA
+241,E3 effort no bonus,5,21,female,0,412990,75,4,10,bank,1,145,6,yes,1,1,34,5,1,265
+242,E3 effort no bonus,5,21,female,1,441763,53,5,7,bank,1,-1,2,yes,1,1,0,2,1,164
+243,E3 effort no bonus,5,21,female,2,463933,82,2,12,bank,1,-9,10,no,0,-1,0,10,0,0
+244,E3 effort no bonus,5,21,female,3,487831,74,10,1,bust,-1,-79,-9,yes,1,1,-119,12,0,0
+245,E3 effort no bonus,5,21,female,4,522744,26,12,9,bust,-1,-200,-3,no,0,-1,-99,2,1,126
+246,E3 effort no bonus,5,21,female,5,557759,63,2,12,bank,1,95,10,no,0,-1,-76,5,1,485
+247,E3 effort no bonus,5,21,female,6,577035,97,5,6,bank,1,146,1,no,0,-1,145,2,1,158
+248,E3 effort no bonus,5,21,female,7,593538,79,2,11,bank,1,79,9,no,0,-1,0,5,0,0
+249,E3 effort no bonus,5,21,female,8,612067,22,5,3,bust,-1,-182,-2,no,0,-1,-200,2,1,180
+250,E3 effort no bonus,5,21,female,9,628437,90,2,3,bank,1,168,1,no,0,-1,-54,4,0,0
+251,E3 effort no bonus,5,21,female,10,645822,21,4,0,bust,-1,-200,-4,no,0,-1,-200,3,1,69
+252,E3 effort no bonus,5,21,female,11,661464,23,3,4,bank,1,66,1,no,0,-1,-65,2,1,154
+253,E3 effort no bonus,5,21,female,12,675949,77,2,7,bank,1,43,5,no,0,-1,-49,4,1,372
+254,E3 effort no bonus,5,21,female,13,692357,93,4,9,bank,1,98,5,no,0,-1,77,5,0,0
+255,E3 effort no bonus,5,21,female,14,708586,35,5,0,bust,-1,-193,-5,no,0,-1,-126,6,1,384
+256,E3 effort no bonus,5,21,female,15,726484,64,6,8,bank,1,178,2,no,0,-1,172,2,1,50
+257,E3 effort no bonus,5,21,female,16,741195,25,2,10,bank,1,-50,8,no,0,-1,-54,9,0,0
+258,E3 effort no bonus,5,21,female,17,760076,95,9,2,bust,-1,-145,-7,no,0,-1,-140,1,1,45
+259,E3 effort no bonus,5,21,female,18,776181,45,1,10,bank,1,95,9,no,0,-1,-66,10,1,780
+260,E3 effort no bonus,5,21,female,19,795784,78,10,10,bank,1,200,0,no,0,-1,200,3,1,213
+261,E3 effort no bonus,5,21,female,20,810215,71,3,3,bank,1,64,0,no,0,-1,90,1,1,45
+262,E3 effort no bonus,5,21,female,21,824481,45,1,9,bank,1,-35,8,no,0,-1,43,1,0,0
+263,E3 effort no bonus,5,21,female,22,840043,22,1,0,bust,-1,-200,-1,no,0,-1,-165,5,0,0
+264,E3 effort no bonus,5,21,female,23,858016,92,5,4,bust,-1,-141,-1,no,0,-1,-200,1,1,5
+265,E3 effort no bonus,5,21,female,24,876596,5,1,4,bank,1,-47,3,no,0,-1,-104,12,0,0
+266,E3 effort no bonus,5,21,female,25,897884,44,12,1,bust,-1,-200,-11,no,0,-1,-200,6,0,0
+267,E3 effort no bonus,5,21,female,26,927249,17,6,4,bust,-1,131,-2,no,0,-1,125,5,0,0
+268,E3 effort no bonus,5,21,female,27,958823,38,5,0,bust,-1,-125,-5,no,0,-1,-178,5,1,60
+269,E3 effort no bonus,5,21,female,28,977447,12,5,6,bank,1,58,1,no,0,-1,127,7,0,0
+270,E3 effort no bonus,5,21,female,29,996673,46,7,4,bust,-1,-200,-3,no,0,-1,-200,4,1,120
+271,E3 effort no bonus,5,21,female,30,1031624,30,4,9,bank,1,154,5,no,0,-1,-76,4,1,188
+272,E3 effort no bonus,5,21,female,31,1047958,47,4,5,bank,1,-106,1,no,0,-1,93,5,0,0
+273,E3 effort no bonus,5,21,female,32,1063809,43,5,3,bust,-1,-200,-2,no,0,-1,-200,4,0,0
+274,E3 effort no bonus,5,21,female,33,1078391,23,4,0,bust,-1,-200,-4,no,0,-1,-200,11,0,0
+275,E3 effort no bonus,5,21,female,34,1097237,81,11,7,bust,-1,-200,-4,no,0,-1,-200,4,1,120
+276,E3 effort no bonus,5,21,female,35,1112745,30,4,11,bank,1,101,7,no,0,-1,-85,2,1,16
+277,E3 effort no bonus,5,21,female,36,1127271,8,2,4,bank,1,16,2,no,0,-1,64,4,1,396
+278,E3 effort no bonus,5,21,female,37,1142022,99,4,8,bank,1,89,4,no,0,-1,132,2,1,186
+279,E3 effort no bonus,5,21,female,38,1161718,93,2,4,bank,1,184,2,no,0,-1,92,2,1,192
+280,E3 effort no bonus,5,21,female,39,1177604,96,2,10,bank,1,42,8,no,0,-1,47,4,1,24
+281,E3 effort no bonus,5,21,female,40,1192133,6,4,11,bank,1,23,7,no,0,-1,25,4,0,0
+282,E3 effort no bonus,5,21,female,41,1207051,62,4,0,bust,-1,-200,-4,no,0,-1,-200,4,1,208
+283,E3 effort no bonus,5,21,female,42,1221821,52,4,12,bank,1,64,8,no,0,-1,59,3,1,6
+284,E3 effort no bonus,5,21,female,43,1236820,2,3,10,bank,1,90,7,no,0,-1,53,6,1,576
+285,E3 effort no bonus,5,21,female,44,1253790,96,6,12,bank,1,101,6,no,0,-1,53,3,1,72
+286,E3 effort no bonus,5,21,female,45,1268081,24,3,4,bank,1,59,1,no,0,-1,52,2,1,158
+287,E3 effort no bonus,5,21,female,46,1283024,79,2,11,bank,1,59,9,try harder,1,NA,-92,1,0,0
+288,E3 effort no bonus,5,21,female,47,1299800,1,1,0,bust,-1,-200,-1,no,0,-1,-75,2,1,26
+289,E3 effort no bonus,5,21,female,48,1315047,13,2,2,bank,1,87,0,no,0,-1,3,5,0,0
+290,E3 effort no bonus,5,21,female,49,1331036,27,5,1,bust,-1,-145,-4,no,0,-1,-200,4,1,288
+291,E3 effort no bonus,5,21,female,50,1347574,72,4,11,bank,1,65,7,no,0,-1,83,4,1,316
+292,E3 effort no bonus,5,21,female,51,1362667,79,4,4,bank,1,54,0,no,0,-1,79,1,1,32
+293,E3 effort no bonus,5,21,female,52,1376768,32,1,5,bank,1,67,4,no,0,-1,13,3,1,246
+294,E3 effort no bonus,5,21,female,53,1391353,82,3,11,bank,1,43,8,no,0,-1,103,4,1,140
+295,E3 effort no bonus,5,21,female,54,1406530,35,4,9,bank,1,23,5,no,0,-1,111,4,0,0
+296,E3 effort no bonus,5,21,female,55,1420612,20,4,1,bust,-1,-167,-3,no,0,-1,-88,5,1,140
+297,E3 effort no bonus,5,21,female,56,1435598,28,5,5,bank,1,145,0,no,0,-1,37,1,1,3
+298,E3 effort no bonus,5,21,female,57,1449800,3,1,5,bank,1,6,4,no,0,-1,0,4,1,156
+299,E3 effort no bonus,5,21,female,58,1466385,39,4,5,bank,1,185,1,no,0,-1,149,4,1,104
+300,E3 effort no bonus,5,21,female,59,1480714,26,4,6,bank,1,186,2,no,0,-1,125,NA,NA,NA
+301,E3 effort no bonus,6,21,female,0,227406,34,3,2,bust,-1,-47,-1,try harder,1,NA,-126,1,1,90
+302,E3 effort no bonus,6,21,female,1,250563,90,1,4,bank,1,144,3,no,0,-1,-6,3,1,117
+303,E3 effort no bonus,6,21,female,2,268785,39,3,9,bank,1,193,6,try harder,1,NA,-196,6,0,0
+304,E3 effort no bonus,6,21,female,3,289957,9,6,5,bust,-1,-200,-1,yes,1,1,-40,3,1,81
+305,E3 effort no bonus,6,21,female,4,319559,27,3,3,bank,1,179,0,yes,1,1,97,2,0,0
+306,E3 effort no bonus,6,21,female,5,336855,80,2,1,bust,-1,-200,-1,no,0,-1,-11,5,1,40
+307,E3 effort no bonus,6,21,female,6,354588,8,5,12,bank,1,169,7,try harder,1,NA,-183,2,1,30
+308,E3 effort no bonus,6,21,female,7,373062,15,2,9,bank,1,120,7,no,0,-1,-4,2,1,160
+309,E3 effort no bonus,6,21,female,8,392305,80,2,4,bank,1,143,2,no,0,-1,22,2,1,158
+310,E3 effort no bonus,6,21,female,9,407763,79,2,2,bank,1,200,0,no,0,-1,31,3,1,234
+311,E3 effort no bonus,6,21,female,10,425658,78,3,3,bank,1,200,0,no,0,-1,31,2,1,140
+312,E3 effort no bonus,6,21,female,11,442709,70,2,5,bank,1,200,3,no,0,-1,55,4,1,108
+313,E3 effort no bonus,6,21,female,12,464101,27,4,6,bank,1,191,2,no,0,-1,111,2,1,122
+314,E3 effort no bonus,6,21,female,13,481997,61,2,3,bank,1,189,1,no,0,-1,190,2,1,130
+315,E3 effort no bonus,6,21,female,14,500743,65,2,11,bank,1,200,9,no,0,-1,196,3,1,234
+316,E3 effort no bonus,6,21,female,15,520900,78,3,3,bank,1,130,0,no,0,-1,17,3,1,165
+317,E3 effort no bonus,6,21,female,16,540637,55,3,8,bank,1,152,5,no,0,-1,6,3,1,285
+318,E3 effort no bonus,6,21,female,17,558211,95,3,11,bank,1,180,8,no,0,-1,16,7,0,0
+319,E3 effort no bonus,6,21,female,18,580609,48,7,5,bust,-1,-13,-2,no,0,-1,-12,3,0,0
+320,E3 effort no bonus,6,21,female,19,598434,31,3,2,bust,-1,-10,-1,no,0,-1,10,3,1,36
+321,E3 effort no bonus,6,21,female,20,619632,12,3,11,bank,1,13,8,no,0,-1,20,2,1,114
+322,E3 effort no bonus,6,21,female,21,638296,57,2,11,bank,1,22,9,no,0,-1,9,2,1,96
+323,E3 effort no bonus,6,21,female,22,657639,48,2,6,bank,1,12,4,no,0,-1,13,4,1,60
+324,E3 effort no bonus,6,21,female,23,677815,15,4,6,bank,1,23,2,no,0,-1,12,7,0,0
+325,E3 effort no bonus,6,21,female,24,709870,2,7,5,bust,-1,-21,-2,no,0,-1,-14,3,1,3
+326,E3 effort no bonus,6,21,female,25,732422,1,3,6,bank,1,4,3,no,0,-1,-21,2,1,102
+327,E3 effort no bonus,6,21,female,26,749897,51,2,11,bank,1,35,9,no,0,-1,16,3,0,0
+328,E3 effort no bonus,6,21,female,27,765829,35,3,1,bust,-1,-8,-2,no,0,-1,-15,1,1,61
+329,E3 effort no bonus,6,21,female,28,785419,61,1,4,bank,1,13,3,no,0,-1,19,2,1,76
+330,E3 effort no bonus,6,21,female,29,801914,38,2,2,bank,1,35,0,no,0,-1,7,3,0,0
+331,E3 effort no bonus,6,21,female,30,820537,8,3,2,bust,-1,-13,-1,no,0,-1,27,1,1,62
+332,E3 effort no bonus,6,21,female,31,838239,62,1,3,bank,1,29,2,no,0,-1,15,2,1,166
+333,E3 effort no bonus,6,21,female,32,854492,83,2,6,bank,1,123,4,no,0,-1,18,3,1,21
+334,E3 effort no bonus,6,21,female,33,871530,7,3,4,bank,1,23,1,no,0,-1,25,2,1,150
+335,E3 effort no bonus,6,21,female,34,888137,75,2,11,bank,1,145,9,no,0,-1,25,1,1,79
+336,E3 effort no bonus,6,21,female,35,904845,79,1,8,bank,1,22,7,no,0,-1,19,3,1,177
+337,E3 effort no bonus,6,21,female,36,922445,59,3,3,bank,1,154,0,no,0,-1,27,2,1,132
+338,E3 effort no bonus,6,21,female,37,941527,66,2,5,bank,1,153,3,no,0,-1,30,2,1,120
+339,E3 effort no bonus,6,21,female,38,958713,60,2,12,bank,1,114,10,no,0,-1,48,3,1,255
+340,E3 effort no bonus,6,21,female,39,977165,85,3,6,bank,1,112,3,no,0,-1,13,5,0,0
+341,E3 effort no bonus,6,21,female,40,995978,3,5,2,bust,-1,-27,-3,no,0,-1,13,2,1,200
+342,E3 effort no bonus,6,21,female,41,1015026,100,2,7,bank,1,200,5,no,0,-1,23,4,1,340
+343,E3 effort no bonus,6,21,female,42,1033289,85,4,7,bank,1,200,3,no,0,-1,45,4,0,0
+344,E3 effort no bonus,6,21,female,43,1053536,86,4,0,bust,-1,-74,-4,no,0,-1,19,3,1,114
+345,E3 effort no bonus,6,21,female,44,1071956,38,3,10,bank,1,71,7,no,0,-1,18,3,1,33
+346,E3 effort no bonus,6,21,female,45,1092415,11,3,7,bank,1,29,4,no,0,-1,26,3,1,72
+347,E3 effort no bonus,6,21,female,46,1109813,24,3,6,bank,1,22,3,no,0,-1,29,4,0,0
+348,E3 effort no bonus,6,21,female,47,1130117,32,4,3,bust,-1,-69,-1,no,0,-1,18,3,1,216
+349,E3 effort no bonus,6,21,female,48,1145363,72,3,5,bank,1,72,2,no,0,-1,21,2,1,8
+350,E3 effort no bonus,6,21,female,49,1159373,4,2,8,bank,1,41,6,no,0,-1,32,3,1,195
+351,E3 effort no bonus,6,21,female,50,1173323,65,3,11,bank,1,52,8,no,0,-1,10,2,1,38
+352,E3 effort no bonus,6,21,female,51,1186603,19,2,3,bank,1,23,1,no,0,-1,13,3,1,249
+353,E3 effort no bonus,6,21,female,52,1202143,83,3,4,bank,1,86,1,no,0,-1,8,3,1,33
+354,E3 effort no bonus,6,21,female,53,1217873,11,3,9,bank,1,33,6,no,0,-1,12,2,1,56
+355,E3 effort no bonus,6,21,female,54,1236533,28,2,6,bank,1,20,4,no,0,-1,17,3,1,141
+356,E3 effort no bonus,6,21,female,55,1254089,47,3,6,bank,1,92,3,no,0,-1,8,3,1,267
+357,E3 effort no bonus,6,21,female,56,1269030,89,3,9,bank,1,200,6,no,0,-1,86,4,1,208
+358,E3 effort no bonus,6,21,female,57,1287718,52,4,9,bank,1,129,5,no,0,-1,34,3,1,291
+359,E3 effort no bonus,6,21,female,58,1302723,97,3,5,bank,1,200,2,no,0,-1,18,2,1,52
+360,E3 effort no bonus,6,21,female,59,1318144,26,2,3,bank,1,3,1,yes,1,1,24,NA,NA,NA
+361,E3 effort no bonus,7,19,female,0,396898,52,5,3,bust,-1,-93,-2,yes,1,1,-9,3,1,132
+362,E3 effort no bonus,7,19,female,1,425307,44,3,10,bank,1,46,7,yes,1,1,-132,2,1,40
+363,E3 effort no bonus,7,19,female,2,447950,20,2,12,bank,1,-23,10,yes,1,1,-98,7,0,0
+364,E3 effort no bonus,7,19,female,3,480737,12,7,3,bust,-1,-87,-4,yes,1,1,-41,5,1,70
+365,E3 effort no bonus,7,19,female,4,507018,14,5,11,bank,1,36,6,yes,1,1,-98,3,1,219
+366,E3 effort no bonus,7,19,female,5,529116,73,3,10,bank,1,70,7,yes,1,1,-92,4,0,0
+367,E3 effort no bonus,7,19,female,6,549743,28,4,3,bust,-1,-116,-1,yes,1,1,-156,6,0,0
+368,E3 effort no bonus,7,19,female,7,572368,54,6,2,bust,-1,-119,-4,yes,1,1,-26,7,1,567
+369,E3 effort no bonus,7,19,female,8,594945,81,7,7,bank,1,74,0,yes,1,1,200,8,0,0
+370,E3 effort no bonus,7,19,female,9,619001,1,8,4,bust,-1,-64,-4,yes,1,1,-3,9,0,0
+371,E3 effort no bonus,7,19,female,10,642845,19,9,5,bust,-1,-38,-4,yes,1,1,0,5,1,280
+372,E3 effort no bonus,7,19,female,11,662404,56,5,11,bank,1,46,6,yes,1,1,-81,3,0,0
+373,E3 effort no bonus,7,19,female,12,684386,91,3,2,bust,-1,-45,-1,yes,1,1,-116,3,0,0
+374,E3 effort no bonus,7,19,female,13,709269,80,3,0,bust,-1,-68,-3,yes,1,1,-36,4,1,16
+375,E3 effort no bonus,7,19,female,14,737508,4,4,7,bank,1,20,3,try harder,1,NA,-154,4,0,0
+376,E3 effort no bonus,7,19,female,15,763215,94,4,2,bust,-1,-44,-2,yes,1,1,-17,5,0,0
+377,E3 effort no bonus,7,19,female,16,784299,80,5,0,bust,-1,-84,-5,yes,1,1,24,9,1,18
+378,E3 effort no bonus,7,19,female,17,809705,2,9,10,bank,1,70,1,yes,1,1,72,3,1,180
+379,E3 effort no bonus,7,19,female,18,829612,60,3,8,bank,1,92,5,yes,1,1,-83,6,1,174
+380,E3 effort no bonus,7,19,female,19,849007,29,6,9,bank,1,65,3,yes,1,1,-1,4,1,396
+381,E3 effort no bonus,7,19,female,20,866742,99,4,9,bank,1,50,5,yes,1,1,-59,2,1,186
+382,E3 effort no bonus,7,19,female,21,884083,93,2,8,bank,1,84,6,yes,1,1,-117,6,0,0
+383,E3 effort no bonus,7,19,female,22,904964,58,6,3,bust,-1,-99,-3,yes,1,1,-34,9,1,117
+384,E3 effort no bonus,7,19,female,23,929631,13,9,9,bank,1,70,0,yes,1,1,106,3,1,144
+385,E3 effort no bonus,7,19,female,24,947557,48,3,4,bank,1,50,1,yes,1,1,7,1,1,91
+386,E3 effort no bonus,7,19,female,25,965188,91,1,1,bank,1,69,0,yes,1,1,185,3,1,252
+387,E3 effort no bonus,7,19,female,26,983411,84,3,7,bank,1,90,4,yes,1,1,-48,4,1,188
+388,E3 effort no bonus,7,19,female,27,1001487,47,4,12,bank,1,40,8,yes,1,1,-90,4,1,48
+389,E3 effort no bonus,7,19,female,28,1022821,12,4,9,bank,1,85,5,yes,1,1,-76,2,1,124
+390,E3 effort no bonus,7,19,female,29,1040533,62,2,12,bank,1,50,10,yes,1,1,-163,5,1,185
+391,E3 effort no bonus,7,19,female,30,1062488,37,5,11,bank,1,68,6,yes,1,1,-103,2,1,170
+392,E3 effort no bonus,7,19,female,31,1081858,85,2,12,bank,1,66,10,yes,1,1,-200,2,1,166
+393,E3 effort no bonus,7,19,female,32,1105843,83,2,11,bank,1,111,9,yes,1,1,-200,4,1,100
+394,E3 effort no bonus,7,19,female,33,1124227,25,4,5,bank,1,67,1,yes,1,1,89,6,0,0
+395,E3 effort no bonus,7,19,female,34,1145583,70,6,2,bust,-1,-93,-4,yes,1,1,-61,5,0,0
+396,E3 effort no bonus,7,19,female,35,1166656,19,5,4,bust,-1,-109,-1,yes,1,1,-14,4,0,0
+397,E3 effort no bonus,7,19,female,36,1188535,42,4,2,bust,-1,-130,-2,yes,1,1,12,6,0,0
+398,E3 effort no bonus,7,19,female,37,1207247,55,6,1,bust,-1,-70,-5,yes,1,1,74,9,1,234
+399,E3 effort no bonus,7,19,female,38,1231271,26,9,10,bank,1,76,1,yes,1,1,39,2,1,86
+400,E3 effort no bonus,7,19,female,39,1251298,43,2,2,bank,1,81,0,yes,1,1,143,5,0,0
+401,E3 effort no bonus,7,19,female,40,1270588,43,5,4,bust,-1,-137,-1,yes,1,1,37,4,1,228
+402,E3 effort no bonus,7,19,female,41,1289360,57,4,4,bank,1,49,0,yes,1,1,173,3,1,87
+403,E3 effort no bonus,7,19,female,42,1306561,29,3,11,bank,1,32,8,yes,1,1,-148,1,1,96
+404,E3 effort no bonus,7,19,female,43,1326861,96,1,3,bank,1,41,2,yes,1,1,18,3,1,144
+405,E3 effort no bonus,7,19,female,44,1345514,48,3,9,bank,1,70,6,yes,1,1,-78,5,1,110
+406,E3 effort no bonus,7,19,female,45,1365690,22,5,11,bank,1,50,6,yes,1,1,-84,2,1,196
+407,E3 effort no bonus,7,19,female,46,1384910,98,2,10,bank,1,72,8,yes,1,1,-119,8,1,40
+408,E3 effort no bonus,7,19,female,47,1407969,5,8,9,bank,1,96,1,yes,1,1,32,3,1,207
+409,E3 effort no bonus,7,19,female,48,1424728,69,3,8,bank,1,106,5,yes,1,1,-65,4,0,0
+410,E3 effort no bonus,7,19,female,49,1449318,47,4,3,bust,-1,-123,-1,yes,1,1,-24,6,1,228
+411,E3 effort no bonus,7,19,female,50,1467565,38,6,11,bank,1,58,5,yes,1,1,-117,4,1,148
+412,E3 effort no bonus,7,19,female,51,1489662,37,4,5,bank,1,51,1,yes,1,1,127,4,1,28
+413,E3 effort no bonus,7,19,female,52,1509018,7,4,12,bank,1,54,8,yes,1,1,-108,7,0,0
+414,E3 effort no bonus,7,19,female,53,1528516,67,7,3,bust,-1,-79,-4,yes,1,1,-118,8,0,0
+415,E3 effort no bonus,7,19,female,54,1550418,86,8,1,bust,-1,-133,-7,yes,1,1,-10,6,1,66
+416,E3 effort no bonus,7,19,female,55,1568550,11,6,9,bank,1,89,3,yes,1,1,-37,3,1,195
+417,E3 effort no bonus,7,19,female,56,1586690,65,3,6,bank,1,60,3,yes,1,1,-33,9,0,0
+418,E3 effort no bonus,7,19,female,57,1609017,67,9,1,bust,-1,-157,-8,yes,1,1,-122,4,0,0
+419,E3 effort no bonus,7,19,female,58,1630119,82,4,3,bust,-1,-138,-1,yes,1,1,-200,6,1,150
+420,E3 effort no bonus,7,19,female,59,1657784,25,6,6,bank,1,125,0,yes,1,1,200,NA,NA,NA
+421,E3 effort no bonus,8,19,female,0,314783,64,3,3,bank,1,-74,0,yes,1,1,200,10,1,190
+422,E3 effort no bonus,8,19,female,1,351255,19,10,10,bank,1,89,0,yes,1,1,143,3,1,156
+423,E3 effort no bonus,8,19,female,2,385499,52,3,7,bank,1,-81,4,yes,1,1,-95,3,0,0
+424,E3 effort no bonus,8,19,female,3,411076,81,3,1,bust,-1,-200,-2,yes,1,1,0,2,1,172
+425,E3 effort no bonus,8,19,female,4,429026,86,2,11,bank,1,-26,9,yes,1,1,-138,5,1,470
+426,E3 effort no bonus,8,19,female,5,447808,94,5,5,bank,1,-53,0,yes,1,1,200,2,0,0
+427,E3 effort no bonus,8,19,female,6,467985,100,2,0,bust,-1,-134,-2,yes,1,1,1,3,1,276
+428,E3 effort no bonus,8,19,female,7,500922,92,3,11,bank,1,0,8,yes,1,1,-104,6,1,534
+429,E3 effort no bonus,8,19,female,8,525073,89,6,11,bank,1,63,5,yes,1,1,-45,4,0,0
+430,E3 effort no bonus,8,19,female,9,551134,68,4,3,bust,-1,-172,-1,yes,1,1,20,3,0,0
+431,E3 effort no bonus,8,19,female,10,578216,82,3,1,bust,-1,-79,-2,no,0,-1,0,10,1,200
+432,E3 effort no bonus,8,19,female,11,605828,20,10,10,bank,1,51,0,yes,1,1,172,12,0,0
+433,E3 effort no bonus,8,19,female,12,634062,8,12,6,bust,-1,-94,-6,yes,1,1,-111,4,0,0
+434,E3 effort no bonus,8,19,female,13,658268,72,4,1,bust,-1,-92,-3,try harder,1,NA,-46,6,1,42
+435,E3 effort no bonus,8,19,female,14,679358,7,6,7,bank,1,40,1,yes,1,1,-31,6,0,0
+436,E3 effort no bonus,8,19,female,15,701122,11,6,1,bust,-1,-70,-5,try harder,1,NA,-56,3,1,162
+437,E3 effort no bonus,8,19,female,16,720619,54,3,3,bank,1,33,0,yes,1,1,76,3,1,264
+438,E3 effort no bonus,8,19,female,17,743128,88,3,11,bank,1,44,8,yes,1,1,-110,4,1,236
+439,E3 effort no bonus,8,19,female,18,765507,59,4,11,bank,1,31,7,yes,1,1,-63,8,0,0
+440,E3 effort no bonus,8,19,female,19,795309,4,8,0,bust,-1,-47,-8,yes,1,1,-70,4,1,8
+441,E3 effort no bonus,8,19,female,20,827867,2,4,10,bank,1,-47,6,yes,1,1,-93,3,1,225
+442,E3 effort no bonus,8,19,female,21,850966,75,3,12,bank,1,-40,9,yes,1,1,-142,9,0,0
+443,E3 effort no bonus,8,19,female,22,873834,9,9,3,bust,-1,-200,-6,yes,1,1,-67,3,1,273
+444,E3 effort no bonus,8,19,female,23,891997,91,3,12,bank,1,54,9,yes,1,1,-103,6,1,54
+445,E3 effort no bonus,8,19,female,24,914244,9,6,11,bank,1,30,5,try harder,1,NA,53,5,1,130
+446,E3 effort no bonus,8,19,female,25,935086,26,5,6,bank,1,37,1,yes,1,1,0,3,1,258
+447,E3 effort no bonus,8,19,female,26,974377,86,3,3,bank,1,57,0,yes,1,1,115,4,0,0
+448,E3 effort no bonus,8,19,female,27,999911,82,4,1,bust,-1,-159,-3,yes,1,1,-26,6,0,0
+449,E3 effort no bonus,8,19,female,28,1020808,34,6,1,bust,-1,-130,-5,try harder,1,NA,-110,6,1,102
+450,E3 effort no bonus,8,19,female,29,1051892,17,6,11,bank,1,62,5,yes,1,1,-72,10,1,150
+451,E3 effort no bonus,8,19,female,30,1074909,15,10,10,bank,1,121,0,yes,1,1,164,6,0,0
+452,E3 effort no bonus,8,19,female,31,1096314,13,6,3,bust,-1,-138,-3,yes,1,1,-68,5,1,130
+453,E3 effort no bonus,8,19,female,32,1124813,26,5,11,bank,1,26,6,yes,1,1,-87,6,0,0
+454,E3 effort no bonus,8,19,female,33,1146150,21,6,5,bust,-1,-98,-1,yes,1,1,40,5,1,230
+455,E3 effort no bonus,8,19,female,34,1173286,46,5,7,bank,1,43,2,yes,1,1,1,6,0,0
+456,E3 effort no bonus,8,19,female,35,1197585,32,6,3,bust,-1,-52,-3,try harder,1,NA,-29,8,0,0
+457,E3 effort no bonus,8,19,female,36,1224301,10,8,1,bust,-1,-68,-7,yes,1,1,-97,4,1,112
+458,E3 effort no bonus,8,19,female,37,1243805,28,4,12,bank,1,33,8,yes,1,1,-130,5,1,195
+459,E3 effort no bonus,8,19,female,38,1273891,39,5,7,bank,1,29,2,yes,1,1,-39,4,1,244
+460,E3 effort no bonus,8,19,female,39,1292050,61,4,7,bank,1,39,3,yes,1,1,-75,3,0,0
+461,E3 effort no bonus,8,19,female,40,1311321,50,3,1,bust,-1,-89,-2,yes,1,1,-74,2,1,106
+462,E3 effort no bonus,8,19,female,41,1333121,53,2,11,bank,1,54,9,yes,1,1,-64,6,0,0
+463,E3 effort no bonus,8,19,female,42,1352063,27,6,2,bust,-1,-71,-4,yes,1,1,1,4,1,268
+464,E3 effort no bonus,8,19,female,43,1370615,67,4,8,bank,1,25,4,yes,1,1,-29,5,0,0
+465,E3 effort no bonus,8,19,female,44,1388677,88,5,3,bust,-1,-68,-2,try harder,1,NA,-39,4,1,384
+466,E3 effort no bonus,8,19,female,45,1409157,96,4,10,bank,1,36,6,yes,1,1,-76,5,1,405
+467,E3 effort no bonus,8,19,female,46,1429230,81,5,12,bank,1,80,7,try harder,1,NA,-97,7,0,0
+468,E3 effort no bonus,8,19,female,47,1453067,70,7,5,bust,-1,-50,-2,try harder,1,NA,0,4,0,0
+469,E3 effort no bonus,8,19,female,48,1473078,82,4,2,bust,-1,-118,-2,try harder,1,NA,-86,5,1,250
+470,E3 effort no bonus,8,19,female,49,1495495,50,5,9,bank,1,42,4,try harder,1,NA,-12,11,0,0
+471,E3 effort no bonus,8,19,female,50,1518044,17,11,5,bust,-1,-99,-6,try harder,1,NA,0,4,1,280
+472,E3 effort no bonus,8,19,female,51,1534064,70,4,8,bank,1,73,4,try harder,1,NA,0,5,1,110
+473,E3 effort no bonus,8,19,female,52,1552833,22,5,9,bank,1,32,4,try harder,1,NA,-20,5,1,470
+474,E3 effort no bonus,8,19,female,53,1571414,94,5,5,bank,1,63,0,try harder,1,NA,0,5,1,350
+475,E3 effort no bonus,8,19,female,54,1591416,70,5,5,bank,1,42,0,try harder,1,NA,-24,6,1,210
+476,E3 effort no bonus,8,19,female,55,1610434,35,6,10,bank,1,63,4,no,0,-1,1,5,1,320
+477,E3 effort no bonus,8,19,female,56,1630091,64,5,9,bank,1,44,4,no,0,-1,0,6,1,108
+478,E3 effort no bonus,8,19,female,57,1652058,18,6,10,bank,1,95,4,no,0,-1,1,8,0,0
+479,E3 effort no bonus,8,19,female,58,1673699,13,8,3,bust,-1,-90,-5,try harder,1,NA,0,4,0,0
+480,E3 effort no bonus,8,19,female,59,1690181,77,4,2,bust,-1,-59,-2,try harder,1,NA,0,NA,NA,NA
+481,E3 effort no bonus,9,19,female,0,162725,84,2,3,bank,1,-15,1,yes,1,1,-23,8,0,0
+482,E3 effort no bonus,9,19,female,1,186061,18,8,0,bust,-1,-24,-8,yes,1,1,-32,1,1,48
+483,E3 effort no bonus,9,19,female,2,208441,48,1,7,bank,1,16,6,no,0,-1,31,5,1,60
+484,E3 effort no bonus,9,19,female,3,229013,12,5,11,bank,1,-5,6,yes,1,1,-26,1,1,72
+485,E3 effort no bonus,9,19,female,4,258094,72,1,12,bank,1,-3,11,try harder,1,NA,-22,1,1,2
+486,E3 effort no bonus,9,19,female,5,276855,2,1,5,bank,1,-20,4,no,0,-1,-10,2,1,48
+487,E3 effort no bonus,9,19,female,6,299423,24,2,2,bank,1,-8,0,no,0,-1,16,3,1,234
+488,E3 effort no bonus,9,19,female,7,342207,78,3,3,bank,1,-21,0,no,0,-1,-23,3,1,198
+489,E3 effort no bonus,9,19,female,8,389595,66,3,4,bank,1,-35,1,no,0,-1,-45,2,1,118
+490,E3 effort no bonus,9,19,female,9,409356,59,2,4,bank,1,-35,2,no,0,-1,-16,4,1,324
+491,E3 effort no bonus,9,19,female,10,430809,81,4,4,bank,1,-36,0,no,0,-1,-13,5,1,95
+492,E3 effort no bonus,9,19,female,11,460331,19,5,11,bank,1,-21,6,no,0,-1,-22,1,1,70
+493,E3 effort no bonus,9,19,female,12,477357,70,1,4,bank,1,-11,3,no,0,-1,18,5,0,0
+494,E3 effort no bonus,9,19,female,13,496076,59,5,0,bust,-1,-51,-5,no,0,-1,-10,3,1,138
+495,E3 effort no bonus,9,19,female,14,513686,46,3,4,bank,1,-31,1,no,0,-1,-19,2,1,94
+496,E3 effort no bonus,9,19,female,15,532169,47,2,5,bank,1,-21,3,no,0,-1,-20,2,1,188
+497,E3 effort no bonus,9,19,female,16,550608,94,2,11,bank,1,9,9,no,0,-1,-18,3,1,9
+498,E3 effort no bonus,9,19,female,17,567938,3,3,3,bank,1,-25,0,no,0,-1,-19,4,1,368
+499,E3 effort no bonus,9,19,female,18,587714,92,4,6,bank,1,-20,2,try harder,1,NA,-19,2,1,164
+500,E3 effort no bonus,9,19,female,19,608921,82,2,6,bank,1,7,4,no,0,-1,-11,2,1,164
+501,E3 effort no bonus,9,19,female,20,623895,82,2,12,bank,1,-16,10,no,0,-1,-11,3,0,0
+502,E3 effort no bonus,9,19,female,21,641988,30,3,2,bust,-1,-25,-1,no,0,-1,-23,2,1,88
+503,E3 effort no bonus,9,19,female,22,658610,44,2,5,bank,1,-19,3,no,0,-1,-22,2,1,82
+504,E3 effort no bonus,9,19,female,23,674015,41,2,9,bank,1,-10,7,no,0,-1,-15,5,1,15
+505,E3 effort no bonus,9,19,female,24,696063,3,5,5,bank,1,28,0,no,0,-1,22,3,1,6
+506,E3 effort no bonus,9,19,female,25,715247,2,3,6,bank,1,-19,3,no,0,-1,-7,3,0,0
+507,E3 effort no bonus,9,19,female,26,731398,24,3,0,bust,-1,-83,-3,no,0,-1,-13,2,1,30
+508,E3 effort no bonus,9,19,female,27,750154,15,2,3,bank,1,-34,1,no,0,-1,-19,3,1,249
+509,E3 effort no bonus,9,19,female,28,771883,83,3,8,bank,1,-40,5,no,0,-1,-20,3,0,0
+510,E3 effort no bonus,9,19,female,29,790207,62,3,0,bust,-1,-44,-3,no,0,-1,-23,4,1,28
+511,E3 effort no bonus,9,19,female,30,812796,7,4,9,bank,1,-31,5,no,0,-1,-21,3,1,189
+512,E3 effort no bonus,9,19,female,31,831544,63,3,4,bank,1,-23,1,no,0,-1,-26,4,0,0
+513,E3 effort no bonus,9,19,female,32,853575,73,4,0,bust,-1,-51,-4,no,0,-1,-37,3,1,156
+514,E3 effort no bonus,9,19,female,33,893868,52,3,9,bank,1,22,6,no,0,-1,-10,5,1,125
+515,E3 effort no bonus,9,19,female,34,912719,25,5,6,bank,1,94,1,no,0,-1,30,8,0,0
+516,E3 effort no bonus,9,19,female,35,933936,28,8,6,bust,-1,-141,-2,no,0,-1,-29,5,1,125
+517,E3 effort no bonus,9,19,female,36,951662,25,5,10,bank,1,-21,5,no,0,-1,93,5,0,0
+518,E3 effort no bonus,9,19,female,37,970899,81,5,4,bust,-1,-175,-1,no,0,-1,-48,4,1,228
+519,E3 effort no bonus,9,19,female,38,988966,57,4,11,bank,1,111,7,no,0,-1,-52,5,0,0
+520,E3 effort no bonus,9,19,female,39,1008979,90,5,3,bust,-1,-77,-2,no,0,-1,-91,8,1,320
+521,E3 effort no bonus,9,19,female,40,1028928,40,8,12,bank,1,74,4,no,0,-1,-73,5,1,55
+522,E3 effort no bonus,9,19,female,41,1046918,11,5,9,bank,1,86,4,no,0,-1,-24,5,1,495
+523,E3 effort no bonus,9,19,female,42,1064922,99,5,5,bank,1,23,0,no,0,-1,44,8,1,464
+524,E3 effort no bonus,9,19,female,43,1086297,58,8,12,bank,1,49,4,no,0,-1,39,4,1,184
+525,E3 effort no bonus,9,19,female,44,1103459,46,4,10,bank,1,-31,6,no,0,-1,-33,6,0,0
+526,E3 effort no bonus,9,19,female,45,1122324,23,6,4,bust,-1,-111,-2,no,0,-1,-36,4,1,348
+527,E3 effort no bonus,9,19,female,46,1148849,87,4,12,bank,1,-75,8,no,0,-1,-34,5,1,120
+528,E3 effort no bonus,9,19,female,47,1175434,24,5,6,bank,1,-61,1,no,0,-1,-31,4,0,0
+529,E3 effort no bonus,9,19,female,48,1191578,39,4,3,bust,-1,-54,-1,no,0,-1,-45,4,0,0
+530,E3 effort no bonus,9,19,female,49,1207146,26,4,2,bust,-1,-102,-2,no,0,-1,-40,5,1,35
+531,E3 effort no bonus,9,19,female,50,1226754,7,5,8,bank,1,55,3,no,0,-1,-27,5,0,0
+532,E3 effort no bonus,9,19,female,51,1247653,50,5,2,bust,-1,-72,-3,no,0,-1,-81,5,1,45
+533,E3 effort no bonus,9,19,female,52,1264122,9,5,9,bank,1,-60,4,no,0,-1,-38,8,0,0
+534,E3 effort no bonus,9,19,female,53,1288263,1,8,3,bust,-1,-79,-5,no,0,-1,-53,8,0,0
+535,E3 effort no bonus,9,19,female,54,1308854,52,8,7,bust,-1,-103,-1,no,0,-1,-45,2,1,160
+536,E3 effort no bonus,9,19,female,55,1324039,80,2,5,bank,1,8,3,no,0,-1,42,5,1,240
+537,E3 effort no bonus,9,19,female,56,1340591,48,5,8,bank,1,44,3,no,0,-1,31,3,1,63
+538,E3 effort no bonus,9,19,female,57,1356162,21,3,12,bank,1,36,9,no,0,-1,35,4,1,276
+539,E3 effort no bonus,9,19,female,58,1371217,69,4,10,bank,1,53,6,no,0,-1,109,12,0,0
+540,E3 effort no bonus,9,19,female,59,1393520,57,12,7,bust,-1,-62,-5,no,0,-1,-64,NA,NA,NA
+541,E3 effort no bonus,10,19,female,0,362223,37,2,7,bank,1,-24,5,yes,1,1,-51,4,0,0
+542,E3 effort no bonus,10,19,female,1,389676,83,4,1,bust,-1,-50,-3,yes,1,1,-65,3,0,0
+543,E3 effort no bonus,10,19,female,2,413270,57,3,1,bust,-1,-39,-2,no,0,-1,-34,2,0,0
+544,E3 effort no bonus,10,19,female,3,434756,46,2,1,bust,-1,-27,-1,yes,1,1,0,2,1,142
+545,E3 effort no bonus,10,19,female,4,453759,71,2,10,bank,1,114,8,yes,1,1,-60,3,1,66
+546,E3 effort no bonus,10,19,female,5,476982,22,3,10,bank,1,39,7,no,0,-1,43,2,1,112
+547,E3 effort no bonus,10,19,female,6,499218,56,2,12,bank,1,58,10,no,0,-1,31,7,1,84
+548,E3 effort no bonus,10,19,female,7,522767,12,7,11,bank,1,114,4,no,0,-1,83,2,0,0
+549,E3 effort no bonus,10,19,female,8,544901,32,2,1,bust,-1,-54,-1,no,0,-1,-58,1,1,36
+550,E3 effort no bonus,10,19,female,9,564274,36,1,9,bank,1,31,8,no,0,-1,10,4,1,96
+551,E3 effort no bonus,10,19,female,10,584174,24,4,5,bank,1,46,1,no,0,-1,31,7,1,70
+552,E3 effort no bonus,10,19,female,11,608369,10,7,11,bank,1,99,4,no,0,-1,87,1,1,77
+553,E3 effort no bonus,10,19,female,12,630420,77,1,3,bank,1,33,2,no,0,-1,19,3,1,195
+554,E3 effort no bonus,10,19,female,13,654038,65,3,12,bank,1,38,9,no,0,-1,39,1,1,63
+555,E3 effort no bonus,10,19,female,14,674204,63,1,2,bank,1,41,1,no,0,-1,80,5,1,350
+556,E3 effort no bonus,10,19,female,15,696343,70,5,8,bank,1,164,3,no,0,-1,12,5,0,0
+557,E3 effort no bonus,10,19,female,16,721482,69,5,0,bust,-1,-98,-5,try harder,1,NA,-84,2,1,186
+558,E3 effort no bonus,10,19,female,17,747576,93,2,3,bank,1,103,1,no,0,-1,70,6,0,0
+559,E3 effort no bonus,10,19,female,18,769832,41,6,3,bust,-1,-59,-3,no,0,-1,-15,4,1,160
+560,E3 effort no bonus,10,19,female,19,792022,40,4,10,bank,1,98,6,no,0,-1,36,5,0,0
+561,E3 effort no bonus,10,19,female,20,817230,96,5,4,bust,-1,-44,-1,yes,1,1,-65,3,1,141
+562,E3 effort no bonus,10,19,female,21,837553,47,3,4,bank,1,54,1,no,0,-1,56,6,1,498
+563,E3 effort no bonus,10,19,female,22,859688,83,6,12,bank,1,170,6,no,0,-1,54,7,1,224
+564,E3 effort no bonus,10,19,female,23,883929,32,7,12,bank,1,200,5,no,0,-1,54,6,0,0
+565,E3 effort no bonus,10,19,female,24,907313,32,6,3,bust,-1,-45,-3,no,0,-1,-29,2,1,166
+566,E3 effort no bonus,10,19,female,25,924918,83,2,4,bank,1,86,2,no,0,-1,75,4,1,252
+567,E3 effort no bonus,10,19,female,26,945115,63,4,12,bank,1,102,8,no,0,-1,15,4,1,284
+568,E3 effort no bonus,10,19,female,27,964032,71,4,10,bank,1,92,6,no,0,-1,76,12,0,0
+569,E3 effort no bonus,10,19,female,28,990843,29,12,2,bust,-1,-73,-10,yes,1,1,-34,4,1,164
+570,E3 effort no bonus,10,19,female,29,1010684,41,4,8,bank,1,60,4,no,0,-1,45,3,1,159
+571,E3 effort no bonus,10,19,female,30,1034794,53,3,4,bank,1,38,1,no,0,-1,53,10,1,90
+572,E3 effort no bonus,10,19,female,31,1056172,9,10,11,bank,1,196,1,no,0,-1,63,6,0,0
+573,E3 effort no bonus,10,19,female,32,1079173,63,6,2,bust,-1,-67,-4,yes,1,1,-64,4,1,192
+574,E3 effort no bonus,10,19,female,33,1097800,48,4,5,bank,1,74,1,no,0,-1,79,8,1,672
+575,E3 effort no bonus,10,19,female,34,1118664,84,8,10,bank,1,200,2,no,0,-1,62,6,1,324
+576,E3 effort no bonus,10,19,female,35,1146280,54,6,6,bank,1,110,0,no,0,-1,108,7,0,0
+577,E3 effort no bonus,10,19,female,36,1167816,95,7,6,bust,-1,-50,-1,no,0,-1,-43,5,0,0
+578,E3 effort no bonus,10,19,female,37,1204550,44,5,3,bust,-1,-51,-2,no,0,-1,-55,10,0,0
+579,E3 effort no bonus,10,19,female,38,1225022,30,10,4,bust,-1,-179,-6,yes,1,1,-74,5,0,0
+580,E3 effort no bonus,10,19,female,39,1248985,60,5,4,bust,-1,-89,-1,no,0,-1,-111,5,1,435
+581,E3 effort no bonus,10,19,female,40,1280656,87,5,10,bank,1,91,5,no,0,-1,64,7,1,532
+582,E3 effort no bonus,10,19,female,41,1309318,76,7,11,bank,1,64,4,no,0,-1,99,8,1,560
+583,E3 effort no bonus,10,19,female,42,1344783,70,8,8,bank,1,73,0,yes,1,1,200,5,1,345
+584,E3 effort no bonus,10,19,female,43,1361529,69,5,8,bank,1,158,3,yes,1,1,-121,12,0,0
+585,E3 effort no bonus,10,19,female,44,1384441,5,12,7,bust,-1,-146,-5,yes,1,1,-74,7,0,0
+586,E3 effort no bonus,10,19,female,45,1404904,24,7,4,bust,-1,-124,-3,yes,1,1,-57,5,0,0
+587,E3 effort no bonus,10,19,female,46,1422030,34,5,3,bust,-1,-96,-2,yes,1,1,-115,2,1,190
+588,E3 effort no bonus,10,19,female,47,1437080,95,2,9,bank,1,74,7,yes,1,1,-76,5,0,0
+589,E3 effort no bonus,10,19,female,48,1459464,21,5,0,bust,-1,-62,-5,no,0,-1,-46,9,0,0
+590,E3 effort no bonus,10,19,female,49,1481271,17,9,3,bust,-1,-77,-6,yes,1,1,-79,5,0,0
+591,E3 effort no bonus,10,19,female,50,1501392,48,5,1,bust,-1,-85,-4,yes,1,1,-38,4,0,0
+592,E3 effort no bonus,10,19,female,51,1519020,37,4,2,bust,-1,-41,-2,yes,1,1,-59,3,1,279
+593,E3 effort no bonus,10,19,female,52,1536632,93,3,7,bank,1,102,4,no,0,-1,20,5,1,470
+594,E3 effort no bonus,10,19,female,53,1556243,94,5,8,bank,1,81,3,no,0,-1,40,4,1,320
+595,E3 effort no bonus,10,19,female,54,1574590,80,4,9,bank,1,81,5,no,0,-1,36,6,1,396
+596,E3 effort no bonus,10,19,female,55,1596584,66,6,6,bank,1,85,0,no,0,-1,38,6,1,216
+597,E3 effort no bonus,10,19,female,56,1615752,36,6,11,bank,1,111,5,no,0,-1,61,6,1,540
+598,E3 effort no bonus,10,19,female,57,1636747,90,6,8,bank,1,112,2,no,0,-1,111,6,0,0
+599,E3 effort no bonus,10,19,female,58,1659825,12,6,2,bust,-1,-70,-4,no,0,-1,-56,12,0,0
+600,E3 effort no bonus,10,19,female,59,1724868,20,12,10,bust,-1,-71,-2,yes,1,1,-78,NA,NA,NA
+601,E3 effort no bonus,11,21,female,0,231642,96,2,0,bust,-1,-65,-2,try harder,1,NA,-67,1,1,91
+602,E3 effort no bonus,11,21,female,1,251256,91,1,10,bank,1,41,9,yes,1,1,-75,10,0,0
+603,E3 effort no bonus,11,21,female,2,277586,85,10,9,bust,-1,-61,-1,yes,1,1,-82,10,0,0
+604,E3 effort no bonus,11,21,female,3,299744,34,10,0,bust,-1,-70,-10,no,0,-1,-81,7,0,0
+605,E3 effort no bonus,11,21,female,4,325060,49,7,2,bust,-1,-71,-5,yes,1,1,-93,7,0,0
+606,E3 effort no bonus,11,21,female,5,349162,54,7,2,bust,-1,-83,-5,yes,1,1,-66,6,1,192
+607,E3 effort no bonus,11,21,female,6,370011,32,6,10,bank,1,76,4,yes,1,1,42,5,1,470
+608,E3 effort no bonus,11,21,female,7,389092,94,5,11,bank,1,82,6,yes,1,1,-26,4,1,192
+609,E3 effort no bonus,11,21,female,8,405590,48,4,5,bank,1,41,1,yes,1,1,96,3,1,243
+610,E3 effort no bonus,11,21,female,9,422247,81,3,9,bank,1,51,6,yes,1,1,-61,5,1,400
+611,E3 effort no bonus,11,21,female,10,442440,80,5,10,bank,1,34,5,yes,1,1,-65,5,1,280
+612,E3 effort no bonus,11,21,female,11,458896,56,5,6,bank,1,64,1,yes,1,1,200,8,0,0
+613,E3 effort no bonus,11,21,female,12,481973,39,8,5,bust,-1,-44,-3,yes,1,1,-40,7,1,224
+614,E3 effort no bonus,11,21,female,13,499698,32,7,7,bank,1,53,0,yes,1,1,28,3,1,231
+615,E3 effort no bonus,11,21,female,14,514876,77,3,4,bank,1,44,1,yes,1,1,50,5,0,0
+616,E3 effort no bonus,11,21,female,15,532164,58,5,1,bust,-1,-45,-4,try harder,1,NA,-72,9,0,0
+617,E3 effort no bonus,11,21,female,16,551672,33,9,7,bust,-1,-46,-2,try harder,1,NA,-58,3,1,195
+618,E3 effort no bonus,11,21,female,17,568140,65,3,6,bank,1,47,3,yes,1,1,31,9,0,0
+619,E3 effort no bonus,11,21,female,18,589546,30,9,6,bust,-1,-67,-3,yes,1,1,-47,12,0,0
+620,E3 effort no bonus,11,21,female,19,612747,7,12,4,bust,-1,-81,-8,yes,1,1,-77,7,1,42
+621,E3 effort no bonus,11,21,female,20,630597,6,7,11,bank,1,67,4,yes,1,1,-51,7,1,84
+622,E3 effort no bonus,11,21,female,21,652528,12,7,12,bank,1,55,5,yes,1,1,-36,7,1,287
+623,E3 effort no bonus,11,21,female,22,669284,41,7,9,bank,1,57,2,yes,1,1,28,6,1,156
+624,E3 effort no bonus,11,21,female,23,689128,26,6,9,bank,1,53,3,yes,1,1,14,6,0,0
+625,E3 effort no bonus,11,21,female,24,709738,91,6,2,bust,-1,-40,-4,yes,1,1,-35,6,1,156
+626,E3 effort no bonus,11,21,female,25,726691,26,6,10,bank,1,39,4,yes,1,1,-33,5,1,310
+627,E3 effort no bonus,11,21,female,26,744593,62,5,5,bank,1,42,0,yes,1,1,28,5,1,485
+628,E3 effort no bonus,11,21,female,27,759493,97,5,9,bank,1,51,4,yes,1,1,-39,5,1,385
+629,E3 effort no bonus,11,21,female,28,774669,77,5,7,bank,1,59,2,yes,1,1,27,10,0,0
+630,E3 effort no bonus,11,21,female,29,817914,24,10,2,bust,-1,-67,-8,yes,1,1,-45,10,0,0
+631,E3 effort no bonus,11,21,female,30,838982,19,10,2,bust,-1,-58,-8,try harder,1,NA,-77,3,0,0
+632,E3 effort no bonus,11,21,female,31,863238,88,3,0,bust,-1,-54,-3,try harder,1,NA,-57,4,1,156
+633,E3 effort no bonus,11,21,female,32,878492,39,4,9,bank,1,47,5,yes,1,1,-25,8,1,264
+634,E3 effort no bonus,11,21,female,33,896036,33,8,10,bank,1,70,2,yes,1,1,43,9,1,486
+635,E3 effort no bonus,11,21,female,34,914076,54,9,10,bank,1,58,1,yes,1,1,87,7,0,0
+636,E3 effort no bonus,11,21,female,35,929657,32,7,4,bust,-1,-42,-3,yes,1,1,-27,9,0,0
+637,E3 effort no bonus,11,21,female,36,948046,13,9,7,bust,-1,-57,-2,yes,1,1,-47,7,1,357
+638,E3 effort no bonus,11,21,female,37,963976,51,7,9,bank,1,35,2,yes,1,1,35,4,1,308
+639,E3 effort no bonus,11,21,female,38,979139,77,4,10,bank,1,48,6,yes,1,1,-23,3,1,276
+640,E3 effort no bonus,11,21,female,39,993003,92,3,10,bank,1,26,7,yes,1,1,-49,8,1,120
+641,E3 effort no bonus,11,21,female,40,1010936,15,8,9,bank,1,52,1,yes,1,1,119,5,0,0
+642,E3 effort no bonus,11,21,female,41,1026388,65,5,4,bust,-1,-43,-1,yes,1,1,-24,7,1,315
+643,E3 effort no bonus,11,21,female,42,1041713,45,7,12,bank,1,66,5,yes,1,1,-16,4,1,268
+644,E3 effort no bonus,11,21,female,43,1055660,67,4,7,bank,1,83,3,yes,1,1,31,4,1,320
+645,E3 effort no bonus,11,21,female,44,1072337,80,4,5,bank,1,38,1,yes,1,1,99,10,1,250
+646,E3 effort no bonus,11,21,female,45,1091650,25,10,12,bank,1,88,2,try harder,1,NA,-62,11,0,0
+647,E3 effort no bonus,11,21,female,46,1112846,3,11,8,bust,-1,-27,-3,try harder,1,NA,-102,7,0,0
+648,E3 effort no bonus,11,21,female,47,1128347,28,7,2,bust,-1,-24,-5,yes,1,1,-42,7,0,0
+649,E3 effort no bonus,11,21,female,48,1144503,22,7,5,bust,-1,-124,-2,yes,1,1,-56,7,1,77
+650,E3 effort no bonus,11,21,female,49,1164208,11,7,9,bank,1,113,2,yes,1,1,126,6,1,126
+651,E3 effort no bonus,11,21,female,50,1182280,21,6,6,bank,1,53,0,yes,1,1,40,10,0,0
+652,E3 effort no bonus,11,21,female,51,1201609,21,10,0,bust,-1,-49,-10,yes,1,1,-42,2,1,156
+653,E3 effort no bonus,11,21,female,52,1214709,78,2,5,bank,1,60,3,yes,1,1,-25,4,1,368
+654,E3 effort no bonus,11,21,female,53,1229891,92,4,12,bank,1,28,8,yes,1,1,-67,6,1,300
+655,E3 effort no bonus,11,21,female,54,1245102,50,6,8,bank,1,70,2,yes,1,1,94,5,1,125
+656,E3 effort no bonus,11,21,female,55,1261172,25,5,8,bank,1,58,3,yes,1,1,39,5,0,0
+657,E3 effort no bonus,11,21,female,56,1276322,40,5,0,bust,-1,-93,-5,yes,1,1,-38,6,1,600
+658,E3 effort no bonus,11,21,female,57,1295265,100,6,6,bank,1,109,0,yes,1,1,200,8,1,24
+659,E3 effort no bonus,11,21,female,58,1314953,3,8,10,bank,1,81,2,yes,1,1,84,4,1,236
+660,E3 effort no bonus,11,21,female,59,1331522,59,4,7,bank,1,80,3,try harder,1,NA,-26,NA,NA,NA
+661,E3 effort no bonus,12,18,female,0,380428,66,3,2,bust,-1,-100,-1,try harder,1,NA,-99,6,1,384
+662,E3 effort no bonus,12,18,female,1,412180,64,6,7,bank,1,95,1,no,0,-1,0,7,1,609
+663,E3 effort no bonus,12,18,female,2,442208,87,7,10,bank,1,129,3,no,0,-1,0,2,1,82
+664,E3 effort no bonus,12,18,female,3,469325,41,2,12,bank,1,-67,10,try harder,1,NA,-59,5,0,0
+665,E3 effort no bonus,12,18,female,4,490774,27,5,1,bust,-1,-105,-4,no,0,-1,0,7,1,497
+666,E3 effort no bonus,12,18,female,5,531750,71,7,7,bank,1,55,0,no,0,-1,0,6,1,594
+667,E3 effort no bonus,12,18,female,6,568293,99,6,7,bank,1,105,1,no,0,-1,0,9,0,0
+668,E3 effort no bonus,12,18,female,7,600487,25,9,4,bust,-1,-111,-5,yes,1,1,-69,4,1,308
+669,E3 effort no bonus,12,18,female,8,621524,77,4,12,bank,1,34,8,no,0,-1,-4,6,1,396
+670,E3 effort no bonus,12,18,female,9,643049,66,6,12,bank,1,30,6,no,0,-1,0,7,0,0
+671,E3 effort no bonus,12,18,female,10,663268,45,7,3,bust,-1,-68,-4,no,0,-1,0,6,0,0
+672,E3 effort no bonus,12,18,female,11,686695,66,6,2,bust,-1,-93,-4,yes,1,1,-58,8,0,0
+673,E3 effort no bonus,12,18,female,12,707545,40,8,0,bust,-1,-97,-8,yes,1,1,112,5,0,0
+674,E3 effort no bonus,12,18,female,13,724835,34,5,1,bust,-1,-139,-4,yes,1,1,-150,2,1,84
+675,E3 effort no bonus,12,18,female,14,744226,42,2,6,bank,1,-26,4,yes,1,1,-155,3,1,255
+676,E3 effort no bonus,12,18,female,15,761329,85,3,4,bank,1,27,1,try harder,1,NA,-56,5,1,340
+677,E3 effort no bonus,12,18,female,16,779081,68,5,6,bank,1,87,1,no,0,-1,0,5,1,455
+678,E3 effort no bonus,12,18,female,17,798160,91,5,8,bank,1,78,3,try harder,1,NA,-35,3,1,234
+679,E3 effort no bonus,12,18,female,18,815186,78,3,4,bank,1,37,1,no,0,-1,0,8,0,0
+680,E3 effort no bonus,12,18,female,19,833165,23,8,2,bust,-1,-77,-6,yes,1,1,-144,5,1,405
+681,E3 effort no bonus,12,18,female,20,849641,81,5,10,bank,1,56,5,no,0,-1,0,6,1,522
+682,E3 effort no bonus,12,18,female,21,867099,87,6,10,bank,1,145,4,no,0,-1,0,5,1,360
+683,E3 effort no bonus,12,18,female,22,885691,72,5,6,bank,1,118,1,no,0,-1,0,7,0,0
+684,E3 effort no bonus,12,18,female,23,906533,20,7,5,bust,-1,-108,-2,yes,1,1,56,5,1,260
+685,E3 effort no bonus,12,18,female,24,923745,52,5,11,bank,1,66,6,no,0,-1,0,3,1,252
+686,E3 effort no bonus,12,18,female,25,939738,84,3,4,bank,1,58,1,yes,1,1,51,5,0,0
+687,E3 effort no bonus,12,18,female,26,960670,71,5,2,bust,-1,-39,-3,no,0,-1,0,5,1,225
+688,E3 effort no bonus,12,18,female,27,982533,45,5,6,bank,1,77,1,yes,1,1,46,5,1,490
+689,E3 effort no bonus,12,18,female,28,1059168,98,5,9,bank,1,118,4,no,0,-1,0,5,0,0
+690,E3 effort no bonus,12,18,female,29,1079021,62,5,4,bust,-1,-85,-1,no,0,-1,0,7,1,371
+691,E3 effort no bonus,12,18,female,30,1097326,53,7,8,bank,1,101,1,no,0,-1,0,4,1,400
+692,E3 effort no bonus,12,18,female,31,1114765,100,4,12,bank,1,90,8,yes,1,1,-142,10,1,40
+693,E3 effort no bonus,12,18,female,32,1139380,4,10,12,bank,1,93,2,yes,1,1,-43,5,1,485
+694,E3 effort no bonus,12,18,female,33,1166679,97,5,10,bank,1,113,5,no,0,-1,0,4,0,0
+695,E3 effort no bonus,12,18,female,34,1194254,71,4,2,bust,-1,-71,-2,no,0,-1,0,7,0,0
+696,E3 effort no bonus,12,18,female,35,1221033,62,7,5,bust,-1,-152,-2,yes,1,1,0,5,0,0
+697,E3 effort no bonus,12,18,female,36,1239638,93,5,1,bust,-1,-84,-4,no,0,-1,0,5,1,265
+698,E3 effort no bonus,12,18,female,37,1263654,53,5,10,bank,1,66,5,no,0,-1,0,6,0,0
+699,E3 effort no bonus,12,18,female,38,1283227,69,6,1,bust,-1,-125,-5,no,0,-1,0,5,1,370
+700,E3 effort no bonus,12,18,female,39,1302408,74,5,11,bank,1,65,6,no,0,-1,0,5,0,0
+701,E3 effort no bonus,12,18,female,40,1323544,68,5,4,bust,-1,-133,-1,yes,1,1,30,7,0,0
+702,E3 effort no bonus,12,18,female,41,1348180,61,7,5,bust,-1,-85,-2,no,0,-1,-6,11,1,55
+703,E3 effort no bonus,12,18,female,42,1371772,5,11,12,bank,1,74,1,yes,1,1,-37,5,1,265
+704,E3 effort no bonus,12,18,female,43,1387708,53,5,7,bank,1,84,2,no,0,-1,0,7,1,399
+705,E3 effort no bonus,12,18,female,44,1408461,57,7,8,bank,1,72,1,no,0,-1,0,8,0,0
+706,E3 effort no bonus,12,18,female,45,1427894,43,8,6,bust,-1,-117,-2,no,0,-1,0,6,0,0
+707,E3 effort no bonus,12,18,female,46,1454245,67,6,0,bust,-1,-99,-6,no,0,-1,0,5,0,0
+708,E3 effort no bonus,12,18,female,47,1475021,53,5,0,bust,-1,0,-5,no,0,-1,0,7,0,0
+709,E3 effort no bonus,12,18,female,48,1494048,38,7,2,bust,-1,-127,-5,no,0,-1,0,6,0,0
+710,E3 effort no bonus,12,18,female,49,1512464,94,6,1,bust,-1,-200,-5,yes,1,1,44,6,0,0
+711,E3 effort no bonus,12,18,female,50,1538812,78,6,0,bust,-1,-198,-6,no,0,-1,0,12,0,0
+712,E3 effort no bonus,12,18,female,51,1573706,6,12,3,bust,-1,-38,-9,no,0,-1,0,6,0,0
+713,E3 effort no bonus,12,18,female,52,1591958,74,6,3,bust,-1,-109,-3,yes,1,1,0,8,0,0
+714,E3 effort no bonus,12,18,female,53,1612142,31,8,6,bust,-1,-110,-2,no,0,-1,0,5,1,345
+715,E3 effort no bonus,12,18,female,54,1630405,69,5,9,bank,1,60,4,no,0,-1,0,7,0,0
+716,E3 effort no bonus,12,18,female,55,1651878,44,7,4,bust,-1,-66,-3,no,0,-1,0,7,0,0
+717,E3 effort no bonus,12,18,female,56,1673579,64,7,2,bust,-1,-107,-5,no,0,-1,0,4,1,380
+718,E3 effort no bonus,12,18,female,57,1692831,95,4,6,bank,1,65,2,yes,1,1,-36,5,0,0
+719,E3 effort no bonus,12,18,female,58,1712603,98,5,3,bust,-1,-161,-2,try harder,1,NA,-83,7,1,686
+720,E3 effort no bonus,12,18,female,59,1738357,98,7,10,bank,1,93,3,yes,1,1,-40,NA,NA,NA
+721,E3 effort no bonus,13,19,female,0,435373,35,5,5,bank,1,137,0,yes,1,1,200,4,1,328
+722,E3 effort no bonus,13,19,female,1,473445,82,4,8,bank,1,80,4,yes,1,1,29,7,0,0
+723,E3 effort no bonus,13,19,female,2,501614,79,7,3,bust,-1,-200,-4,yes,1,1,-32,6,1,240
+724,E3 effort no bonus,13,19,female,3,523286,40,6,12,bank,1,138,6,yes,1,1,-66,10,1,430
+725,E3 effort no bonus,13,19,female,4,546519,43,10,12,bank,1,200,2,yes,1,1,80,5,1,75
+726,E3 effort no bonus,13,19,female,5,565055,15,5,5,bank,1,20,0,yes,1,1,200,3,1,129
+727,E3 effort no bonus,13,19,female,6,599567,43,3,4,bank,1,12,1,yes,1,1,66,3,0,0
+728,E3 effort no bonus,13,19,female,7,622310,19,3,2,bust,-1,-61,-1,yes,1,1,-84,6,0,0
+729,E3 effort no bonus,13,19,female,8,644454,13,6,0,bust,-1,-74,-6,yes,1,1,-200,5,0,0
+730,E3 effort no bonus,13,19,female,9,663943,99,5,1,bust,-1,-84,-4,yes,1,1,-54,5,0,0
+731,E3 effort no bonus,13,19,female,10,681896,38,5,4,bust,-1,-200,-1,yes,1,1,-21,6,0,0
+732,E3 effort no bonus,13,19,female,11,700703,14,6,5,bust,-1,-184,-1,yes,1,1,-57,3,0,0
+733,E3 effort no bonus,13,19,female,12,739072,74,3,0,bust,-1,-95,-3,yes,1,1,-200,3,1,129
+734,E3 effort no bonus,13,19,female,13,757216,43,3,12,bank,1,24,9,yes,1,1,-108,12,0,0
+735,E3 effort no bonus,13,19,female,14,786656,33,12,7,bust,-1,-10,-5,try harder,1,NA,-37,2,1,18
+736,E3 effort no bonus,13,19,female,15,805033,9,2,6,bank,1,25,4,yes,1,1,1,5,1,110
+737,E3 effort no bonus,13,19,female,16,822800,22,5,8,bank,1,20,3,yes,1,1,-32,4,1,236
+738,E3 effort no bonus,13,19,female,17,839505,59,4,9,bank,1,39,5,yes,1,1,-12,4,0,0
+739,E3 effort no bonus,13,19,female,18,860457,79,4,1,bust,-1,-79,-3,try harder,1,NA,-12,3,1,294
+740,E3 effort no bonus,13,19,female,19,880929,98,3,10,bank,1,9,7,yes,1,1,-67,5,1,325
+741,E3 effort no bonus,13,19,female,20,898913,65,5,7,bank,1,22,2,yes,1,1,-60,3,1,54
+742,E3 effort no bonus,13,19,female,21,921705,18,3,6,bank,1,28,3,yes,1,1,19,3,1,183
+743,E3 effort no bonus,13,19,female,22,941009,61,3,8,bank,1,27,5,no,0,-1,-1,5,1,180
+744,E3 effort no bonus,13,19,female,23,967009,36,5,7,bank,1,51,2,no,0,-1,4,4,1,240
+745,E3 effort no bonus,13,19,female,24,987529,60,4,4,bank,1,23,0,no,0,-1,11,7,0,0
+746,E3 effort no bonus,13,19,female,25,1014513,52,7,1,bust,-1,-47,-6,try harder,1,NA,0,1,1,7
+747,E3 effort no bonus,13,19,female,26,1034753,7,1,2,bank,1,14,1,try harder,1,NA,-13,5,1,315
+748,E3 effort no bonus,13,19,female,27,1104329,63,5,6,bank,1,51,1,yes,1,1,-1,4,0,0
+749,E3 effort no bonus,13,19,female,28,1122273,31,4,2,bust,-1,-11,-2,yes,1,1,0,3,1,252
+750,E3 effort no bonus,13,19,female,29,1138920,84,3,10,bank,1,68,7,yes,1,1,16,8,0,0
+751,E3 effort no bonus,13,19,female,30,1157955,67,8,4,bust,-1,-26,-4,yes,1,1,8,12,0,0
+752,E3 effort no bonus,13,19,female,31,1180490,14,12,8,bust,-1,-92,-4,yes,1,1,-57,6,0,0
+753,E3 effort no bonus,13,19,female,32,1200492,32,6,5,bust,-1,-35,-1,try harder,1,NA,0,3,1,12
+754,E3 effort no bonus,13,19,female,33,1219513,4,3,8,bank,1,35,5,try harder,1,NA,0,8,1,192
+755,E3 effort no bonus,13,19,female,34,1243737,24,8,12,bank,1,0,4,no,0,-1,0,6,1,174
+756,E3 effort no bonus,13,19,female,35,1263536,29,6,7,bank,1,5,1,no,0,-1,3,4,1,232
+757,E3 effort no bonus,13,19,female,36,1282314,58,4,7,bank,1,0,3,yes,1,1,0,5,0,0
+758,E3 effort no bonus,13,19,female,37,1302890,55,5,3,bust,-1,0,-2,no,0,-1,38,10,0,0
+759,E3 effort no bonus,13,19,female,38,1325538,11,10,7,bust,-1,-200,-3,try harder,1,NA,-200,8,1,768
+760,E3 effort no bonus,13,19,female,39,1347714,96,8,11,bank,1,200,3,yes,1,1,-27,1,1,7
+761,E3 effort no bonus,13,19,female,40,1363466,7,1,10,bank,1,25,9,yes,1,1,-90,6,1,186
+762,E3 effort no bonus,13,19,female,41,1380233,31,6,9,bank,1,79,3,yes,1,1,21,10,0,0
+763,E3 effort no bonus,13,19,female,42,1402520,64,10,7,bust,-1,-41,-3,yes,1,1,-22,6,0,0
+764,E3 effort no bonus,13,19,female,43,1419314,81,6,2,bust,-1,-101,-4,yes,1,1,0,6,0,0
+765,E3 effort no bonus,13,19,female,44,1436570,77,6,0,bust,-1,-187,-6,try harder,1,NA,-49,5,1,90
+766,E3 effort no bonus,13,19,female,45,1452242,18,5,8,bank,1,28,3,yes,1,1,-15,6,1,222
+767,E3 effort no bonus,13,19,female,46,1476602,37,6,11,bank,1,186,5,yes,1,1,-28,4,1,308
+768,E3 effort no bonus,13,19,female,47,1491874,77,4,11,bank,1,55,7,yes,1,1,-109,12,0,0
+769,E3 effort no bonus,13,19,female,48,1513042,9,12,4,bust,-1,-24,-8,yes,1,1,-28,3,1,57
+770,E3 effort no bonus,13,19,female,49,1527786,19,3,6,bank,1,29,3,yes,1,1,119,6,1,120
+771,E3 effort no bonus,13,19,female,50,1548794,20,6,9,bank,1,104,3,try harder,1,NA,0,8,0,0
+772,E3 effort no bonus,13,19,female,51,1567010,54,8,1,bust,-1,-32,-7,yes,1,1,8,12,0,0
+773,E3 effort no bonus,13,19,female,52,1587947,21,12,9,bust,-1,-61,-3,yes,1,1,0,10,0,0
+774,E3 effort no bonus,13,19,female,53,1607835,47,10,0,bust,-1,-66,-10,yes,1,1,-200,5,0,0
+775,E3 effort no bonus,13,19,female,54,1623770,11,5,1,bust,-1,-200,-4,yes,1,1,-200,8,0,0
+776,E3 effort no bonus,13,19,female,55,1643090,23,8,5,bust,-1,-200,-3,yes,1,1,-70,2,1,38
+777,E3 effort no bonus,13,19,female,56,1660130,19,2,6,bank,1,0,4,no,0,-1,0,6,0,0
+778,E3 effort no bonus,13,19,female,57,1676483,20,6,1,bust,-1,-81,-5,yes,1,1,0,4,1,104
+779,E3 effort no bonus,13,19,female,58,1691700,26,4,5,bank,1,23,1,yes,1,1,117,5,0,0
+780,E3 effort no bonus,13,19,female,59,1707459,64,5,2,bust,-1,-200,-3,yes,1,1,0,NA,NA,NA
+781,E3 effort no bonus,14,19,female,0,318009,90,3,0,bust,-1,-123,-3,yes,1,1,0,2,0,0
+782,E3 effort no bonus,14,19,female,1,352201,66,2,1,bust,-1,-200,-1,yes,1,1,0,5,1,50
+783,E3 effort no bonus,14,19,female,2,379558,10,5,5,bank,1,0,0,yes,1,1,200,7,1,49
+784,E3 effort no bonus,14,19,female,3,408228,7,7,8,bank,1,121,1,yes,1,1,0,2,1,70
+785,E3 effort no bonus,14,19,female,4,434756,35,2,5,bank,1,0,3,yes,1,1,-67,5,0,0
+786,E3 effort no bonus,14,19,female,5,461263,10,5,1,bust,-1,-144,-4,try harder,1,NA,-145,1,1,47
+787,E3 effort no bonus,14,19,female,6,481191,47,1,6,bank,1,30,5,yes,1,1,-108,2,1,98
+788,E3 effort no bonus,14,19,female,7,507018,49,2,6,bank,1,12,4,yes,1,1,-74,3,1,270
+789,E3 effort no bonus,14,19,female,8,527242,90,3,11,bank,1,102,8,yes,1,1,-94,5,0,0
+790,E3 effort no bonus,14,19,female,9,550362,43,5,2,bust,-1,-85,-3,no,0,-1,0,8,0,0
+791,E3 effort no bonus,14,19,female,10,574693,22,8,4,bust,-1,-84,-4,yes,1,1,-121,2,1,192
+792,E3 effort no bonus,14,19,female,11,593133,96,2,7,bank,1,28,5,yes,1,1,-60,4,1,296
+793,E3 effort no bonus,14,19,female,12,610236,74,4,5,bank,1,45,1,yes,1,1,0,6,0,0
+794,E3 effort no bonus,14,19,female,13,636369,57,6,2,bust,-1,-71,-4,no,0,-1,0,6,1,318
+795,E3 effort no bonus,14,19,female,14,661865,53,6,7,bank,1,80,1,no,0,-1,0,8,0,0
+796,E3 effort no bonus,14,19,female,15,682995,34,8,5,bust,-1,-57,-3,no,0,-1,0,10,1,290
+797,E3 effort no bonus,14,19,female,16,711778,29,10,11,bank,1,140,1,no,0,-1,0,7,1,252
+798,E3 effort no bonus,14,19,female,17,735604,36,7,11,bank,1,121,4,no,0,-1,0,12,0,0
+799,E3 effort no bonus,14,19,female,18,767849,24,12,5,bust,-1,-73,-7,no,0,-1,-70,6,0,0
+800,E3 effort no bonus,14,19,female,19,789720,38,6,3,bust,-1,-152,-3,no,0,-1,0,8,0,0
+801,E3 effort no bonus,14,19,female,20,814212,86,8,0,bust,-1,-77,-8,yes,1,1,63,8,0,0
+802,E3 effort no bonus,14,19,female,21,838052,88,8,4,bust,-1,0,-4,no,0,-1,0,8,0,0
+803,E3 effort no bonus,14,19,female,22,862722,51,8,5,bust,-1,0,-3,no,0,-1,0,2,1,164
+804,E3 effort no bonus,14,19,female,23,884597,82,2,4,bank,1,18,2,no,0,-1,0,3,1,285
+805,E3 effort no bonus,14,19,female,24,902733,95,3,11,bank,1,53,8,no,0,-1,0,5,0,0
+806,E3 effort no bonus,14,19,female,25,923173,92,5,4,bust,-1,-37,-1,try harder,1,NA,0,5,0,0
+807,E3 effort no bonus,14,19,female,26,942424,94,5,1,bust,-1,-75,-4,no,0,-1,0,8,1,784
+808,E3 effort no bonus,14,19,female,27,963415,98,8,12,bank,1,200,4,yes,1,1,0,2,1,70
+809,E3 effort no bonus,14,19,female,28,979199,35,2,5,bank,1,0,3,no,0,-1,0,8,0,0
+810,E3 effort no bonus,14,19,female,29,1000801,56,8,4,bust,-1,-75,-4,no,0,-1,0,8,0,0
+811,E3 effort no bonus,14,19,female,30,1026937,63,8,6,bust,-1,-65,-2,no,0,-1,0,12,0,0
+812,E3 effort no bonus,14,19,female,31,1050762,74,12,6,bust,-1,0,-6,no,0,-1,0,12,0,0
+813,E3 effort no bonus,14,19,female,32,1075346,91,12,1,bust,-1,-14,-11,no,0,-1,0,10,0,0
+814,E3 effort no bonus,14,19,female,33,1100682,87,10,5,bust,-1,-31,-5,no,0,-1,0,12,1,348
+815,E3 effort no bonus,14,19,female,34,1128051,29,12,12,bank,1,141,0,no,0,-1,0,10,0,0
+816,E3 effort no bonus,14,19,female,35,1153443,21,10,5,bust,-1,-36,-5,no,0,-1,0,8,0,0
+817,E3 effort no bonus,14,19,female,36,1184445,46,8,4,bust,-1,-13,-4,no,0,-1,-75,12,1,192
+818,E3 effort no bonus,14,19,female,37,1210405,16,12,12,bank,1,40,0,no,0,-1,0,8,1,320
+819,E3 effort no bonus,14,19,female,38,1234062,40,8,12,bank,1,48,4,no,0,-1,0,12,0,0
+820,E3 effort no bonus,14,19,female,39,1257812,29,12,4,bust,-1,-51,-8,no,0,-1,0,12,0,0
+821,E3 effort no bonus,14,19,female,40,1281542,5,12,7,bust,-1,0,-5,no,0,-1,0,12,0,0
+822,E3 effort no bonus,14,19,female,41,1303535,28,12,7,bust,-1,-12,-5,no,0,-1,0,12,0,0
+823,E3 effort no bonus,14,19,female,42,1326598,6,12,4,bust,-1,-19,-8,no,0,-1,0,12,0,0
+824,E3 effort no bonus,14,19,female,43,1352104,49,12,4,bust,-1,-21,-8,no,0,-1,0,12,1,636
+825,E3 effort no bonus,14,19,female,44,1374313,53,12,12,bank,1,200,0,no,0,-1,0,12,0,0
+826,E3 effort no bonus,14,19,female,45,1399662,2,12,11,bust,-1,0,-1,no,0,-1,0,8,0,0
+827,E3 effort no bonus,14,19,female,46,1421105,82,8,6,bust,-1,-66,-2,no,0,-1,0,8,1,376
+828,E3 effort no bonus,14,19,female,47,1442233,47,8,10,bank,1,62,2,no,0,-1,0,12,0,0
+829,E3 effort no bonus,14,19,female,48,1475978,6,12,9,bust,-1,0,-3,no,0,-1,0,10,0,0
+830,E3 effort no bonus,14,19,female,49,1496891,91,10,9,bust,-1,-200,-1,no,0,-1,0,9,1,711
+831,E3 effort no bonus,14,19,female,50,1517203,79,9,12,bank,1,103,3,no,0,-1,0,10,0,0
+832,E3 effort no bonus,14,19,female,51,1538388,63,10,4,bust,-1,-84,-6,no,0,-1,0,10,0,0
+833,E3 effort no bonus,14,19,female,52,1560004,26,10,5,bust,-1,-55,-5,no,0,-1,0,10,0,0
+834,E3 effort no bonus,14,19,female,53,1580204,75,10,9,bust,-1,-31,-1,no,0,-1,0,10,0,0
+835,E3 effort no bonus,14,19,female,54,1601821,68,10,9,bust,-1,-52,-1,no,0,-1,0,10,0,0
+836,E3 effort no bonus,14,19,female,55,1621107,52,10,7,bust,-1,-42,-3,no,0,-1,0,10,1,650
+837,E3 effort no bonus,14,19,female,56,1641467,65,10,12,bank,1,51,2,no,0,-1,0,12,0,0
+838,E3 effort no bonus,14,19,female,57,1662821,23,12,11,bust,-1,-21,-1,no,0,-1,0,12,0,0
+839,E3 effort no bonus,14,19,female,58,1688830,1,12,3,bust,-1,11,-9,no,0,-1,0,12,0,0
+840,E3 effort no bonus,14,19,female,59,1712566,1,12,1,bust,-1,0,-11,no,0,-1,0,NA,NA,NA
+841,E3 effort no bonus,15,"21
+",not stated,0,169241,76,3,7,bank,1,200,4,yes,1,1,-3,7,0,0
+842,E3 effort no bonus,15,"21
+",not stated,1,193687,72,7,2,bust,-1,-173,-5,yes,1,1,-115,2,1,100
+843,E3 effort no bonus,15,"21
+",not stated,2,212625,50,2,2,bank,1,55,0,no,0,-1,6,3,1,186
+844,E3 effort no bonus,15,"21
+",not stated,3,233002,62,3,9,bank,1,140,6,no,0,-1,9,6,1,546
+845,E3 effort no bonus,15,"21
+",not stated,4,255743,91,6,7,bank,1,199,1,yes,1,1,158,7,1,280
+846,E3 effort no bonus,15,"21
+",not stated,5,280080,40,7,11,bank,1,200,4,try harder,1,NA,-120,3,1,261
+847,E3 effort no bonus,15,"21
+",not stated,6,300500,87,3,4,bank,1,15,1,no,0,-1,12,10,1,860
+848,E3 effort no bonus,15,"21
+",not stated,7,323608,86,10,11,bank,1,200,1,try harder,1,NA,-179,10,0,0
+849,E3 effort no bonus,15,"21
+",not stated,8,344954,55,10,0,bust,-1,-21,-10,no,0,-1,20,5,0,0
+850,E3 effort no bonus,15,"21
+",not stated,9,364257,99,5,2,bust,-1,-116,-3,no,0,-1,-6,5,1,255
+851,E3 effort no bonus,15,"21
+",not stated,10,386956,51,5,12,bank,1,86,7,no,0,-1,10,12,0,0
+852,E3 effort no bonus,15,"21
+",not stated,11,410932,18,12,3,bust,-1,-16,-9,yes,1,1,-10,4,1,156
+853,E3 effort no bonus,15,"21
+",not stated,12,429825,39,4,5,bank,1,62,1,no,0,-1,9,9,1,72
+854,E3 effort no bonus,15,"21
+",not stated,13,451086,8,9,11,bank,1,200,2,no,0,-1,11,5,1,255
+855,E3 effort no bonus,15,"21
+",not stated,14,469853,51,5,6,bank,1,75,1,no,0,-1,19,3,1,84
+856,E3 effort no bonus,15,"21
+",not stated,15,486464,28,3,7,bank,1,79,4,try harder,1,NA,-103,5,1,330
+857,E3 effort no bonus,15,"21
+",not stated,16,504421,66,5,8,bank,1,48,3,no,0,-1,3,5,1,485
+858,E3 effort no bonus,15,"21
+",not stated,17,525097,97,5,6,bank,1,54,1,yes,1,1,104,5,0,0
+859,E3 effort no bonus,15,"21
+",not stated,18,546183,89,5,2,bust,-1,-142,-3,no,0,-1,-5,3,0,0
+860,E3 effort no bonus,15,"21
+",not stated,19,567754,6,3,1,bust,-1,-146,-2,yes,1,1,-136,3,1,159
+861,E3 effort no bonus,15,"21
+",not stated,20,585865,53,3,6,bank,1,68,3,no,0,-1,13,5,1,100
+862,E3 effort no bonus,15,"21
+",not stated,21,607291,20,5,6,bank,1,118,1,no,0,-1,7,5,1,165
+863,E3 effort no bonus,15,"21
+",not stated,22,625736,33,5,9,bank,1,96,4,no,0,-1,27,8,0,0
+864,E3 effort no bonus,15,"21
+",not stated,23,646546,57,8,1,bust,-1,-190,-7,yes,1,1,-200,2,1,174
+865,E3 effort no bonus,15,"21
+",not stated,24,662603,87,2,10,bank,1,33,8,no,0,-1,20,4,1,96
+866,E3 effort no bonus,15,"21
+",not stated,25,682200,24,4,5,bank,1,76,1,no,0,-1,31,4,1,136
+867,E3 effort no bonus,15,"21
+",not stated,26,709429,34,4,6,bank,1,33,2,no,0,-1,85,4,1,152
+868,E3 effort no bonus,15,"21
+",not stated,27,726084,38,4,5,bank,1,34,1,no,0,-1,27,5,0,0
+869,E3 effort no bonus,15,"21
+",not stated,28,743224,29,5,4,bust,-1,-80,-1,yes,1,1,15,6,0,0
+870,E3 effort no bonus,15,"21
+",not stated,29,767312,36,6,5,bust,-1,-37,-1,yes,1,1,1,3,1,108
+871,E3 effort no bonus,15,"21
+",not stated,30,783543,36,3,12,bank,1,54,9,no,0,-1,47,6,0,0
+872,E3 effort no bonus,15,"21
+",not stated,31,802982,7,6,4,bust,-1,-62,-2,yes,1,1,3,3,0,0
+873,E3 effort no bonus,15,"21
+",not stated,32,822652,60,3,1,bust,-1,-54,-2,yes,1,1,-3,1,1,42
+874,E3 effort no bonus,15,"21
+",not stated,33,837653,42,1,4,bank,1,50,3,no,0,-1,37,3,1,249
+875,E3 effort no bonus,15,"21
+",not stated,34,854379,83,3,12,bank,1,60,9,no,0,-1,79,3,1,138
+876,E3 effort no bonus,15,"21
+",not stated,35,872319,46,3,10,bank,1,77,7,no,0,-1,45,4,1,332
+877,E3 effort no bonus,15,"21
+",not stated,36,891940,83,4,6,bank,1,128,2,yes,1,1,50,5,1,205
+878,E3 effort no bonus,15,"21
+",not stated,37,907637,41,5,10,bank,1,58,5,no,0,-1,18,2,1,44
+879,E3 effort no bonus,15,"21
+",not stated,38,923478,22,2,5,bank,1,108,3,no,0,-1,6,5,1,310
+880,E3 effort no bonus,15,"21
+",not stated,39,940585,62,5,8,bank,1,97,3,no,0,-1,87,3,0,0
+881,E3 effort no bonus,15,"21
+",not stated,40,956269,46,3,1,bust,-1,-83,-2,yes,1,1,-76,1,1,38
+882,E3 effort no bonus,15,"21
+",not stated,41,969339,38,1,5,bank,1,40,4,no,0,-1,6,2,1,112
+883,E3 effort no bonus,15,"21
+",not stated,42,984377,56,2,6,bank,1,34,4,no,0,-1,15,7,0,0
+884,E3 effort no bonus,15,"21
+",not stated,43,1002814,57,7,2,bust,-1,-46,-5,yes,1,1,-80,3,1,159
+885,E3 effort no bonus,15,"21
+",not stated,44,1019704,53,3,12,bank,1,46,9,no,0,-1,18,5,0,0
+886,E3 effort no bonus,15,"21
+",not stated,45,1063811,62,5,2,bust,-1,-101,-3,yes,1,1,-112,12,0,0
+887,E3 effort no bonus,15,"21
+",not stated,46,1085430,92,12,4,bust,-1,-6,-8,no,0,-1,-4,3,1,3
+888,E3 effort no bonus,15,"21
+",not stated,47,1104943,1,3,5,bank,1,99,2,yes,1,1,43,4,1,136
+889,E3 effort no bonus,15,"21
+",not stated,48,1121003,34,4,9,bank,1,66,5,no,0,-1,10,4,1,20
+890,E3 effort no bonus,15,"21
+",not stated,49,1140565,5,4,12,bank,1,54,8,no,0,-1,20,5,1,325
+891,E3 effort no bonus,15,"21
+",not stated,50,1160582,65,5,12,bank,1,88,7,yes,1,1,-102,9,1,693
+892,E3 effort no bonus,15,"21
+",not stated,51,1180177,77,9,11,bank,1,140,2,yes,1,1,130,5,1,290
+893,E3 effort no bonus,15,"21
+",not stated,52,1197692,58,5,6,bank,1,133,1,yes,1,1,105,6,0,0
+894,E3 effort no bonus,15,"21
+",not stated,53,1215422,68,6,4,bust,-1,-53,-2,yes,1,1,-22,3,1,54
+895,E3 effort no bonus,15,"21
+",not stated,54,1231346,18,3,5,bank,1,61,2,no,0,-1,-1,5,1,150
+896,E3 effort no bonus,15,"21
+",not stated,55,1250934,30,5,7,bank,1,62,2,no,0,-1,8,6,1,372
+897,E3 effort no bonus,15,"21
+",not stated,56,1272530,62,6,11,bank,1,126,5,try harder,1,NA,-138,8,1,456
+898,E3 effort no bonus,15,"21
+",not stated,57,1295362,57,8,11,bank,1,165,3,yes,1,1,77,9,0,0
+899,E3 effort no bonus,15,"21
+",not stated,58,1315101,39,9,8,bust,-1,-72,-1,yes,1,1,36,6,1,510
+900,E3 effort no bonus,15,"21
+",not stated,59,1332931,85,6,11,bank,1,93,5,no,0,-1,3,NA,NA,NA
+901,E3 effort no bonus,16,22,female,0,177951,90,1,5,bank,1,18,4,try harder,1,NA,0,2,1,200
+902,E3 effort no bonus,16,22,female,1,196724,100,2,5,bank,1,54,3,no,0,-1,0,3,0,0
+903,E3 effort no bonus,16,22,female,2,216714,77,3,1,bust,-1,-75,-2,no,0,-1,0,2,1,144
+904,E3 effort no bonus,16,22,female,3,232553,72,2,6,bank,1,94,4,no,0,-1,0,3,1,102
+905,E3 effort no bonus,16,22,female,4,249417,34,3,5,bank,1,121,2,no,0,-1,0,4,1,140
+906,E3 effort no bonus,16,22,female,5,271666,35,4,8,bank,1,129,4,yes,1,1,-24,5,1,145
+907,E3 effort no bonus,16,22,female,6,288914,29,5,10,bank,1,70,5,no,0,-1,0,3,1,210
+908,E3 effort no bonus,16,22,female,7,305425,70,3,9,bank,1,95,6,no,0,-1,0,6,1,24
+909,E3 effort no bonus,16,22,female,8,327280,4,6,7,bank,1,53,1,yes,1,1,200,4,0,0
+910,E3 effort no bonus,16,22,female,9,346125,53,4,3,bust,-1,-148,-1,no,0,-1,0,3,0,0
+911,E3 effort no bonus,16,22,female,10,362016,68,3,2,bust,-1,-118,-1,no,0,-1,0,3,1,141
+912,E3 effort no bonus,16,22,female,11,376437,47,3,8,bank,1,107,5,no,0,-1,0,3,0,0
+913,E3 effort no bonus,16,22,female,12,391686,49,3,0,bust,-1,-48,-3,no,0,-1,0,2,1,130
+914,E3 effort no bonus,16,22,female,13,406019,65,2,4,bank,1,127,2,no,0,-1,0,3,1,117
+915,E3 effort no bonus,16,22,female,14,422717,39,3,9,bank,1,200,6,no,0,-1,0,2,1,92
+916,E3 effort no bonus,16,22,female,15,437366,46,2,4,bank,1,169,2,yes,1,1,-16,3,1,33
+917,E3 effort no bonus,16,22,female,16,454893,11,3,11,bank,1,68,8,yes,1,1,-44,3,1,261
+918,E3 effort no bonus,16,22,female,17,470722,87,3,3,bank,1,103,0,yes,1,1,200,2,1,148
+919,E3 effort no bonus,16,22,female,18,486451,74,2,3,bank,1,80,1,yes,1,1,118,2,1,168
+920,E3 effort no bonus,16,22,female,19,501704,84,2,10,bank,1,117,8,yes,1,1,-200,4,1,92
+921,E3 effort no bonus,16,22,female,20,517621,23,4,8,bank,1,144,4,try harder,1,NA,-72,4,1,372
+922,E3 effort no bonus,16,22,female,21,533642,93,4,11,bank,1,200,7,yes,1,1,-125,6,1,234
+923,E3 effort no bonus,16,22,female,22,550185,39,6,8,bank,1,114,2,yes,1,1,56,4,1,344
+924,E3 effort no bonus,16,22,female,23,568042,86,4,4,bank,1,109,0,try harder,1,NA,-33,4,0,0
+925,E3 effort no bonus,16,22,female,24,583740,80,4,3,bust,-1,-200,-1,yes,1,1,-120,8,1,72
+926,E3 effort no bonus,16,22,female,25,603276,9,8,10,bank,1,183,2,no,0,-1,0,5,0,0
+927,E3 effort no bonus,16,22,female,26,620260,77,5,4,bust,-1,-152,-1,no,0,-1,0,3,1,132
+928,E3 effort no bonus,16,22,female,27,635748,44,3,6,bank,1,69,3,yes,1,1,-54,4,1,72
+929,E3 effort no bonus,16,22,female,28,652853,18,4,7,bank,1,80,3,yes,1,1,-24,5,0,0
+930,E3 effort no bonus,16,22,female,29,669274,33,5,4,bust,-1,-108,-1,no,0,-1,-21,5,0,0
+931,E3 effort no bonus,16,22,female,30,686530,98,5,3,bust,-1,-161,-2,no,0,-1,0,3,1,81
+932,E3 effort no bonus,16,22,female,31,701850,27,3,4,bank,1,34,1,no,0,-1,0,4,0,0
+933,E3 effort no bonus,16,22,female,32,718452,65,4,0,bust,-1,-147,-4,no,0,-1,0,3,0,0
+934,E3 effort no bonus,16,22,female,33,733851,60,3,0,bust,-1,-200,-3,no,0,-1,-48,2,1,180
+935,E3 effort no bonus,16,22,female,34,748928,90,2,8,bank,1,165,6,no,0,-1,0,3,1,111
+936,E3 effort no bonus,16,22,female,35,764068,37,3,11,bank,1,68,8,no,0,-1,0,12,0,0
+937,E3 effort no bonus,16,22,female,36,784415,6,12,5,bust,-1,-55,-7,yes,1,1,-38,3,1,177
+938,E3 effort no bonus,16,22,female,37,799724,59,3,3,bank,1,24,0,no,0,-1,-14,3,0,0
+939,E3 effort no bonus,16,22,female,38,815223,95,3,1,bust,-1,-108,-2,no,0,-1,0,4,1,304
+940,E3 effort no bonus,16,22,female,39,830227,76,4,12,bank,1,106,8,yes,1,1,-97,4,1,164
+941,E3 effort no bonus,16,22,female,40,844810,41,4,12,bank,1,57,8,yes,1,1,-43,5,0,0
+942,E3 effort no bonus,16,22,female,41,861651,98,5,3,bust,-1,-163,-2,yes,1,1,-46,4,1,216
+943,E3 effort no bonus,16,22,female,42,876406,54,4,9,bank,1,27,5,yes,1,1,-8,5,1,275
+944,E3 effort no bonus,16,22,female,43,891465,55,5,8,bank,1,95,3,try harder,1,NA,-61,6,0,0
+945,E3 effort no bonus,16,22,female,44,909622,24,6,1,bust,-1,-137,-5,no,0,-1,-47,4,0,0
+946,E3 effort no bonus,16,22,female,45,926090,92,4,1,bust,-1,-111,-3,no,0,-1,0,5,1,410
+947,E3 effort no bonus,16,22,female,46,940854,82,5,8,bank,1,100,3,yes,1,1,7,5,1,395
+948,E3 effort no bonus,16,22,female,47,955281,79,5,12,bank,1,77,7,yes,1,1,-94,7,0,0
+949,E3 effort no bonus,16,22,female,48,974604,42,7,1,bust,-1,-131,-6,no,0,-1,-21,4,1,356
+950,E3 effort no bonus,16,22,female,49,988864,89,4,6,bank,1,108,2,yes,1,1,1,5,1,230
+951,E3 effort no bonus,16,22,female,50,1004070,46,5,5,bank,1,144,0,no,0,-1,0,4,0,0
+952,E3 effort no bonus,16,22,female,51,1020402,89,4,2,bust,-1,-200,-2,no,0,-1,0,3,0,0
+953,E3 effort no bonus,16,22,female,52,1038462,38,3,1,bust,-1,-118,-2,no,0,-1,-109,4,1,84
+954,E3 effort no bonus,16,22,female,53,1053955,21,4,11,bank,1,89,7,try harder,1,NA,-14,7,1,560
+955,E3 effort no bonus,16,22,female,54,1072876,80,7,10,bank,1,200,3,no,0,-1,6,4,0,0
+956,E3 effort no bonus,16,22,female,55,1088252,19,4,1,bust,-1,-49,-3,no,0,-1,0,7,0,0
+957,E3 effort no bonus,16,22,female,56,1108379,42,7,5,bust,-1,-200,-2,no,0,-1,0,5,1,495
+958,E3 effort no bonus,16,22,female,57,1125816,99,5,5,bank,1,0,0,no,0,-1,0,9,0,0
+959,E3 effort no bonus,16,22,female,58,1146743,1,9,5,bust,-1,-41,-4,no,0,-1,0,3,1,165
+960,E3 effort no bonus,16,22,female,59,1160984,55,3,3,bank,1,43,0,no,0,-1,0,NA,NA,NA
+961,E3 effort no bonus,17,18,female,0,295214,20,3,5,bank,1,200,2,yes,1,1,200,4,1,352
+962,E3 effort no bonus,17,18,female,1,314436,88,4,4,bank,1,200,0,yes,1,1,200,2,1,192
+963,E3 effort no bonus,17,18,female,2,333753,96,2,12,bank,1,-143,10,try harder,1,NA,-200,3,1,279
+964,E3 effort no bonus,17,18,female,3,349796,93,3,4,bank,1,200,1,yes,1,1,200,6,0,0
+965,E3 effort no bonus,17,18,female,4,369442,17,6,5,bust,-1,-200,-1,yes,1,1,-200,5,0,0
+966,E3 effort no bonus,17,18,female,5,387057,7,5,4,bust,-1,-200,-1,try harder,1,NA,-200,6,1,144
+967,E3 effort no bonus,17,18,female,6,407674,24,6,6,bank,1,200,0,no,0,-1,200,3,1,210
+968,E3 effort no bonus,17,18,female,7,423331,70,3,11,bank,1,200,8,yes,1,1,-200,7,1,49
+969,E3 effort no bonus,17,18,female,8,442907,7,7,9,bank,1,200,2,try harder,1,NA,-200,3,1,300
+970,E3 effort no bonus,17,18,female,9,484217,100,3,7,bank,1,200,4,yes,1,1,-68,3,0,0
+971,E3 effort no bonus,17,18,female,10,502419,68,3,0,bust,-1,-200,-3,no,0,-1,0,3,1,219
+972,E3 effort no bonus,17,18,female,11,516740,73,3,8,bank,1,200,5,yes,1,1,-132,5,1,295
+973,E3 effort no bonus,17,18,female,12,532703,59,5,6,bank,1,200,1,yes,1,1,200,6,0,0
+974,E3 effort no bonus,17,18,female,13,548718,27,6,5,bust,-1,-200,-1,no,0,-1,-200,5,0,0
+975,E3 effort no bonus,17,18,female,14,567727,75,5,1,bust,-1,-200,-4,no,0,-1,-26,4,1,284
+976,E3 effort no bonus,17,18,female,15,584935,71,4,11,bank,1,200,7,no,0,-1,69,6,0,0
+977,E3 effort no bonus,17,18,female,16,606972,16,6,4,bust,-1,-200,-2,no,0,-1,-200,5,1,40
+978,E3 effort no bonus,17,18,female,17,623781,8,5,5,bank,1,200,0,no,0,-1,194,2,1,168
+979,E3 effort no bonus,17,18,female,18,638679,84,2,2,bank,1,200,0,no,0,-1,200,5,0,0
+980,E3 effort no bonus,17,18,female,19,655301,13,5,1,bust,-1,-200,-4,yes,1,1,-200,5,1,80
+981,E3 effort no bonus,17,18,female,20,678913,16,5,12,bank,1,200,7,yes,1,1,200,3,0,0
+982,E3 effort no bonus,17,18,female,21,693735,93,3,1,bust,-1,-200,-2,no,0,-1,-200,3,1,120
+983,E3 effort no bonus,17,18,female,22,708892,40,3,5,bank,1,200,2,no,0,-1,0,4,1,280
+984,E3 effort no bonus,17,18,female,23,728547,70,4,12,bank,1,200,8,no,0,-1,200,6,0,0
+985,E3 effort no bonus,17,18,female,24,749541,15,6,5,bust,-1,-113,-1,no,0,-1,0,3,1,135
+986,E3 effort no bonus,17,18,female,25,765568,45,3,12,bank,1,200,9,no,0,-1,200,3,1,255
+987,E3 effort no bonus,17,18,female,26,780371,85,3,7,bank,1,200,4,no,0,-1,200,2,1,158
+988,E3 effort no bonus,17,18,female,27,795442,79,2,4,bank,1,200,2,no,0,-1,200,2,1,196
+989,E3 effort no bonus,17,18,female,28,808977,98,2,12,bank,1,200,10,no,0,-1,200,3,0,0
+990,E3 effort no bonus,17,18,female,29,826839,70,3,2,bust,-1,-200,-1,yes,1,1,-200,6,1,78
+991,E3 effort no bonus,17,18,female,30,842554,13,6,12,bank,1,200,6,no,0,-1,200,6,1,108
+992,E3 effort no bonus,17,18,female,31,860183,18,6,9,bank,1,200,3,no,0,-1,200,3,1,177
+993,E3 effort no bonus,17,18,female,32,879742,59,3,6,bank,1,200,3,no,0,-1,200,4,0,0
+994,E3 effort no bonus,17,18,female,33,1051208,89,4,2,bust,-1,-200,-2,no,0,-1,-200,2,1,126
+995,E3 effort no bonus,17,18,female,34,1191566,63,2,3,bank,1,200,1,no,0,-1,200,2,1,90
+996,E3 effort no bonus,17,18,female,35,1366909,45,2,11,bank,1,200,9,no,0,-1,200,3,1,219
+997,E3 effort no bonus,17,18,female,36,1456096,73,3,11,bank,1,200,8,no,0,-1,200,3,1,108
+998,E3 effort no bonus,17,18,female,37,1472846,36,3,9,bank,1,200,6,no,0,-1,200,3,1,204
+999,E3 effort no bonus,17,18,female,38,1490422,68,3,10,bank,1,200,7,no,0,-1,183,3,0,0
+1000,E3 effort no bonus,17,18,female,39,1506379,48,3,0,bust,-1,-200,-3,no,0,-1,-160,3,1,168
+1001,E3 effort no bonus,17,18,female,40,1522074,56,3,7,bank,1,200,4,no,0,-1,200,5,1,105
+1002,E3 effort no bonus,17,18,female,41,1541135,21,5,7,bank,1,200,2,no,0,-1,120,3,1,252
+1003,E3 effort no bonus,17,18,female,42,1563976,84,3,9,bank,1,200,6,no,0,-1,197,2,1,180
+1004,E3 effort no bonus,17,18,female,43,1583704,90,2,9,bank,1,200,7,no,0,-1,0,3,1,105
+1005,E3 effort no bonus,17,18,female,44,1598733,35,3,3,bank,1,200,0,no,0,-1,0,4,1,204
+1006,E3 effort no bonus,17,18,female,45,1619267,51,4,6,bank,1,200,2,no,0,-1,200,3,1,201
+1007,E3 effort no bonus,17,18,female,46,1739669,67,3,9,bank,1,200,6,no,0,-1,200,3,1,210
+1008,E3 effort no bonus,17,18,female,47,1754758,70,3,11,bank,1,200,8,no,0,-1,200,4,1,308
+1009,E3 effort no bonus,17,18,female,48,1769648,77,4,12,bank,1,200,8,no,0,-1,200,5,0,0
+1010,E3 effort no bonus,17,18,female,49,1784472,24,5,1,bust,-1,-200,-4,no,0,-1,-200,6,1,600
+1011,E3 effort no bonus,17,18,female,50,1800619,100,6,11,bank,1,200,5,no,0,-1,200,4,1,264
+1012,E3 effort no bonus,17,18,female,51,1814692,66,4,4,bank,1,200,0,no,0,-1,0,5,0,0
+1013,E3 effort no bonus,17,18,female,52,1829481,42,5,0,bust,-1,-200,-5,no,0,-1,0,4,1,316
+1014,E3 effort no bonus,17,18,female,53,1843329,79,4,11,bank,1,200,7,no,0,-1,200,3,1,192
+1015,E3 effort no bonus,17,18,female,54,1857218,64,3,7,bank,1,186,4,no,0,-1,200,4,1,364
+1016,E3 effort no bonus,17,18,female,55,1871568,91,4,12,bank,1,200,8,no,0,-1,200,4,1,308
+1017,E3 effort no bonus,17,18,female,56,1886119,77,4,9,bank,1,200,5,no,0,-1,0,6,0,0
+1018,E3 effort no bonus,17,18,female,57,1903143,23,6,5,bust,-1,-200,-1,no,0,-1,-200,4,1,360
+1019,E3 effort no bonus,17,18,female,58,1917362,90,4,10,bank,1,200,6,no,0,-1,200,3,1,168
+1020,E3 effort no bonus,17,18,female,59,1931187,56,3,10,bank,1,200,7,no,0,-1,200,NA,NA,NA
+1021,E3 effort no bonus,18,20,female,0,282269,56,2,0,bust,-1,-56,-2,yes,1,1,-11,3,1,240
+1022,E3 effort no bonus,18,20,female,1,306035,80,3,9,bank,1,35,6,yes,1,1,3,5,1,265
+1023,E3 effort no bonus,18,20,female,2,328769,53,5,9,bank,1,21,4,yes,1,1,0,10,0,0
+1024,E3 effort no bonus,18,20,female,3,353281,4,10,1,bust,-1,-32,-9,yes,1,1,-31,4,1,144
+1025,E3 effort no bonus,18,20,female,4,370921,36,4,7,bank,1,18,3,yes,1,1,32,3,1,216
+1026,E3 effort no bonus,18,20,female,5,389291,72,3,10,bank,1,10,7,yes,1,1,-1,2,1,146
+1027,E3 effort no bonus,18,20,female,6,408778,73,2,5,bank,1,15,3,yes,1,1,6,5,1,440
+1028,E3 effort no bonus,18,20,female,7,435125,88,5,7,bank,1,15,2,yes,1,1,-5,8,1,152
+1029,E3 effort no bonus,18,20,female,8,457284,19,8,10,bank,1,23,2,no,0,-1,1,5,1,275
+1030,E3 effort no bonus,18,20,female,9,475416,55,5,6,bank,1,18,1,no,0,-1,4,4,1,280
+1031,E3 effort no bonus,18,20,female,10,496250,70,4,9,bank,1,19,5,yes,1,1,6,12,0,0
+1032,E3 effort no bonus,18,20,female,11,520620,32,12,11,bust,-1,-18,-1,yes,1,1,-30,7,0,0
+1033,E3 effort no bonus,18,20,female,12,544639,58,7,6,bust,-1,-46,-1,try harder,1,NA,-53,6,0,0
+1034,E3 effort no bonus,18,20,female,13,563721,4,6,3,bust,-1,-37,-3,yes,1,1,-22,5,0,0
+1035,E3 effort no bonus,18,20,female,14,579809,52,5,4,bust,-1,-60,-1,yes,1,1,-33,3,1,9
+1036,E3 effort no bonus,18,20,female,15,597555,3,3,12,bank,1,25,9,yes,1,1,20,5,1,445
+1037,E3 effort no bonus,18,20,female,16,614668,89,5,12,bank,1,31,7,yes,1,1,15,4,1,20
+1038,E3 effort no bonus,18,20,female,17,630642,5,4,9,bank,1,28,5,yes,1,1,1,6,1,450
+1039,E3 effort no bonus,18,20,female,18,647427,75,6,12,bank,1,24,6,yes,1,1,3,7,1,63
+1040,E3 effort no bonus,18,20,female,19,669921,9,7,10,bank,1,63,3,yes,1,1,-35,6,1,582
+1041,E3 effort no bonus,18,20,female,20,690733,97,6,12,bank,1,50,6,yes,1,1,29,6,0,0
+1042,E3 effort no bonus,18,20,female,21,711199,80,6,3,bust,-1,-53,-3,yes,1,1,-3,5,0,0
+1043,E3 effort no bonus,18,20,female,22,727454,45,5,2,bust,-1,-54,-3,yes,1,1,2,4,0,0
+1044,E3 effort no bonus,18,20,female,23,747499,67,4,3,bust,-1,-59,-1,yes,1,1,-81,5,0,0
+1045,E3 effort no bonus,18,20,female,24,763650,65,5,4,bust,-1,-70,-1,yes,1,1,-82,3,1,123
+1046,E3 effort no bonus,18,20,female,25,778713,41,3,12,bank,1,42,9,yes,1,1,-62,5,1,90
+1047,E3 effort no bonus,18,20,female,26,794969,18,5,5,bank,1,38,0,yes,1,1,62,8,0,0
+1048,E3 effort no bonus,18,20,female,27,811355,3,8,7,bust,-1,-66,-1,yes,1,1,-49,4,1,336
+1049,E3 effort no bonus,18,20,female,28,839984,84,4,9,bank,1,73,5,yes,1,1,-66,4,1,36
+1050,E3 effort no bonus,18,20,female,29,856161,9,4,5,bank,1,25,1,yes,1,1,77,4,1,76
+1051,E3 effort no bonus,18,20,female,30,877844,19,4,7,bank,1,50,3,yes,1,1,-20,10,0,0
+1052,E3 effort no bonus,18,20,female,31,900955,100,10,9,bust,-1,-86,-1,yes,1,1,-108,6,1,354
+1053,E3 effort no bonus,18,20,female,32,920533,59,6,9,bank,1,36,3,yes,1,1,-37,4,0,0
+1054,E3 effort no bonus,18,20,female,33,937909,4,4,2,bust,-1,-37,-2,yes,1,1,-4,4,1,112
+1055,E3 effort no bonus,18,20,female,34,961483,28,4,9,bank,1,37,5,no,0,-1,-10,4,0,0
+1056,E3 effort no bonus,18,20,female,35,987086,31,4,0,bust,-1,-37,-4,no,0,-1,-42,2,1,134
+1057,E3 effort no bonus,18,20,female,36,1003567,67,2,5,bank,1,43,3,try harder,1,NA,-86,5,1,250
+1058,E3 effort no bonus,18,20,female,37,1024854,50,5,9,bank,1,32,4,yes,1,1,-94,6,1,228
+1059,E3 effort no bonus,18,20,female,38,1043115,38,6,7,bank,1,57,1,no,0,-1,2,7,0,0
+1060,E3 effort no bonus,18,20,female,39,1078191,59,7,6,bust,-1,-29,-1,no,0,-1,1,5,1,330
+1061,E3 effort no bonus,18,20,female,40,1100140,66,5,12,bank,1,57,7,yes,1,1,-62,7,0,0
+1062,E3 effort no bonus,18,20,female,41,1218701,86,7,0,bust,-1,-61,-7,yes,1,1,98,3,0,0
+1063,E3 effort no bonus,18,20,female,42,1234430,78,3,2,bust,-1,-55,-1,yes,1,1,-85,8,0,0
+1064,E3 effort no bonus,18,20,female,43,1253467,7,8,2,bust,-1,-67,-6,yes,1,1,68,4,0,0
+1065,E3 effort no bonus,18,20,female,44,1268707,75,4,1,bust,-1,-69,-3,yes,1,1,44,1,1,31
+1066,E3 effort no bonus,18,20,female,45,1281558,31,1,3,bank,1,45,2,yes,1,1,56,3,1,156
+1067,E3 effort no bonus,18,20,female,46,1300723,52,3,7,bank,1,42,4,yes,1,1,-2,4,0,0
+1068,E3 effort no bonus,18,20,female,47,1318592,6,4,1,bust,-1,-34,-3,yes,1,1,-3,3,1,201
+1069,E3 effort no bonus,18,20,female,48,1333127,67,3,5,bank,1,79,2,yes,1,1,2,3,0,0
+1070,E3 effort no bonus,18,20,female,49,1347114,1,3,1,bust,-1,-67,-2,yes,1,1,-106,1,1,23
+1071,E3 effort no bonus,18,20,female,50,1361109,23,1,7,bank,1,25,6,yes,1,1,-6,4,0,0
+1072,E3 effort no bonus,18,20,female,51,1375734,49,4,3,bust,-1,-46,-1,yes,1,1,-97,4,1,268
+1073,E3 effort no bonus,18,20,female,52,1391058,67,4,6,bank,1,47,2,yes,1,1,38,4,1,316
+1074,E3 effort no bonus,18,20,female,53,1406928,79,4,10,bank,1,65,6,yes,1,1,-19,6,1,306
+1075,E3 effort no bonus,18,20,female,54,1427157,51,6,6,bank,1,119,0,yes,1,1,122,4,1,220
+1076,E3 effort no bonus,18,20,female,55,1445417,55,4,7,bank,1,51,3,yes,1,1,-5,5,0,0
+1077,E3 effort no bonus,18,20,female,56,1524158,73,5,2,bust,-1,-44,-3,yes,1,1,28,2,1,174
+1078,E3 effort no bonus,18,20,female,57,1538277,87,2,9,bank,1,13,7,yes,1,1,-32,5,0,0
+1079,E3 effort no bonus,18,20,female,58,1555237,11,5,4,bust,-1,-35,-1,yes,1,1,-91,2,1,112
+1080,E3 effort no bonus,18,20,female,59,1569435,56,2,3,bank,1,24,1,yes,1,1,29,NA,NA,NA
+1081,E3 effort no bonus,19,19,female,0,300225,63,10,8,bust,-1,-33,-2,no,0,-1,5,12,0,0
+1082,E3 effort no bonus,19,19,female,1,326049,64,12,9,bust,-1,-133,-3,try harder,1,NA,-65,5,0,0
+1083,E3 effort no bonus,19,19,female,2,349161,17,5,2,bust,-1,-122,-3,try harder,1,NA,-80,7,0,0
+1084,E3 effort no bonus,19,19,female,3,366919,78,7,2,bust,-1,-79,-5,yes,1,1,-59,2,1,178
+1085,E3 effort no bonus,19,19,female,4,388543,89,2,2,bank,1,63,0,yes,1,1,24,4,1,240
+1086,E3 effort no bonus,19,19,female,5,410496,60,4,8,bank,1,6,4,yes,1,1,7,6,1,222
+1087,E3 effort no bonus,19,19,female,6,428583,37,6,8,bank,1,10,2,try harder,1,NA,-34,6,0,0
+1088,E3 effort no bonus,19,19,female,7,449711,72,6,1,bust,-1,-26,-5,yes,1,1,-46,7,0,0
+1089,E3 effort no bonus,19,19,female,8,466295,13,7,2,bust,-1,-55,-5,yes,1,1,-38,3,1,45
+1090,E3 effort no bonus,19,19,female,9,485191,15,3,6,bank,1,9,3,try harder,1,NA,-36,6,1,438
+1091,E3 effort no bonus,19,19,female,10,502287,73,6,7,bank,1,21,1,try harder,1,NA,-22,6,1,180
+1092,E3 effort no bonus,19,19,female,11,534024,30,6,6,bank,1,30,0,yes,1,1,3,12,0,0
+1093,E3 effort no bonus,19,19,female,12,565408,65,12,8,bust,-1,-114,-4,no,0,-1,-17,4,1,272
+1094,E3 effort no bonus,19,19,female,13,584720,68,4,6,bank,1,11,2,try harder,1,NA,-14,5,0,0
+1095,E3 effort no bonus,19,19,female,14,602414,64,5,2,bust,-1,-31,-3,try harder,1,NA,-26,4,1,296
+1096,E3 effort no bonus,19,19,female,15,619510,74,4,4,bank,1,15,0,yes,1,1,1,3,0,0
+1097,E3 effort no bonus,19,19,female,16,635222,97,3,0,bust,-1,-25,-3,try harder,1,NA,-18,5,1,165
+1098,E3 effort no bonus,19,19,female,17,651926,33,5,7,bank,1,-17,2,try harder,1,NA,-16,7,1,700
+1099,E3 effort no bonus,19,19,female,18,677357,100,7,12,bank,1,8,5,try harder,1,NA,0,4,1,372
+1100,E3 effort no bonus,19,19,female,19,697709,93,4,6,bank,1,21,2,no,0,-1,5,5,1,275
+1101,E3 effort no bonus,19,19,female,20,788141,55,5,7,bank,1,12,2,try harder,1,NA,-29,1,1,35
+1102,E3 effort no bonus,19,19,female,21,804589,35,1,1,bank,1,50,0,try harder,1,NA,4,2,0,0
+1103,E3 effort no bonus,19,19,female,22,821805,27,2,0,bust,-1,-34,-2,no,0,-1,8,1,1,13
+1104,E3 effort no bonus,19,19,female,23,839485,13,1,8,bank,1,85,7,yes,1,1,-55,2,1,126
+1105,E3 effort no bonus,19,19,female,24,855869,63,2,11,bank,1,26,9,yes,1,1,11,1,1,6
+1106,E3 effort no bonus,19,19,female,25,869957,6,1,10,bank,1,39,9,try harder,1,NA,-25,1,1,25
+1107,E3 effort no bonus,19,19,female,26,883364,25,1,2,bank,1,76,1,try harder,1,NA,-116,1,1,7
+1108,E3 effort no bonus,19,19,female,27,895853,7,1,12,bank,1,33,11,try harder,1,NA,-8,2,1,120
+1109,E3 effort no bonus,19,19,female,28,909373,60,2,7,bank,1,30,5,try harder,1,NA,-10,2,1,96
+1110,E3 effort no bonus,19,19,female,29,926597,48,2,6,bank,1,11,4,yes,1,1,-5,2,1,94
+1111,E3 effort no bonus,19,19,female,30,941845,47,2,8,bank,1,14,6,yes,1,1,-9,3,1,207
+1112,E3 effort no bonus,19,19,female,31,955892,69,3,11,bank,1,27,8,yes,1,1,-10,3,0,0
+1113,E3 effort no bonus,19,19,female,32,972701,91,3,0,bust,-1,-16,-3,no,0,-1,12,4,1,304
+1114,E3 effort no bonus,19,19,female,33,990413,76,4,11,bank,1,43,7,no,0,-1,13,4,1,332
+1115,E3 effort no bonus,19,19,female,34,1007388,83,4,11,bank,1,0,7,try harder,1,NA,1,4,0,0
+1116,E3 effort no bonus,19,19,female,35,1022116,10,4,1,bust,-1,-19,-3,try harder,1,NA,0,2,0,0
+1117,E3 effort no bonus,19,19,female,36,1039189,42,2,0,bust,-1,-23,-2,no,0,-1,0,3,1,9
+1118,E3 effort no bonus,19,19,female,37,1057156,3,3,8,bank,1,22,5,no,0,-1,1,6,1,420
+1119,E3 effort no bonus,19,19,female,38,1075260,70,6,8,bank,1,31,2,try harder,1,NA,-7,5,1,220
+1120,E3 effort no bonus,19,19,female,39,1092468,44,5,12,bank,1,15,7,yes,1,1,-16,2,1,40
+1121,E3 effort no bonus,19,19,female,40,1106532,20,2,10,bank,1,0,8,no,0,-1,0,4,1,356
+1122,E3 effort no bonus,19,19,female,41,1122340,89,4,6,bank,1,0,2,try harder,1,NA,-13,4,1,216
+1123,E3 effort no bonus,19,19,female,42,1137379,54,4,9,bank,1,0,5,no,0,-1,0,5,1,140
+1124,E3 effort no bonus,19,19,female,43,1180635,28,5,8,bank,1,0,3,no,0,-1,22,7,1,77
+1125,E3 effort no bonus,19,19,female,44,1205819,11,7,7,bank,1,65,0,yes,1,1,100,3,1,234
+1126,E3 effort no bonus,19,19,female,45,1220108,78,3,11,bank,1,16,8,yes,1,1,0,5,0,0
+1127,E3 effort no bonus,19,19,female,46,1236723,46,5,1,bust,-1,-82,-4,try harder,1,NA,-8,4,1,180
+1128,E3 effort no bonus,19,19,female,47,1252195,45,4,11,bank,1,0,7,yes,1,1,0,5,0,0
+1129,E3 effort no bonus,19,19,female,48,1267099,95,5,4,bust,-1,-27,-1,try harder,1,NA,0,4,1,92
+1130,E3 effort no bonus,19,19,female,49,1283354,23,4,4,bank,1,23,0,yes,1,1,105,4,0,0
+1131,E3 effort no bonus,19,19,female,50,1298530,70,4,3,bust,-1,-39,-1,no,0,-1,0,4,0,0
+1132,E3 effort no bonus,19,19,female,51,1313187,79,4,3,bust,-1,-16,-1,no,0,-1,0,5,1,135
+1133,E3 effort no bonus,19,19,female,52,1328203,27,5,11,bank,1,54,6,yes,1,1,-13,11,0,0
+1134,E3 effort no bonus,19,19,female,53,1347434,6,11,7,bust,-1,-67,-4,no,0,-1,0,5,1,135
+1135,E3 effort no bonus,19,19,female,54,1363466,27,5,9,bank,1,37,4,yes,1,1,10,6,0,0
+1136,E3 effort no bonus,19,19,female,55,1380033,9,6,0,bust,-1,-16,-6,no,0,-1,-1,3,1,237
+1137,E3 effort no bonus,19,19,female,56,1394874,79,3,9,bank,1,13,6,yes,1,1,-10,5,1,120
+1138,E3 effort no bonus,19,19,female,57,1411161,24,5,5,bank,1,11,0,yes,1,1,118,3,0,0
+1139,E3 effort no bonus,19,19,female,58,1424929,95,3,1,bust,-1,-34,-2,no,0,-1,0,2,1,200
+1140,E3 effort no bonus,19,19,female,59,1441377,100,2,3,bank,1,31,1,yes,1,1,42,NA,NA,NA
+1141,E3 effort no bonus,20,20,female,0,130407,20,3,12,bank,1,-44,9,no,0,-1,42,3,1,144
+1142,E3 effort no bonus,20,20,female,1,146079,48,3,3,bank,1,170,0,no,0,-1,32,4,1,132
+1143,E3 effort no bonus,20,20,female,2,163673,33,4,6,bank,1,38,2,no,0,-1,68,4,1,140
+1144,E3 effort no bonus,20,20,female,3,181592,35,4,7,bank,1,151,3,no,0,-1,22,3,1,135
+1145,E3 effort no bonus,20,20,female,4,198388,45,3,3,bank,1,38,0,no,0,-1,20,3,0,0
+1146,E3 effort no bonus,20,20,female,5,215712,35,3,1,bust,-1,-95,-2,no,0,-1,-81,10,0,0
+1147,E3 effort no bonus,20,20,female,6,240546,1,10,2,bust,-1,-103,-8,no,0,-1,-76,3,1,174
+1148,E3 effort no bonus,20,20,female,7,259388,58,3,6,bank,1,46,3,no,0,-1,39,1,1,87
+1149,E3 effort no bonus,20,20,female,8,276039,87,1,12,bank,1,30,11,no,0,-1,-27,3,0,0
+1150,E3 effort no bonus,20,20,female,9,292337,87,3,0,bust,-1,-17,-3,no,0,-1,-89,3,1,45
+1151,E3 effort no bonus,20,20,female,10,310988,15,3,10,bank,1,46,7,no,0,-1,-25,2,1,58
+1152,E3 effort no bonus,20,20,female,11,327595,29,2,2,bank,1,65,0,no,0,-1,69,2,1,118
+1153,E3 effort no bonus,20,20,female,12,342326,59,2,9,bank,1,39,7,no,0,-1,36,2,1,122
+1154,E3 effort no bonus,20,20,female,13,357921,61,2,7,bank,1,75,5,no,0,-1,5,1,1,92
+1155,E3 effort no bonus,20,20,female,14,371548,92,1,1,bank,1,22,0,no,0,-1,16,3,0,0
+1156,E3 effort no bonus,20,20,female,15,387493,72,3,0,bust,-1,25,-3,no,0,-1,-42,3,0,0
+1157,E3 effort no bonus,20,20,female,16,403357,33,3,1,bust,-1,-64,-2,no,0,-1,114,2,1,120
+1158,E3 effort no bonus,20,20,female,17,421399,60,2,4,bank,1,51,2,no,0,-1,11,3,0,0
+1159,E3 effort no bonus,20,20,female,18,438756,16,3,1,bust,-1,29,-2,no,0,-1,-94,1,1,75
+1160,E3 effort no bonus,20,20,female,19,453479,75,1,2,bank,1,25,1,no,0,-1,12,2,1,132
+1161,E3 effort no bonus,20,20,female,20,472389,66,2,9,bank,1,33,7,no,0,-1,20,2,1,150
+1162,E3 effort no bonus,20,20,female,21,490614,75,2,3,bank,1,33,1,no,0,-1,16,3,1,36
+1163,E3 effort no bonus,20,20,female,22,513899,12,3,7,bank,1,49,4,no,0,-1,42,2,1,110
+1164,E3 effort no bonus,20,20,female,23,529605,55,2,2,bank,1,10,0,no,0,-1,9,2,1,86
+1165,E3 effort no bonus,20,20,female,24,548593,43,2,7,bank,1,79,5,no,0,-1,7,4,1,124
+1166,E3 effort no bonus,20,20,female,25,575612,31,4,4,bank,1,14,0,no,0,-1,15,4,1,348
+1167,E3 effort no bonus,20,20,female,26,593247,87,4,10,bank,1,34,6,no,0,-1,133,4,1,156
+1168,E3 effort no bonus,20,20,female,27,611466,39,4,7,bank,1,61,3,no,0,-1,44,3,0,0
+1169,E3 effort no bonus,20,20,female,28,627897,80,3,0,bust,-1,-143,-3,no,0,-1,40,3,1,276
+1170,E3 effort no bonus,20,20,female,29,644516,92,3,10,bank,1,99,7,no,0,-1,120,3,1,189
+1171,E3 effort no bonus,20,20,female,30,659715,63,3,12,bank,1,101,9,no,0,-1,140,4,0,0
+1172,E3 effort no bonus,20,20,female,31,676627,87,4,1,bust,-1,-200,-3,no,0,-1,-200,3,0,0
+1173,E3 effort no bonus,20,20,female,32,693042,61,3,2,bust,-1,-129,-1,no,0,-1,-144,5,0,0
+1174,E3 effort no bonus,20,20,female,33,710085,25,5,0,bust,-1,-79,-5,no,0,-1,-112,4,1,60
+1175,E3 effort no bonus,20,20,female,34,728719,15,4,7,bank,1,111,3,no,0,-1,44,5,1,130
+1176,E3 effort no bonus,20,20,female,35,746295,26,5,6,bank,1,99,1,no,0,-1,6,6,0,0
+1177,E3 effort no bonus,20,20,female,36,766237,51,6,0,bust,-1,-109,-6,no,0,-1,-83,8,1,504
+1178,E3 effort no bonus,20,20,female,37,788108,63,8,9,bank,1,200,1,no,0,-1,200,12,0,0
+1179,E3 effort no bonus,20,20,female,38,814237,23,12,9,bust,-1,-200,-3,no,0,-1,-85,12,0,0
+1180,E3 effort no bonus,20,20,female,39,834911,100,12,9,bust,-1,-200,-3,no,0,-1,-200,7,0,0
+1181,E3 effort no bonus,20,20,female,40,855077,30,7,5,bust,-1,-129,-2,no,0,-1,-116,2,1,140
+1182,E3 effort no bonus,20,20,female,41,873099,70,2,10,bank,1,200,8,no,0,-1,65,4,1,276
+1183,E3 effort no bonus,20,20,female,42,891080,69,4,8,bank,1,85,4,no,0,-1,82,4,1,216
+1184,E3 effort no bonus,20,20,female,43,907743,54,4,9,bank,1,83,5,no,0,-1,63,6,1,96
+1185,E3 effort no bonus,20,20,female,44,926933,16,6,9,bank,1,160,3,no,0,-1,32,4,1,204
+1186,E3 effort no bonus,20,20,female,45,942840,51,4,7,bank,1,97,3,no,0,-1,125,3,1,231
+1187,E3 effort no bonus,20,20,female,46,960787,77,3,5,bank,1,129,2,no,0,-1,38,9,0,0
+1188,E3 effort no bonus,20,20,female,47,980325,5,9,6,bust,-1,-84,-3,no,0,-1,-80,4,1,328
+1189,E3 effort no bonus,20,20,female,48,997154,82,4,4,bank,1,200,0,no,0,-1,131,7,0,0
+1190,E3 effort no bonus,20,20,female,49,1016671,21,7,0,bust,-1,166,-7,try harder,1,NA,-200,12,1,120
+1191,E3 effort no bonus,20,20,female,50,1040499,10,12,12,bank,1,200,0,yes,1,1,200,12,0,0
+1192,E3 effort no bonus,20,20,female,51,1061494,1,12,2,bust,-1,-200,-10,yes,1,1,-200,8,1,504
+1193,E3 effort no bonus,20,20,female,52,1082110,63,8,10,bank,1,200,2,yes,1,1,119,9,0,0
+1194,E3 effort no bonus,20,20,female,53,1101023,88,9,2,bust,-1,-200,-7,try harder,1,NA,-200,6,1,414
+1195,E3 effort no bonus,20,20,female,54,1117533,69,6,12,bank,1,200,6,yes,1,1,-149,6,0,0
+1196,E3 effort no bonus,20,20,female,55,1134885,54,6,2,bust,-1,-200,-4,yes,1,1,-200,6,1,300
+1197,E3 effort no bonus,20,20,female,56,1152611,50,6,7,bank,1,200,1,yes,1,1,200,4,1,384
+1198,E3 effort no bonus,20,20,female,57,1168512,96,4,9,bank,1,86,5,yes,1,1,80,6,1,408
+1199,E3 effort no bonus,20,20,female,58,1186239,68,6,12,bank,1,195,6,yes,1,1,-76,11,0,0
+1200,E3 effort no bonus,20,20,female,59,1206613,44,11,0,bust,-1,-200,-11,yes,1,1,-200,NA,NA,NA
+1201,E3 effort no bonus,21,19,female,0,261810,7,8,9,bank,1,17,1,try harder,1,NA,-52,8,1,104
+1202,E3 effort no bonus,21,19,female,1,295701,13,8,8,bank,1,40,0,yes,1,1,154,8,0,0
+1203,E3 effort no bonus,21,19,female,2,322330,11,8,4,bust,-1,-48,-4,yes,1,1,0,4,1,388
+1204,E3 effort no bonus,21,19,female,3,353369,97,4,4,bank,1,45,0,yes,1,1,146,12,0,0
+1205,E3 effort no bonus,21,19,female,4,385010,13,12,1,bust,-1,0,-11,yes,1,1,0,5,1,105
+1206,E3 effort no bonus,21,19,female,5,410090,21,5,6,bank,1,0,1,yes,1,1,36,6,1,444
+1207,E3 effort no bonus,21,19,female,6,438155,74,6,10,bank,1,59,4,yes,1,1,-96,7,0,0
+1208,E3 effort no bonus,21,19,female,7,465762,79,7,3,bust,-1,-24,-4,try harder,1,NA,-182,5,0,0
+1209,E3 effort no bonus,21,19,female,8,501073,55,5,1,bust,-1,-98,-4,yes,1,1,47,1,1,10
+1210,E3 effort no bonus,21,19,female,9,525537,10,1,10,bank,1,0,9,yes,1,1,-114,7,1,196
+1211,E3 effort no bonus,21,19,female,10,554835,28,7,10,bank,1,75,3,no,0,-1,-2,5,0,0
+1212,E3 effort no bonus,21,19,female,11,583320,74,5,3,bust,-1,-75,-2,try harder,1,NA,-150,6,0,0
+1213,E3 effort no bonus,21,19,female,12,609007,23,6,0,bust,-1,-14,-6,yes,1,1,132,3,1,24
+1214,E3 effort no bonus,21,19,female,13,625485,8,3,10,bank,1,0,7,yes,1,1,-86,7,1,588
+1215,E3 effort no bonus,21,19,female,14,649936,84,7,11,bank,1,128,4,yes,1,1,-16,2,1,184
+1216,E3 effort no bonus,21,19,female,15,670504,92,2,7,bank,1,24,5,yes,1,1,0,5,1,10
+1217,E3 effort no bonus,21,19,female,16,689140,2,5,8,bank,1,24,3,yes,1,1,2,8,0,0
+1218,E3 effort no bonus,21,19,female,17,710767,75,8,3,bust,-1,-91,-5,try harder,1,NA,-63,4,1,340
+1219,E3 effort no bonus,21,19,female,18,733903,85,4,5,bank,1,40,1,yes,1,1,14,8,0,0
+1220,E3 effort no bonus,21,19,female,19,781560,88,8,0,bust,-1,-138,-8,yes,1,1,118,7,0,0
+1221,E3 effort no bonus,21,19,female,20,804598,58,7,2,bust,-1,-120,-5,yes,1,1,83,8,0,0
+1222,E3 effort no bonus,21,19,female,21,823769,14,8,2,bust,-1,-64,-6,yes,1,1,13,3,1,117
+1223,E3 effort no bonus,21,19,female,22,845285,39,3,3,bank,1,82,0,yes,1,1,200,4,1,104
+1224,E3 effort no bonus,21,19,female,23,862537,26,4,5,bank,1,34,1,yes,1,1,29,6,1,480
+1225,E3 effort no bonus,21,19,female,24,881210,80,6,8,bank,1,58,2,yes,1,1,2,6,1,48
+1226,E3 effort no bonus,21,19,female,25,898432,8,6,7,bank,1,9,1,yes,1,1,23,4,1,324
+1227,E3 effort no bonus,21,19,female,26,919981,81,4,5,bank,1,18,1,yes,1,1,11,8,1,128
+1228,E3 effort no bonus,21,19,female,27,937519,16,8,8,bank,1,35,0,yes,1,1,100,10,0,0
+1229,E3 effort no bonus,21,19,female,28,956437,46,10,9,bust,-1,-20,-1,yes,1,1,-39,6,1,450
+1230,E3 effort no bonus,21,19,female,29,973055,75,6,11,bank,1,6,5,yes,1,1,-5,7,0,0
+1231,E3 effort no bonus,21,19,female,30,993013,55,7,3,bust,-1,-21,-4,yes,1,1,41,4,0,0
+1232,E3 effort no bonus,21,19,female,31,1021819,24,4,1,bust,-1,-6,-3,yes,1,1,39,5,1,225
+1233,E3 effort no bonus,21,19,female,32,1042345,45,5,12,bank,1,20,7,yes,1,1,77,8,1,120
+1234,E3 effort no bonus,21,19,female,33,1094408,15,8,12,bank,1,58,4,yes,1,1,7,3,1,291
+1235,E3 effort no bonus,21,19,female,34,1112153,97,3,5,bank,1,17,2,yes,1,1,4,4,1,396
+1236,E3 effort no bonus,21,19,female,35,1133460,99,4,12,bank,1,1,8,yes,1,1,-176,7,0,0
+1237,E3 effort no bonus,21,19,female,36,1152688,98,7,4,bust,-1,-18,-3,yes,1,1,-5,6,1,192
+1238,E3 effort no bonus,21,19,female,37,1173839,32,6,8,bank,1,25,2,yes,1,1,8,6,0,0
+1239,E3 effort no bonus,21,19,female,38,1191674,5,6,1,bust,-1,-142,-5,yes,1,1,200,6,1,42
+1240,E3 effort no bonus,21,19,female,39,1209836,7,6,10,bank,1,0,4,yes,1,1,-12,7,1,392
+1241,E3 effort no bonus,21,19,female,40,1230016,56,7,11,bank,1,3,4,yes,1,1,-34,6,1,396
+1242,E3 effort no bonus,21,19,female,41,1253544,66,6,7,bank,1,6,1,yes,1,1,10,4,1,28
+1243,E3 effort no bonus,21,19,female,42,1274687,7,4,8,bank,1,16,4,yes,1,1,-3,3,1,6
+1244,E3 effort no bonus,21,19,female,43,1290041,2,3,7,bank,1,6,4,yes,1,1,-5,3,1,168
+1245,E3 effort no bonus,21,19,female,44,1344702,56,3,6,bank,1,22,3,yes,1,1,-29,5,1,455
+1246,E3 effort no bonus,21,19,female,45,1364775,91,5,12,bank,1,25,7,try harder,1,NA,-200,11,0,0
+1247,E3 effort no bonus,21,19,female,46,1391018,37,11,2,bust,-1,-37,-9,yes,1,1,-129,6,0,0
+1248,E3 effort no bonus,21,19,female,47,1408426,92,6,5,bust,-1,-12,-1,yes,1,1,-43,6,1,24
+1249,E3 effort no bonus,21,19,female,48,1425911,4,6,8,bank,1,38,2,yes,1,1,0,8,1,464
+1250,E3 effort no bonus,21,19,female,49,1447137,58,8,10,bank,1,67,2,yes,1,1,1,11,0,0
+1251,E3 effort no bonus,21,19,female,50,1469473,52,11,5,bust,-1,-30,-6,yes,1,1,41,10,1,480
+1252,E3 effort no bonus,21,19,female,51,1489562,48,10,10,bank,1,200,0,yes,1,1,200,6,1,30
+1253,E3 effort no bonus,21,19,female,52,1507485,5,6,11,bank,1,1,5,yes,1,1,-9,6,1,336
+1254,E3 effort no bonus,21,19,female,53,1525561,56,6,12,bank,1,57,6,yes,1,1,-115,9,0,0
+1255,E3 effort no bonus,21,19,female,54,1544365,42,9,5,bust,-1,-9,-4,yes,1,1,-27,8,0,0
+1256,E3 effort no bonus,21,19,female,55,1561320,86,8,0,bust,-1,-44,-8,yes,1,1,200,9,0,0
+1257,E3 effort no bonus,21,19,female,56,1578929,61,9,6,bust,-1,-58,-3,yes,1,1,23,8,0,0
+1258,E3 effort no bonus,21,19,female,57,1597639,97,8,2,bust,-1,-44,-6,yes,1,1,43,9,0,0
+1259,E3 effort no bonus,21,19,female,58,1615033,92,9,1,bust,-1,25,-8,yes,1,1,32,9,0,0
+1260,E3 effort no bonus,21,19,female,59,1633829,79,9,0,bust,-1,-18,-9,yes,1,1,200,NA,NA,NA
+1261,E3 effort no bonus,22,19,female,0,240743,49,2,9,bank,1,-8,7,try harder,1,NA,-200,6,1,84
+1262,E3 effort no bonus,22,19,female,1,269951,14,6,6,bank,1,0,0,try harder,1,NA,-200,8,1,112
+1263,E3 effort no bonus,22,19,female,2,295010,14,8,9,bank,1,-4,1,try harder,1,NA,-200,1,1,27
+1264,E3 effort no bonus,22,19,female,3,314860,27,1,3,bank,1,-200,2,yes,1,1,22,2,1,176
+1265,E3 effort no bonus,22,19,female,4,332326,88,2,4,bank,1,-3,2,yes,1,1,-43,3,0,0
+1266,E3 effort no bonus,22,19,female,5,358569,64,3,0,bust,-1,-200,-3,no,0,-1,-5,6,0,0
+1267,E3 effort no bonus,22,19,female,6,386506,4,6,5,bust,-1,-160,-1,try harder,1,NA,-112,2,1,156
+1268,E3 effort no bonus,22,19,female,7,411430,78,2,10,bank,1,-1,8,no,0,-1,-4,3,0,0
+1269,E3 effort no bonus,22,19,female,8,431466,50,3,0,bust,-1,-200,-3,no,0,-1,-6,4,1,88
+1270,E3 effort no bonus,22,19,female,9,451782,22,4,4,bank,1,39,0,yes,1,1,200,3,1,219
+1271,E3 effort no bonus,22,19,female,10,469555,73,3,6,bank,1,6,3,yes,1,1,-45,4,1,280
+1272,E3 effort no bonus,22,19,female,11,488617,70,4,7,bank,1,44,3,no,0,-1,6,6,0,0
+1273,E3 effort no bonus,22,19,female,12,508816,43,6,3,bust,-1,-116,-3,no,0,-1,-6,3,1,237
+1274,E3 effort no bonus,22,19,female,13,527683,79,3,9,bank,1,30,6,yes,1,1,-128,6,0,0
+1275,E3 effort no bonus,22,19,female,14,548451,4,6,4,bust,-1,-1,-2,no,0,-1,-4,3,1,171
+1276,E3 effort no bonus,22,19,female,15,572107,57,3,7,bank,1,31,4,no,0,-1,6,2,0,0
+1277,E3 effort no bonus,22,19,female,16,590369,65,2,1,bust,-1,-200,-1,no,0,-1,-4,4,1,64
+1278,E3 effort no bonus,22,19,female,17,609396,16,4,9,bank,1,56,5,yes,1,1,-58,4,1,168
+1279,E3 effort no bonus,22,19,female,18,627168,42,4,9,bank,1,34,5,yes,1,1,-78,2,0,0
+1280,E3 effort no bonus,22,19,female,19,641871,69,2,0,bust,-1,-200,-2,no,0,-1,-6,3,1,141
+1281,E3 effort no bonus,22,19,female,20,658262,47,3,3,bank,1,37,0,yes,1,1,200,4,1,132
+1282,E3 effort no bonus,22,19,female,21,677829,33,4,12,bank,1,38,8,yes,1,1,-98,3,1,270
+1283,E3 effort no bonus,22,19,female,22,692852,90,3,8,bank,1,57,5,no,0,-1,-9,4,1,320
+1284,E3 effort no bonus,22,19,female,23,711318,80,4,11,bank,1,86,7,no,0,-1,13,5,0,0
+1285,E3 effort no bonus,22,19,female,24,730802,47,5,4,bust,-1,7,-1,yes,1,1,-151,2,1,174
+1286,E3 effort no bonus,22,19,female,25,746723,87,2,12,bank,1,55,10,try harder,1,NA,-89,6,0,0
+1287,E3 effort no bonus,22,19,female,26,764918,20,6,0,bust,-1,4,-6,no,0,-1,-5,4,1,216
+1288,E3 effort no bonus,22,19,female,27,783018,54,4,7,bank,1,60,3,no,0,-1,-4,2,1,188
+1289,E3 effort no bonus,22,19,female,28,797601,94,2,8,bank,1,40,6,try harder,1,NA,-32,4,1,120
+1290,E3 effort no bonus,22,19,female,29,817058,30,4,8,bank,1,60,4,no,0,-1,0,3,1,219
+1291,E3 effort no bonus,22,19,female,30,917509,73,3,12,bank,1,93,9,no,0,-1,2,6,0,0
+1292,E3 effort no bonus,22,19,female,31,935164,16,6,4,bust,-1,-76,-2,yes,1,1,-20,10,0,0
+1293,E3 effort no bonus,22,19,female,32,972308,1,10,9,bust,-1,-200,-1,no,0,-1,-6,3,1,126
+1294,E3 effort no bonus,22,19,female,33,990274,42,3,10,bank,1,107,7,no,0,-1,1,2,1,154
+1295,E3 effort no bonus,22,19,female,34,1006555,77,2,11,bank,1,63,9,yes,1,1,-200,3,1,252
+1296,E3 effort no bonus,22,19,female,35,1022399,84,3,7,bank,1,87,4,no,0,-1,4,4,1,176
+1297,E3 effort no bonus,22,19,female,36,1038674,44,4,9,bank,1,47,5,no,0,-1,4,5,1,250
+1298,E3 effort no bonus,22,19,female,37,1056787,50,5,9,bank,1,100,4,no,0,-1,5,5,0,0
+1299,E3 effort no bonus,22,19,female,38,1075865,34,5,2,bust,-1,-106,-3,no,0,-1,-8,3,1,198
+1300,E3 effort no bonus,22,19,female,39,1091652,66,3,3,bank,1,60,0,no,0,-1,-4,3,1,165
+1301,E3 effort no bonus,22,19,female,40,1127435,55,3,8,bank,1,40,5,yes,1,1,-114,5,1,115
+1302,E3 effort no bonus,22,19,female,41,1145769,23,5,10,bank,1,121,5,no,0,-1,8,6,1,78
+1303,E3 effort no bonus,22,19,female,42,1163754,13,6,6,bank,1,64,0,no,0,-1,-3,3,1,276
+1304,E3 effort no bonus,22,19,female,43,1180203,92,3,12,bank,1,115,9,no,0,-1,8,3,1,240
+1305,E3 effort no bonus,22,19,female,44,1197728,80,3,12,bank,1,144,9,no,0,-1,7,5,1,55
+1306,E3 effort no bonus,22,19,female,45,1217109,11,5,12,bank,1,166,7,no,0,-1,0,4,1,104
+1307,E3 effort no bonus,22,19,female,46,1235691,26,4,8,bank,1,156,4,no,0,-1,8,5,0,0
+1308,E3 effort no bonus,22,19,female,47,1255060,56,5,2,bust,-1,-144,-3,yes,1,1,-132,6,0,0
+1309,E3 effort no bonus,22,19,female,48,1272109,61,6,2,bust,-1,-200,-4,no,0,-1,6,4,0,0
+1310,E3 effort no bonus,22,19,female,49,1287886,8,4,3,bust,-1,-200,-1,no,0,-1,-7,3,0,0
+1311,E3 effort no bonus,22,19,female,50,1303057,92,3,2,bust,-1,-200,-1,no,0,-1,-40,1,1,30
+1312,E3 effort no bonus,22,19,female,51,1318246,30,1,9,bank,1,46,8,try harder,1,NA,-124,4,0,0
+1313,E3 effort no bonus,22,19,female,52,1333711,15,4,2,bust,-1,-200,-2,no,0,-1,-8,3,1,84
+1314,E3 effort no bonus,22,19,female,53,1348786,28,3,3,bank,1,45,0,no,0,-1,-4,4,0,0
+1315,E3 effort no bonus,22,19,female,54,1363791,53,4,1,bust,-1,-53,-3,no,0,-1,8,3,1,216
+1316,E3 effort no bonus,22,19,female,55,1380876,72,3,4,bank,1,36,1,no,0,-1,8,5,1,200
+1317,E3 effort no bonus,22,19,female,56,1399927,40,5,6,bank,1,108,1,no,0,-1,6,6,1,90
+1318,E3 effort no bonus,22,19,female,57,1417849,15,6,11,bank,1,129,5,no,0,-1,16,5,0,0
+1319,E3 effort no bonus,22,19,female,58,1436889,85,5,0,bust,-1,-94,-5,yes,1,1,-200,2,1,104
+1320,E3 effort no bonus,22,19,female,59,1453907,52,2,9,bank,1,43,7,no,0,-1,6,NA,NA,NA
+1321,E3 effort no bonus,23,21,female,0,190320,51,2,3,bank,1,48,1,try harder,1,NA,-34,3,1,234
+1322,E3 effort no bonus,23,21,female,1,211035,78,3,10,bank,1,64,7,try harder,1,NA,-23,11,0,0
+1323,E3 effort no bonus,23,21,female,2,237819,9,11,5,bust,-1,-54,-6,try harder,1,NA,-27,3,1,231
+1324,E3 effort no bonus,23,21,female,3,261616,77,3,10,bank,1,59,7,yes,1,1,0,5,1,400
+1325,E3 effort no bonus,23,21,female,4,281082,80,5,6,bank,1,82,1,try harder,1,NA,-35,5,1,270
+1326,E3 effort no bonus,23,21,female,5,300547,54,5,7,bank,1,79,2,try harder,1,NA,-9,8,0,0
+1327,E3 effort no bonus,23,21,female,6,324180,35,8,5,bust,-1,-60,-3,yes,1,1,0,4,0,0
+1328,E3 effort no bonus,23,21,female,7,344837,61,4,1,bust,-1,-36,-3,try harder,1,NA,-16,10,0,0
+1329,E3 effort no bonus,23,21,female,8,366414,35,10,9,bust,-1,-54,-1,try harder,1,NA,-53,10,0,0
+1330,E3 effort no bonus,23,21,female,9,388189,70,10,7,bust,-1,-57,-3,yes,1,1,-6,12,0,0
+1331,E3 effort no bonus,23,21,female,10,413438,9,12,10,bust,-1,-54,-2,yes,1,1,-32,10,0,0
+1332,E3 effort no bonus,23,21,female,11,441455,13,10,8,bust,-1,-51,-2,yes,1,1,0,5,0,0
+1333,E3 effort no bonus,23,21,female,12,460223,22,5,0,bust,-1,-49,-5,yes,1,1,-155,4,0,0
+1334,E3 effort no bonus,23,21,female,13,478217,88,4,1,bust,-1,-53,-3,yes,1,1,-38,2,1,198
+1335,E3 effort no bonus,23,21,female,14,493872,99,2,3,bank,1,90,1,yes,1,1,0,4,1,148
+1336,E3 effort no bonus,23,21,female,15,511978,37,4,9,bank,1,91,5,yes,1,1,0,3,1,291
+1337,E3 effort no bonus,23,21,female,16,528866,97,3,3,bank,1,59,0,yes,1,1,140,5,0,0
+1338,E3 effort no bonus,23,21,female,17,546586,39,5,4,bust,-1,-18,-1,yes,1,1,-41,5,1,160
+1339,E3 effort no bonus,23,21,female,18,566632,32,5,6,bank,1,120,1,yes,1,1,60,3,1,138
+1340,E3 effort no bonus,23,21,female,19,586644,46,3,4,bank,1,75,1,yes,1,1,65,2,0,0
+1341,E3 effort no bonus,23,21,female,20,603267,58,2,1,bust,-1,-28,-1,yes,1,1,-34,5,0,0
+1342,E3 effort no bonus,23,21,female,21,622771,26,5,1,bust,-1,-54,-4,yes,1,1,-123,2,0,0
+1343,E3 effort no bonus,23,21,female,22,639869,84,2,1,bust,-1,-69,-1,try harder,1,NA,-62,10,1,80
+1344,E3 effort no bonus,23,21,female,23,664957,8,10,11,bank,1,139,1,yes,1,1,95,2,1,134
+1345,E3 effort no bonus,23,21,female,24,682492,67,2,11,bank,1,127,9,yes,1,1,-24,3,1,66
+1346,E3 effort no bonus,23,21,female,25,698053,22,3,10,bank,1,56,7,yes,1,1,17,3,1,120
+1347,E3 effort no bonus,23,21,female,26,713508,40,3,11,bank,1,77,8,yes,1,1,-25,2,1,168
+1348,E3 effort no bonus,23,21,female,27,728053,84,2,8,bank,1,104,6,yes,1,1,-24,6,1,36
+1349,E3 effort no bonus,23,21,female,28,750396,6,6,7,bank,1,42,1,yes,1,1,-23,2,1,118
+1350,E3 effort no bonus,23,21,female,29,768358,59,2,12,bank,1,46,10,yes,1,1,-10,5,1,120
+1351,E3 effort no bonus,23,21,female,30,786128,24,5,7,bank,1,56,2,yes,1,1,0,2,1,188
+1352,E3 effort no bonus,23,21,female,31,801430,94,2,10,bank,1,87,8,yes,1,1,0,2,1,162
+1353,E3 effort no bonus,23,21,female,32,819354,81,2,10,bank,1,58,8,try harder,1,NA,-9,2,1,98
+1354,E3 effort no bonus,23,21,female,33,835386,49,2,8,bank,1,42,6,yes,1,1,-10,7,0,0
+1355,E3 effort no bonus,23,21,female,34,860930,16,7,1,bust,-1,-46,-6,yes,1,1,-111,4,1,100
+1356,E3 effort no bonus,23,21,female,35,876732,25,4,4,bank,1,71,0,yes,1,1,200,5,1,160
+1357,E3 effort no bonus,23,21,female,36,905210,32,5,5,bank,1,79,0,yes,1,1,170,5,0,0
+1358,E3 effort no bonus,23,21,female,37,924827,38,5,2,bust,-1,-83,-3,yes,1,1,-28,2,1,126
+1359,E3 effort no bonus,23,21,female,38,948325,63,2,4,bank,1,53,2,yes,1,1,53,2,1,172
+1360,E3 effort no bonus,23,21,female,39,975140,86,2,12,bank,1,50,10,yes,1,1,-40,2,1,140
+1361,E3 effort no bonus,23,21,female,40,994221,70,2,7,bank,1,69,5,yes,1,1,-30,4,1,152
+1362,E3 effort no bonus,23,21,female,41,1024679,38,4,12,bank,1,52,8,try harder,1,NA,-22,4,1,100
+1363,E3 effort no bonus,23,21,female,42,1042470,25,4,8,bank,1,81,4,yes,1,1,0,6,0,0
+1364,E3 effort no bonus,23,21,female,43,1068753,19,6,1,bust,-1,-37,-5,yes,1,1,-58,3,1,141
+1365,E3 effort no bonus,23,21,female,44,1088904,47,3,3,bank,1,95,0,yes,1,1,122,11,0,0
+1366,E3 effort no bonus,23,21,female,45,1112305,9,11,5,bust,-1,-64,-6,yes,1,1,-34,3,1,177
+1367,E3 effort no bonus,23,21,female,46,1137865,59,3,7,bank,1,44,4,try harder,1,NA,-37,3,0,0
+1368,E3 effort no bonus,23,21,female,47,1156289,39,3,0,bust,-1,-90,-3,yes,1,1,-124,5,0,0
+1369,E3 effort no bonus,23,21,female,48,1177204,20,5,2,bust,-1,-76,-3,yes,1,1,-70,2,1,154
+1370,E3 effort no bonus,23,21,female,49,1192748,77,2,11,bank,1,-41,9,yes,1,1,-116,2,0,0
+1371,E3 effort no bonus,23,21,female,50,1207371,76,2,1,bust,-1,-90,-1,yes,1,1,-134,2,1,122
+1372,E3 effort no bonus,23,21,female,51,1225051,61,2,10,bank,1,51,8,try harder,1,NA,-62,1,1,98
+1373,E3 effort no bonus,23,21,female,52,1240876,98,1,12,bank,1,106,11,yes,1,1,-10,2,1,106
+1374,E3 effort no bonus,23,21,female,53,1254798,53,2,12,bank,1,114,10,yes,1,1,0,5,1,85
+1375,E3 effort no bonus,23,21,female,54,1278052,17,5,9,bank,1,70,4,yes,1,1,0,2,1,180
+1376,E3 effort no bonus,23,21,female,55,1304646,90,2,11,bank,1,59,9,try harder,1,NA,-35,5,1,110
+1377,E3 effort no bonus,23,21,female,56,1321198,22,5,11,bank,1,95,6,yes,1,1,0,3,1,99
+1378,E3 effort no bonus,23,21,female,57,1338029,33,3,6,bank,1,62,3,try harder,1,NA,-37,2,1,166
+1379,E3 effort no bonus,23,21,female,58,1352453,83,2,4,bank,1,78,2,try harder,1,NA,-37,4,0,0
+1380,E3 effort no bonus,23,21,female,59,1370401,34,4,3,bust,-1,-57,-1,yes,1,1,-29,NA,NA,NA
+1381,E3 effort no bonus,24,"19
+19",male,0,289402,82,4,2,bust,-1,-69,-2,yes,1,1,-140,7,0,0
+1382,E3 effort no bonus,24,"19
+19",male,1,321387,6,7,0,bust,-1,-161,-7,yes,1,1,-200,5,1,140
+1383,E3 effort no bonus,24,"19
+19",male,2,353764,28,5,7,bank,1,80,2,yes,1,1,-3,2,1,196
+1384,E3 effort no bonus,24,"19
+19",male,3,381643,98,2,6,bank,1,98,4,no,0,-1,76,6,0,0
+1385,E3 effort no bonus,24,"19
+19",male,4,406580,34,6,0,bust,-1,-76,-6,yes,1,1,-62,2,1,190
+1386,E3 effort no bonus,24,"19
+19",male,5,432787,95,2,8,bank,1,56,6,yes,1,1,-89,6,1,576
+1387,E3 effort no bonus,24,"19
+19",male,6,455571,96,6,8,bank,1,140,2,yes,1,1,0,1,1,70
+1388,E3 effort no bonus,24,"19
+19",male,7,481828,70,1,12,bank,1,74,11,yes,1,1,-60,2,1,32
+1389,E3 effort no bonus,24,"19
+19",male,8,503004,16,2,5,bank,1,49,3,no,0,-1,0,4,0,0
+1390,E3 effort no bonus,24,"19
+19",male,9,527100,97,4,1,bust,-1,-116,-3,yes,1,1,-59,4,0,0
+1391,E3 effort no bonus,24,"19
+19",male,10,565973,24,4,0,bust,-1,-181,-4,yes,1,1,-76,8,1,48
+1392,E3 effort no bonus,24,"19
+19",male,11,589469,6,8,11,bank,1,104,3,yes,1,1,40,4,1,88
+1393,E3 effort no bonus,24,"19
+19",male,12,613614,22,4,7,bank,1,97,3,yes,1,1,18,8,0,0
+1394,E3 effort no bonus,24,"19
+19",male,13,637526,36,8,1,bust,-1,-90,-7,no,0,-1,0,4,1,272
+1395,E3 effort no bonus,24,"19
+19",male,14,659902,68,4,6,bank,1,133,2,yes,1,1,39,7,0,0
+1396,E3 effort no bonus,24,"19
+19",male,15,683206,11,7,0,bust,-1,-130,-7,yes,1,1,-109,4,1,208
+1397,E3 effort no bonus,24,"19
+19",male,16,706790,52,4,4,bank,1,100,0,no,0,-1,45,6,0,0
+1398,E3 effort no bonus,24,"19
+19",male,17,729071,89,6,5,bust,-1,-127,-1,yes,1,1,-51,4,1,40
+1399,E3 effort no bonus,24,"19
+19",male,18,750287,10,4,8,bank,1,53,4,yes,1,1,-41,7,1,644
+1400,E3 effort no bonus,24,"19
+19",male,19,777575,92,7,8,bank,1,159,1,no,0,-1,75,3,0,0
+1401,E3 effort no bonus,24,"19
+19",male,20,803679,53,3,2,bust,-1,-128,-1,no,0,-1,0,9,0,0
+1402,E3 effort no bonus,24,"19
+19",male,21,825832,20,9,2,bust,-1,-105,-7,yes,1,1,-106,1,1,82
+1403,E3 effort no bonus,24,"19
+19",male,22,844303,82,1,12,bank,1,41,11,no,0,-1,-79,7,1,70
+1404,E3 effort no bonus,24,"19
+19",male,23,866343,10,7,8,bank,1,123,1,no,0,-1,0,11,0,0
+1405,E3 effort no bonus,24,"19
+19",male,24,895167,3,11,7,bust,-1,-97,-4,try harder,1,NA,-53,4,0,0
+1406,E3 effort no bonus,24,"19
+19",male,25,913473,20,4,1,bust,-1,-164,-3,no,0,-1,0,5,1,260
+1407,E3 effort no bonus,24,"19
+19",male,26,939321,52,5,10,bank,1,101,5,no,0,-1,0,2,1,118
+1408,E3 effort no bonus,24,"19
+19",male,27,963803,59,2,2,bank,1,134,0,try harder,1,NA,-49,5,1,295
+1409,E3 effort no bonus,24,"19
+19",male,28,997955,59,5,10,bank,1,121,5,no,0,-1,0,2,1,142
+1410,E3 effort no bonus,24,"19
+19",male,29,1026415,71,2,12,bank,1,134,10,no,0,-1,0,5,0,0
+1411,E3 effort no bonus,24,"19
+19",male,30,1048151,29,5,2,bust,-1,-66,-3,yes,1,1,44,6,0,0
+1412,E3 effort no bonus,24,"19
+19",male,31,1070807,22,6,3,bust,-1,-90,-3,yes,1,1,57,5,1,320
+1413,E3 effort no bonus,24,"19
+19",male,32,1090713,64,5,7,bank,1,105,2,no,0,-1,-1,4,1,388
+1414,E3 effort no bonus,24,"19
+19",male,33,1107897,97,4,12,bank,1,144,8,no,0,-1,0,6,0,0
+1415,E3 effort no bonus,24,"19
+19",male,34,1127954,65,6,2,bust,-1,-110,-4,yes,1,1,-68,4,0,0
+1416,E3 effort no bonus,24,"19
+19",male,35,1148692,59,4,3,bust,-1,-134,-1,no,0,-1,-52,6,1,246
+1417,E3 effort no bonus,24,"19
+19",male,36,1168451,41,6,8,bank,1,98,2,yes,1,1,59,1,1,1
+1418,E3 effort no bonus,24,"19
+19",male,37,1186404,1,1,5,bank,1,112,4,no,0,-1,31,4,1,180
+1419,E3 effort no bonus,24,"19
+19",male,38,1206237,45,4,12,bank,1,99,8,no,0,-1,2,6,1,24
+1420,E3 effort no bonus,24,"19
+19",male,39,1226588,4,6,8,bank,1,159,2,yes,1,1,68,6,0,0
+1421,E3 effort no bonus,24,"19
+19",male,40,1249893,36,6,3,bust,-1,-122,-3,no,0,-1,4,10,1,90
+1422,E3 effort no bonus,24,"19
+19",male,41,1273333,9,10,11,bank,1,174,1,yes,1,1,61,2,0,0
+1423,E3 effort no bonus,24,"19
+19",male,42,1291421,65,2,0,bust,-1,-42,-2,no,0,-1,0,4,1,388
+1424,E3 effort no bonus,24,"19
+19",male,43,1312133,97,4,4,bank,1,109,0,no,0,-1,1,5,1,40
+1425,E3 effort no bonus,24,"19
+19",male,44,1333846,8,5,11,bank,1,123,6,no,0,-1,0,6,1,126
+1426,E3 effort no bonus,24,"19
+19",male,45,1358111,21,6,7,bank,1,107,1,yes,1,1,91,1,1,76
+1427,E3 effort no bonus,24,"19
+19",male,46,1385311,76,1,8,bank,1,85,7,yes,1,1,-51,4,0,0
+1428,E3 effort no bonus,24,"19
+19",male,47,1402904,94,4,3,bust,-1,-107,-1,no,0,-1,0,4,1,124
+1429,E3 effort no bonus,24,"19
+19",male,48,1424640,31,4,11,bank,1,79,7,yes,1,1,-35,5,0,0
+1430,E3 effort no bonus,24,"19
+19",male,49,1444064,68,5,0,bust,-1,-106,-5,yes,1,1,-95,4,1,180
+1431,E3 effort no bonus,24,"19
+19",male,50,1462608,45,4,10,bank,1,98,6,no,0,-1,0,7,0,0
+1432,E3 effort no bonus,24,"19
+19",male,51,1482640,12,7,4,bust,-1,-118,-3,no,0,-1,0,4,1,400
+1433,E3 effort no bonus,24,"19
+19",male,52,1503232,100,4,7,bank,1,114,3,yes,1,1,0,5,1,115
+1434,E3 effort no bonus,24,"19
+19",male,53,1521490,23,5,12,bank,1,117,7,yes,1,1,-50,7,1,49
+1435,E3 effort no bonus,24,"19
+19",male,54,1541193,7,7,11,bank,1,84,4,yes,1,1,-3,7,1,119
+1436,E3 effort no bonus,24,"19
+19",male,55,1560633,17,7,11,bank,1,134,4,yes,1,1,0,3,0,0
+1437,E3 effort no bonus,24,"19
+19",male,56,1580410,68,3,0,bust,-1,-79,-3,yes,1,1,-89,5,1,75
+1438,E3 effort no bonus,24,"19
+19",male,57,1598946,15,5,5,bank,1,98,0,yes,1,1,161,6,1,558
+1439,E3 effort no bonus,24,"19
+19",male,58,1618178,93,6,6,bank,1,146,0,yes,1,1,170,7,0,0
+1440,E3 effort no bonus,24,"19
+19",male,59,1638219,65,7,2,bust,-1,-129,-5,yes,1,1,-30,NA,NA,NA
+1441,E3 effort no bonus,25,19,female,0,1096570,73,1,10,bank,1,-5,9,yes,1,1,-70,6,0,0
+1442,E3 effort no bonus,25,19,female,1,1430756,99,6,5,bust,-1,-70,-1,no,0,-1,-2,3,1,141
+1443,E3 effort no bonus,25,19,female,2,1476310,47,3,7,bank,1,13,4,yes,1,1,8,5,0,0
+1444,E3 effort no bonus,25,19,female,3,1502277,19,5,4,bust,-1,-47,-1,yes,1,1,3,4,1,300
+1445,E3 effort no bonus,25,19,female,4,1700818,75,4,7,bank,1,28,3,try harder,1,NA,-48,6,0,0
+1446,E3 effort no bonus,25,19,female,5,1727210,75,6,0,bust,-1,-73,-6,yes,1,1,-42,3,1,225
+1447,E3 effort no bonus,25,19,female,6,1760501,75,3,8,bank,1,15,5,yes,1,1,-3,4,1,188
+1448,E3 effort no bonus,25,19,female,7,1823882,47,4,10,bank,1,30,6,yes,1,1,-27,7,0,0
+1449,E3 effort no bonus,25,19,female,8,1846263,22,7,0,bust,-1,-53,-7,try harder,1,NA,-36,3,1,135
+1450,E3 effort no bonus,25,19,female,9,1886274,45,3,9,bank,1,45,6,yes,1,1,-57,2,1,164
+1451,E3 effort no bonus,25,19,female,10,1917787,82,2,9,bank,1,1,7,yes,1,1,-101,5,0,0
+1452,E3 effort no bonus,25,19,female,11,1943015,55,5,0,bust,-1,-32,-5,yes,1,1,-72,7,1,280
+1453,E3 effort no bonus,25,19,female,12,1967603,40,7,8,bank,1,74,1,yes,1,1,71,3,1,144
+1454,E3 effort no bonus,25,19,female,13,1992101,48,3,10,bank,1,25,7,yes,1,1,-67,7,1,322
+1455,E3 effort no bonus,25,19,female,14,2017645,46,7,12,bank,1,69,5,yes,1,1,12,1,1,51
+1456,E3 effort no bonus,25,19,female,15,2039565,51,1,5,bank,1,38,4,yes,1,1,-69,4,1,376
+1457,E3 effort no bonus,25,19,female,16,2071216,94,4,4,bank,1,32,0,yes,1,1,200,10,0,0
+1458,E3 effort no bonus,25,19,female,17,2098937,4,10,0,bust,-1,-62,-10,yes,1,1,-20,5,1,305
+1459,E3 effort no bonus,25,19,female,18,2118256,61,5,10,bank,1,35,5,try harder,1,NA,-55,5,1,170
+1460,E3 effort no bonus,25,19,female,19,2148937,34,5,12,bank,1,53,7,yes,1,1,-70,6,0,0
+1461,E3 effort no bonus,25,19,female,20,2172345,15,6,5,bust,-1,-107,-1,yes,1,1,39,1,1,77
+1462,E3 effort no bonus,25,19,female,21,2191334,77,1,10,bank,1,15,9,yes,1,1,-81,8,0,0
+1463,E3 effort no bonus,25,19,female,22,2228767,10,8,0,bust,-1,-89,-8,yes,1,1,-200,10,0,0
+1464,E3 effort no bonus,25,19,female,23,2252790,87,10,3,bust,-1,-109,-7,yes,1,1,-95,4,0,0
+1465,E3 effort no bonus,25,19,female,24,2272396,24,4,3,bust,-1,-80,-1,yes,1,1,-48,5,0,0
+1466,E3 effort no bonus,25,19,female,25,2291422,55,5,3,bust,-1,-75,-2,yes,1,1,-33,1,1,87
+1467,E3 effort no bonus,25,19,female,26,2436930,87,1,6,bank,1,2,5,try harder,1,NA,-3,6,1,144
+1468,E3 effort no bonus,25,19,female,27,2459130,24,6,11,bank,1,40,5,yes,1,1,-6,10,0,0
+1469,E3 effort no bonus,25,19,female,28,2484161,6,10,6,bust,-1,-32,-4,no,0,-1,-11,4,0,0
+1470,E3 effort no bonus,25,19,female,29,2540613,27,4,2,bust,-1,-53,-2,yes,1,1,-75,6,1,198
+1471,E3 effort no bonus,25,19,female,30,2574638,33,6,6,bank,1,62,0,yes,1,1,200,2,0,0
+1472,E3 effort no bonus,25,19,female,31,2593818,31,2,1,bust,-1,-74,-1,no,0,-1,-5,6,1,600
+1473,E3 effort no bonus,25,19,female,32,2617971,100,6,6,bank,1,94,0,try harder,1,NA,-36,3,1,255
+1474,E3 effort no bonus,25,19,female,33,3517499,85,3,4,bank,1,60,1,yes,1,1,46,5,1,375
+1475,E3 effort no bonus,25,19,female,34,3710943,75,5,6,bank,1,59,1,yes,1,1,-25,4,1,388
+1476,E3 effort no bonus,25,19,female,35,3804729,97,4,7,bank,1,46,3,try harder,1,NA,-24,7,1,105
+1477,E3 effort no bonus,25,19,female,36,3835434,15,7,10,bank,1,66,3,yes,1,1,-57,5,1,480
+1478,E3 effort no bonus,25,19,female,37,3874265,96,5,5,bank,1,60,0,yes,1,1,200,6,1,348
+1479,E3 effort no bonus,25,19,female,38,3935556,58,6,6,bank,1,122,0,yes,1,1,200,7,0,0
+1480,E3 effort no bonus,25,19,female,39,4004962,94,7,5,bust,-1,-74,-2,yes,1,1,-77,1,1,1
+1481,E3 effort no bonus,25,19,female,40,4026494,1,1,11,bank,1,108,10,yes,1,1,-94,5,1,190
+1482,E3 effort no bonus,25,19,female,41,4046322,38,5,5,bank,1,69,0,yes,1,1,200,3,1,57
+1483,E3 effort no bonus,25,19,female,42,4063638,19,3,12,bank,1,68,9,yes,1,1,-105,4,1,184
+1484,E3 effort no bonus,25,19,female,43,4108364,46,4,9,bank,1,72,5,yes,1,1,-63,5,0,0
+1485,E3 effort no bonus,25,19,female,44,4132347,28,5,2,bust,-1,-38,-3,yes,1,1,-51,10,0,0
+1486,E3 effort no bonus,25,19,female,45,4159086,98,10,3,bust,-1,-55,-7,try harder,1,NA,-83,3,1,225
+1487,E3 effort no bonus,25,19,female,46,4176261,75,3,7,bank,1,44,4,yes,1,1,-44,4,1,296
+1488,E3 effort no bonus,25,19,female,47,4196656,74,4,10,bank,1,-59,6,yes,1,1,-57,4,1,56
+1489,E3 effort no bonus,25,19,female,48,4235490,14,4,7,bank,1,75,3,try harder,1,NA,-51,1,1,89
+1490,E3 effort no bonus,25,19,female,49,4254989,89,1,3,bank,1,61,2,no,0,-1,23,5,1,490
+1491,E3 effort no bonus,25,19,female,50,4274593,98,5,8,bank,1,45,3,try harder,1,NA,-56,7,1,217
+1492,E3 effort no bonus,25,19,female,51,4295506,31,7,8,bank,1,69,1,yes,1,1,37,6,0,0
+1493,E3 effort no bonus,25,19,female,52,4317657,88,6,5,bust,-1,-54,-1,yes,1,1,24,4,1,256
+1494,E3 effort no bonus,25,19,female,53,4337072,64,4,6,bank,1,60,2,yes,1,1,-42,5,1,115
+1495,E3 effort no bonus,25,19,female,54,4357222,23,5,10,bank,1,70,5,yes,1,1,-26,6,0,0
+1496,E3 effort no bonus,25,19,female,55,4378639,77,6,2,bust,-1,-69,-4,yes,1,1,-58,4,1,72
+1497,E3 effort no bonus,25,19,female,56,4398342,18,4,10,bank,1,68,6,yes,1,1,-63,5,0,0
+1498,E3 effort no bonus,25,19,female,57,4431669,53,5,4,bust,-1,-40,-1,yes,1,1,-50,6,1,504
+1499,E3 effort no bonus,25,19,female,58,4449487,84,6,7,bank,1,73,1,yes,1,1,-35,7,1,532
+1500,E3 effort no bonus,25,19,female,59,4469939,76,7,8,bank,1,92,1,yes,1,1,24,NA,NA,NA
+1501,E3 effort no bonus,26,20,male,0,302168,2,6,0,bust,-1,-48,-6,yes,1,1,111,4,1,388
+1502,E3 effort no bonus,26,20,male,1,328689,97,4,11,bank,1,25,7,yes,1,1,-46,7,0,0
+1503,E3 effort no bonus,26,20,male,2,359597,54,7,4,bust,-1,-104,-3,yes,1,1,-72,5,1,355
+1504,E3 effort no bonus,26,20,male,3,381548,71,5,10,bank,1,105,5,yes,1,1,-110,4,1,152
+1505,E3 effort no bonus,26,20,male,4,405672,38,4,5,bank,1,27,1,yes,1,1,127,8,1,240
+1506,E3 effort no bonus,26,20,male,5,425787,30,8,9,bank,1,141,1,yes,1,1,177,5,1,240
+1507,E3 effort no bonus,26,20,male,6,445696,48,5,5,bank,1,104,0,yes,1,1,200,10,0,0
+1508,E3 effort no bonus,26,20,male,7,498725,17,10,1,bust,-1,-44,-9,yes,1,1,110,6,0,0
+1509,E3 effort no bonus,26,20,male,8,528215,30,6,3,bust,-1,-71,-3,yes,1,1,-45,8,0,0
+1510,E3 effort no bonus,26,20,male,9,549081,9,8,0,bust,-1,-27,-8,yes,1,1,109,5,1,115
+1511,E3 effort no bonus,26,20,male,10,566853,23,5,12,bank,1,51,7,yes,1,1,-125,4,1,192
+1512,E3 effort no bonus,26,20,male,11,583834,48,4,7,bank,1,66,3,yes,1,1,-56,5,0,0
+1513,E3 effort no bonus,26,20,male,12,603125,36,5,0,bust,-1,-68,-5,yes,1,1,69,8,1,680
+1514,E3 effort no bonus,26,20,male,13,626743,85,8,9,bank,1,108,1,yes,1,1,70,4,1,156
+1515,E3 effort no bonus,26,20,male,14,642622,39,4,11,bank,1,96,7,yes,1,1,-101,1,1,2
+1516,E3 effort no bonus,26,20,male,15,665058,2,1,6,bank,1,3,5,yes,1,1,-2,5,1,355
+1517,E3 effort no bonus,26,20,male,16,683493,71,5,8,bank,1,88,3,yes,1,1,-28,8,1,576
+1518,E3 effort no bonus,26,20,male,17,703754,72,8,11,bank,1,73,3,yes,1,1,-44,3,1,69
+1519,E3 effort no bonus,26,20,male,18,719357,23,3,4,bank,1,61,1,yes,1,1,105,7,0,0
+1520,E3 effort no bonus,26,20,male,19,742008,43,7,0,bust,-1,-84,-7,yes,1,1,130,7,0,0
+1521,E3 effort no bonus,26,20,male,20,764489,65,7,4,bust,-1,-133,-3,no,0,-1,-2,6,1,90
+1522,E3 effort no bonus,26,20,male,21,785503,15,6,8,bank,1,52,2,yes,1,1,-31,6,1,384
+1523,E3 effort no bonus,26,20,male,22,803285,64,6,12,bank,1,43,6,yes,1,1,-107,3,1,234
+1524,E3 effort no bonus,26,20,male,23,820683,78,3,10,bank,1,64,7,yes,1,1,-87,4,0,0
+1525,E3 effort no bonus,26,20,male,24,840017,41,4,0,bust,-1,-43,-4,yes,1,1,111,9,0,0
+1526,E3 effort no bonus,26,20,male,25,862433,33,9,6,bust,-1,-105,-3,yes,1,1,-104,4,1,164
+1527,E3 effort no bonus,26,20,male,26,879722,41,4,7,bank,1,47,3,yes,1,1,-42,9,1,684
+1528,E3 effort no bonus,26,20,male,27,899936,76,9,11,bank,1,110,2,yes,1,1,-18,6,1,480
+1529,E3 effort no bonus,26,20,male,28,917556,80,6,12,bank,1,99,6,yes,1,1,-104,9,1,486
+1530,E3 effort no bonus,26,20,male,29,939039,54,9,10,bank,1,76,1,yes,1,1,90,3,1,114
+1531,E3 effort no bonus,26,20,male,30,960739,38,3,12,bank,1,10,9,yes,1,1,-131,7,1,588
+1532,E3 effort no bonus,26,20,male,31,981207,84,7,10,bank,1,152,3,yes,1,1,-66,3,1,102
+1533,E3 effort no bonus,26,20,male,32,999510,34,3,4,bank,1,42,1,yes,1,1,110,6,0,0
+1534,E3 effort no bonus,26,20,male,33,1019643,88,6,0,bust,-1,-146,-6,yes,1,1,126,4,1,68
+1535,E3 effort no bonus,26,20,male,34,1041381,17,4,8,bank,1,80,4,yes,1,1,-44,9,0,0
+1536,E3 effort no bonus,26,20,male,35,1061948,95,9,6,bust,-1,-141,-3,yes,1,1,-122,5,0,0
+1537,E3 effort no bonus,26,20,male,36,1081243,10,5,1,bust,-1,-141,-4,yes,1,1,105,6,0,0
+1538,E3 effort no bonus,26,20,male,37,1102256,77,6,3,bust,-1,-128,-3,yes,1,1,-106,6,0,0
+1539,E3 effort no bonus,26,20,male,38,1121452,10,6,4,bust,-1,-147,-2,yes,1,1,-145,8,0,0
+1540,E3 effort no bonus,26,20,male,39,1141442,95,8,0,bust,-1,-186,-8,yes,1,1,112,4,1,356
+1541,E3 effort no bonus,26,20,male,40,1158138,89,4,5,bank,1,130,1,yes,1,1,147,7,0,0
+1542,E3 effort no bonus,26,20,male,41,1175964,37,7,3,bust,-1,-54,-4,yes,1,1,75,5,1,305
+1543,E3 effort no bonus,26,20,male,42,1192551,61,5,11,bank,1,124,6,yes,1,1,-128,10,1,850
+1544,E3 effort no bonus,26,20,male,43,1214472,85,10,12,bank,1,174,2,yes,1,1,-68,2,1,16
+1545,E3 effort no bonus,26,20,male,44,1230604,8,2,10,bank,1,10,8,yes,1,1,-53,6,0,0
+1546,E3 effort no bonus,26,20,male,45,1252877,40,6,1,bust,-1,-111,-5,yes,1,1,128,5,1,460
+1547,E3 effort no bonus,26,20,male,46,1275311,92,5,9,bank,1,89,4,yes,1,1,-92,7,1,658
+1548,E3 effort no bonus,26,20,male,47,1310313,94,7,11,bank,1,152,4,yes,1,1,-77,7,0,0
+1549,E3 effort no bonus,26,20,male,48,1342741,48,7,5,bust,-1,-101,-2,yes,1,1,-161,7,1,217
+1550,E3 effort no bonus,26,20,male,49,1361339,31,7,8,bank,1,113,1,yes,1,1,102,3,0,0
+1551,E3 effort no bonus,26,20,male,50,1381400,38,3,1,bust,-1,-37,-2,yes,1,1,-26,6,0,0
+1552,E3 effort no bonus,26,20,male,51,1400071,21,6,4,bust,-1,-93,-2,yes,1,1,-99,3,0,0
+1553,E3 effort no bonus,26,20,male,52,1424280,8,3,1,bust,-1,-17,-2,yes,1,1,-13,7,0,0
+1554,E3 effort no bonus,26,20,male,53,1448574,90,7,1,bust,-1,-148,-6,yes,1,1,59,4,1,116
+1555,E3 effort no bonus,26,20,male,54,1467507,29,4,12,bank,1,26,8,yes,1,1,-100,5,1,365
+1556,E3 effort no bonus,26,20,male,55,1485263,73,5,5,bank,1,131,0,yes,1,1,200,7,0,0
+1557,E3 effort no bonus,26,20,male,56,1509505,41,7,5,bust,-1,-143,-2,yes,1,1,-149,3,0,0
+1558,E3 effort no bonus,26,20,male,57,1528422,27,3,0,bust,-1,-135,-3,no,0,-1,-5,9,0,0
+1559,E3 effort no bonus,26,20,male,58,1564482,94,9,5,bust,-1,-99,-4,yes,1,1,-105,1,0,0
+1560,E3 effort no bonus,26,20,male,59,1587730,2,1,0,bust,-1,-191,-1,no,0,-1,1,NA,NA,NA
+1561,E3 effort no bonus,27,19,female,0,370310,85,8,3,bust,-1,-47,-5,no,0,-1,13,2,1,112
+1562,E3 effort no bonus,27,19,female,1,403619,56,2,8,bank,1,44,6,try harder,1,NA,-75,9,0,0
+1563,E3 effort no bonus,27,19,female,2,438286,28,9,0,bust,-1,-112,-9,no,0,-1,12,10,1,100
+1564,E3 effort no bonus,27,19,female,3,474852,10,10,11,bank,1,200,1,yes,1,1,112,3,1,228
+1565,E3 effort no bonus,27,19,female,4,508793,76,3,6,bank,1,42,3,yes,1,1,-16,6,1,558
+1566,E3 effort no bonus,27,19,female,5,532296,93,6,7,bank,1,115,1,yes,1,1,90,5,1,435
+1567,E3 effort no bonus,27,19,female,6,552966,87,5,8,bank,1,74,3,yes,1,1,51,9,1,819
+1568,E3 effort no bonus,27,19,female,7,574595,91,9,12,bank,1,69,3,no,0,-1,30,1,1,21
+1569,E3 effort no bonus,27,19,female,8,596285,21,1,4,bank,1,71,3,yes,1,1,-10,12,0,0
+1570,E3 effort no bonus,27,19,female,9,627142,55,12,4,bust,-1,-111,-8,no,0,-1,-14,3,1,147
+1571,E3 effort no bonus,27,19,female,10,651496,49,3,9,bank,1,76,6,yes,1,1,-54,6,0,0
+1572,E3 effort no bonus,27,19,female,11,681966,94,6,3,bust,-1,42,-3,no,0,-1,-67,7,0,0
+1573,E3 effort no bonus,27,19,female,12,703414,19,7,1,bust,-1,-200,-6,no,0,-1,-50,4,0,0
+1574,E3 effort no bonus,27,19,female,13,773423,36,4,1,bust,-1,-200,-3,no,0,-1,-200,8,0,0
+1575,E3 effort no bonus,27,19,female,14,793913,10,8,4,bust,-1,-200,-4,no,0,-1,-200,2,1,92
+1576,E3 effort no bonus,27,19,female,15,815698,46,2,5,bank,1,200,3,no,0,-1,40,2,1,134
+1577,E3 effort no bonus,27,19,female,16,840187,67,2,8,bank,1,200,6,no,0,-1,18,5,1,390
+1578,E3 effort no bonus,27,19,female,17,858690,78,5,5,bank,1,200,0,no,0,-1,20,5,1,475
+1579,E3 effort no bonus,27,19,female,18,886479,95,5,9,bank,1,200,4,no,0,-1,46,4,1,212
+1580,E3 effort no bonus,27,19,female,19,907412,53,4,7,bank,1,44,3,no,0,-1,22,7,1,455
+1581,E3 effort no bonus,27,19,female,20,927690,65,7,9,bank,1,200,2,no,0,-1,28,2,1,54
+1582,E3 effort no bonus,27,19,female,21,948046,27,2,9,bank,1,165,7,no,0,-1,80,6,1,546
+1583,E3 effort no bonus,27,19,female,22,969482,91,6,9,bank,1,162,3,no,0,-1,86,3,1,117
+1584,E3 effort no bonus,27,19,female,23,988109,39,3,10,bank,1,200,7,no,0,-1,99,5,1,35
+1585,E3 effort no bonus,27,19,female,24,1008161,7,5,7,bank,1,92,2,no,0,-1,33,5,0,0
+1586,E3 effort no bonus,27,19,female,25,1032942,2,5,0,bust,-1,-200,-5,try harder,1,NA,-200,2,0,0
+1587,E3 effort no bonus,27,19,female,26,1053708,28,2,1,bust,-1,-200,-1,yes,1,1,-180,8,0,0
+1588,E3 effort no bonus,27,19,female,27,1080561,99,8,4,bust,-1,-194,-4,no,0,-1,-156,3,1,165
+1589,E3 effort no bonus,27,19,female,28,1101161,55,3,5,bank,1,-164,2,no,0,-1,95,4,1,252
+1590,E3 effort no bonus,27,19,female,29,1120584,63,4,4,bank,1,200,0,no,0,-1,32,3,1,93
+1591,E3 effort no bonus,27,19,female,30,1142435,31,3,9,bank,1,200,6,no,0,-1,42,1,1,13
+1592,E3 effort no bonus,27,19,female,31,1163811,13,1,10,bank,1,28,9,no,0,-1,11,2,1,50
+1593,E3 effort no bonus,27,19,female,32,1180525,25,2,9,bank,1,45,7,no,0,-1,23,6,0,0
+1594,E3 effort no bonus,27,19,female,33,1201310,75,6,1,bust,-1,-200,-5,no,0,-1,-85,3,1,267
+1595,E3 effort no bonus,27,19,female,34,1221964,89,3,9,bank,1,76,6,no,0,-1,104,4,0,0
+1596,E3 effort no bonus,27,19,female,35,1243591,95,4,0,bust,-1,-200,-4,no,0,-1,-46,5,1,10
+1597,E3 effort no bonus,27,19,female,36,1267695,2,5,9,bank,1,200,4,no,0,-1,15,5,1,360
+1598,E3 effort no bonus,27,19,female,37,1285788,72,5,12,bank,1,99,7,no,0,-1,17,10,0,0
+1599,E3 effort no bonus,27,19,female,38,1306644,68,10,9,bust,-1,-200,-1,no,0,-1,-140,4,1,260
+1600,E3 effort no bonus,27,19,female,39,1325067,65,4,6,bank,1,200,2,no,0,-1,12,5,0,0
+1601,E3 effort no bonus,27,19,female,40,1346352,34,5,0,bust,-1,-200,-5,no,0,-1,-52,2,0,0
+1602,E3 effort no bonus,27,19,female,41,1363876,3,2,0,bust,-1,-190,-2,no,0,-1,-34,6,1,558
+1603,E3 effort no bonus,27,19,female,42,1383528,93,6,11,bank,1,199,5,no,0,-1,25,5,0,0
+1604,E3 effort no bonus,27,19,female,43,1400974,73,5,0,bust,-1,-200,-5,no,0,-1,-13,2,1,60
+1605,E3 effort no bonus,27,19,female,44,1420184,30,2,8,bank,1,24,6,no,0,-1,7,5,0,0
+1606,E3 effort no bonus,27,19,female,45,1442218,85,5,2,bust,-1,-200,-3,no,0,-1,-200,3,0,0
+1607,E3 effort no bonus,27,19,female,46,1458717,21,3,0,bust,-1,-200,-3,no,0,-1,-54,7,0,0
+1608,E3 effort no bonus,27,19,female,47,1479378,85,7,2,bust,-1,-200,-5,no,0,-1,-200,1,0,0
+1609,E3 effort no bonus,27,19,female,48,1497985,18,1,0,bust,-1,-200,-1,no,0,-1,-109,4,1,352
+1610,E3 effort no bonus,27,19,female,49,1515523,88,4,10,bank,1,200,6,no,0,-1,76,1,1,10
+1611,E3 effort no bonus,27,19,female,50,1532576,10,1,12,bank,1,59,11,no,0,-1,24,1,1,9
+1612,E3 effort no bonus,27,19,female,51,1548283,9,1,6,bank,1,27,5,no,0,-1,20,7,1,651
+1613,E3 effort no bonus,27,19,female,52,1571821,93,7,10,bank,1,161,3,no,0,-1,70,7,0,0
+1614,E3 effort no bonus,27,19,female,53,1594133,87,7,0,bust,-1,-200,-7,no,0,-1,-200,4,1,232
+1615,E3 effort no bonus,27,19,female,54,1610575,58,4,9,bank,1,149,5,no,0,-1,32,5,1,440
+1616,E3 effort no bonus,27,19,female,55,1628739,88,5,10,bank,1,200,5,no,0,-1,49,5,1,490
+1617,E3 effort no bonus,27,19,female,56,1648245,98,5,8,bank,1,178,3,no,0,-1,89,6,1,456
+1618,E3 effort no bonus,27,19,female,57,1668165,76,6,11,bank,1,200,5,no,0,-1,126,8,0,0
+1619,E3 effort no bonus,27,19,female,58,1693513,4,8,1,bust,-1,-200,-7,no,0,-1,-112,5,0,0
+1620,E3 effort no bonus,27,19,female,59,1711044,66,5,1,bust,-1,-200,-4,no,0,-1,-200,NA,NA,NA
+1621,E3 effort no bonus,28,19,female,0,260668,21,3,3,bank,1,109,0,try harder,1,NA,-48,7,1,175
+1622,E3 effort no bonus,28,19,female,1,307554,25,7,9,bank,1,85,2,try harder,1,NA,-6,5,0,0
+1623,E3 effort no bonus,28,19,female,2,336815,55,5,0,bust,-1,-50,-5,try harder,1,NA,-91,9,0,0
+1624,E3 effort no bonus,28,19,female,3,379733,15,9,4,bust,-1,-9,-5,try harder,1,NA,-10,6,1,516
+1625,E3 effort no bonus,28,19,female,4,442222,86,6,12,bank,1,85,6,try harder,1,NA,119,8,1,640
+1626,E3 effort no bonus,28,19,female,5,469062,80,8,11,bank,1,117,3,no,0,-1,143,8,0,0
+1627,E3 effort no bonus,28,19,female,6,496896,77,8,6,bust,-1,-11,-2,no,0,-1,-60,5,1,115
+1628,E3 effort no bonus,28,19,female,7,527624,23,5,11,bank,1,42,6,no,0,-1,60,7,0,0
+1629,E3 effort no bonus,28,19,female,8,560621,54,7,0,bust,-1,-74,-7,no,0,-1,-108,7,0,0
+1630,E3 effort no bonus,28,19,female,9,585993,79,7,1,bust,-1,-39,-6,no,0,-1,-73,6,1,582
+1631,E3 effort no bonus,28,19,female,10,613591,97,6,12,bank,1,154,6,no,0,-1,114,5,0,0
+1632,E3 effort no bonus,28,19,female,11,637473,79,5,1,bust,-1,-48,-4,no,0,-1,-54,4,0,0
+1633,E3 effort no bonus,28,19,female,12,678246,39,4,0,bust,-1,-74,-4,no,0,-1,-20,2,1,14
+1634,E3 effort no bonus,28,19,female,13,703069,7,2,6,bank,1,90,4,no,0,-1,47,5,1,480
+1635,E3 effort no bonus,28,19,female,14,724458,96,5,11,bank,1,113,6,no,0,-1,-24,5,1,465
+1636,E3 effort no bonus,28,19,female,15,762105,93,5,5,bank,1,199,0,no,0,-1,-10,7,0,0
+1637,E3 effort no bonus,28,19,female,16,784291,70,7,3,bust,-1,-49,-4,no,0,-1,-24,3,1,75
+1638,E3 effort no bonus,28,19,female,17,809231,25,3,11,bank,1,72,8,no,0,-1,-16,6,0,0
+1639,E3 effort no bonus,28,19,female,18,832430,83,6,0,bust,-1,-84,-6,no,0,-1,-7,3,1,117
+1640,E3 effort no bonus,28,19,female,19,851389,39,3,11,bank,1,120,8,no,0,-1,78,1,1,88
+1641,E3 effort no bonus,28,19,female,20,877720,88,1,5,bank,1,161,4,try harder,1,NA,-75,3,1,57
+1642,E3 effort no bonus,28,19,female,21,905580,19,3,7,bank,1,122,4,no,0,-1,108,2,1,146
+1643,E3 effort no bonus,28,19,female,22,927665,73,2,9,bank,1,101,7,no,0,-1,75,5,1,225
+1644,E3 effort no bonus,28,19,female,23,974819,45,5,11,bank,1,99,6,no,0,-1,78,3,1,33
+1645,E3 effort no bonus,28,19,female,24,993867,11,3,6,bank,1,167,3,no,0,-1,96,4,0,0
+1646,E3 effort no bonus,28,19,female,25,1023169,59,4,3,bust,-1,-98,-1,no,0,-1,-107,5,0,0
+1647,E3 effort no bonus,28,19,female,26,1047988,54,5,0,bust,-1,-83,-5,no,0,-1,-63,2,1,14
+1648,E3 effort no bonus,28,19,female,27,1064825,7,2,5,bank,1,42,3,no,0,-1,33,11,0,0
+1649,E3 effort no bonus,28,19,female,28,1088729,83,11,6,bust,-1,-46,-5,no,0,-1,-47,4,0,0
+1650,E3 effort no bonus,28,19,female,29,1107597,91,4,3,bust,-1,-80,-1,no,0,-1,55,3,1,63
+1651,E3 effort no bonus,28,19,female,30,1125977,21,3,7,bank,1,52,4,no,0,-1,37,4,1,208
+1652,E3 effort no bonus,28,19,female,31,1143321,52,4,11,bank,1,65,7,no,0,-1,45,5,1,110
+1653,E3 effort no bonus,28,19,female,32,1166045,22,5,12,bank,1,124,7,yes,1,1,85,5,0,0
+1654,E3 effort no bonus,28,19,female,33,1186583,54,5,0,bust,-1,20,-5,yes,1,1,-130,2,1,22
+1655,E3 effort no bonus,28,19,female,34,1205891,11,2,10,bank,1,98,8,yes,1,1,11,4,0,0
+1656,E3 effort no bonus,28,19,female,35,1226777,66,4,3,bust,-1,-37,-1,yes,1,1,-20,3,1,57
+1657,E3 effort no bonus,28,19,female,36,1244142,19,3,12,bank,1,109,9,no,0,-1,6,5,1,180
+1658,E3 effort no bonus,28,19,female,37,1261637,36,5,12,bank,1,200,7,no,0,-1,171,6,0,0
+1659,E3 effort no bonus,28,19,female,38,1280531,20,6,1,bust,-1,-92,-5,no,0,-1,-43,2,1,32
+1660,E3 effort no bonus,28,19,female,39,1300369,16,2,6,bank,1,23,4,no,0,-1,60,6,1,402
+1661,E3 effort no bonus,28,19,female,40,1327002,67,6,6,bank,1,44,0,no,0,-1,18,5,1,95
+1662,E3 effort no bonus,28,19,female,41,1360743,19,5,11,bank,1,118,6,no,0,-1,50,5,0,0
+1663,E3 effort no bonus,28,19,female,42,1396138,44,5,2,bust,-1,-59,-3,no,0,-1,-37,5,0,0
+1664,E3 effort no bonus,28,19,female,43,1415064,55,5,4,bust,-1,-88,-1,no,0,-1,-25,5,1,295
+1665,E3 effort no bonus,28,19,female,44,1434980,59,5,5,bank,1,84,0,no,0,-1,58,3,1,81
+1666,E3 effort no bonus,28,19,female,45,1455517,27,3,9,bank,1,63,6,no,0,-1,29,5,1,485
+1667,E3 effort no bonus,28,19,female,46,1473013,97,5,7,bank,1,160,2,no,0,-1,91,9,0,0
+1668,E3 effort no bonus,28,19,female,47,1495662,99,9,2,bust,-1,-9,-7,yes,1,1,72,3,1,189
+1669,E3 effort no bonus,28,19,female,48,1513505,63,3,7,bank,1,80,4,no,0,-1,56,3,1,42
+1670,E3 effort no bonus,28,19,female,49,1532535,14,3,7,bank,1,84,4,yes,1,1,47,1,1,82
+1671,E3 effort no bonus,28,19,female,50,1552499,82,1,6,bank,1,83,5,yes,1,1,-48,4,1,196
+1672,E3 effort no bonus,28,19,female,51,1568904,49,4,8,bank,1,71,4,no,0,-1,67,5,1,100
+1673,E3 effort no bonus,28,19,female,52,1587507,20,5,5,bank,1,111,0,no,0,-1,52,2,1,24
+1674,E3 effort no bonus,28,19,female,53,1602433,12,2,5,bank,1,81,3,yes,1,1,-40,3,0,0
+1675,E3 effort no bonus,28,19,female,54,1622725,46,3,1,bust,-1,-80,-2,yes,1,1,-47,4,0,0
+1676,E3 effort no bonus,28,19,female,55,1638891,71,4,1,bust,-1,-134,-3,yes,1,1,-184,10,1,60
+1677,E3 effort no bonus,28,19,female,56,1661452,6,10,12,bank,1,109,2,yes,1,1,1,5,1,115
+1678,E3 effort no bonus,28,19,female,57,1678019,23,5,6,bank,1,73,1,yes,1,1,-1,3,0,0
+1679,E3 effort no bonus,28,19,female,58,1694735,40,3,0,bust,-1,-129,-3,yes,1,1,-194,8,0,0
+1680,E3 effort no bonus,28,19,female,59,1714242,14,8,2,bust,-1,-128,-6,yes,1,1,-44,NA,NA,NA
+1681,E3 effort no bonus,29,20,female,0,226468,54,6,11,bank,1,71,5,no,0,-1,-3,8,0,0
+1682,E3 effort no bonus,29,20,female,1,265342,70,8,7,bust,-1,-54,-1,try harder,1,NA,-56,2,0,0
+1683,E3 effort no bonus,29,20,female,2,292144,90,2,0,bust,-1,-97,-2,no,0,-1,-7,4,1,384
+1684,E3 effort no bonus,29,20,female,3,319784,96,4,8,bank,1,48,4,yes,1,1,26,6,1,258
+1685,E3 effort no bonus,29,20,female,4,346911,43,6,12,bank,1,55,6,yes,1,1,30,8,1,384
+1686,E3 effort no bonus,29,20,female,5,375791,48,8,11,bank,1,49,3,yes,1,1,0,7,0,0
+1687,E3 effort no bonus,29,20,female,6,413766,53,7,1,bust,-1,-43,-6,yes,1,1,-19,5,0,0
+1688,E3 effort no bonus,29,20,female,7,452079,72,5,3,bust,-1,-60,-2,no,0,-1,-6,2,0,0
+1689,E3 effort no bonus,29,20,female,8,476094,9,2,0,bust,-1,-102,-2,no,0,-1,3,12,0,0
+1690,E3 effort no bonus,29,20,female,9,548669,10,12,7,bust,-1,-57,-5,yes,1,1,-8,10,0,0
+1691,E3 effort no bonus,29,20,female,10,579249,100,10,5,bust,-1,-44,-5,yes,1,1,-44,7,0,0
+1692,E3 effort no bonus,29,20,female,11,603222,94,7,2,bust,-1,-68,-5,yes,1,1,-21,5,1,190
+1693,E3 effort no bonus,29,20,female,12,638388,38,5,9,bank,1,65,4,try harder,1,NA,-22,2,1,18
+1694,E3 effort no bonus,29,20,female,13,663300,9,2,2,bank,1,33,0,no,0,-1,8,6,1,318
+1695,E3 effort no bonus,29,20,female,14,701344,53,6,9,bank,1,67,3,yes,1,1,27,3,0,0
+1696,E3 effort no bonus,29,20,female,15,748061,10,3,2,bust,-1,-67,-1,try harder,1,NA,-20,4,1,188
+1697,E3 effort no bonus,29,20,female,16,776088,47,4,7,bank,1,45,3,no,0,-1,26,8,1,232
+1698,E3 effort no bonus,29,20,female,17,807580,29,8,11,bank,1,92,3,yes,1,1,16,6,0,0
+1699,E3 effort no bonus,29,20,female,18,839304,73,6,1,bust,-1,-52,-5,yes,1,1,-21,1,1,17
+1700,E3 effort no bonus,29,20,female,19,868866,17,1,6,bank,1,43,5,try harder,1,NA,-44,4,0,0
+1701,E3 effort no bonus,29,20,female,20,891659,31,4,0,bust,-1,-93,-4,try harder,1,NA,-40,2,1,44
+1702,E3 effort no bonus,29,20,female,21,913071,22,2,9,bank,1,61,7,yes,1,1,-66,7,1,637
+1703,E3 effort no bonus,29,20,female,22,946135,91,7,10,bank,1,99,3,yes,1,1,-19,11,0,0
+1704,E3 effort no bonus,29,20,female,23,974647,66,11,4,bust,-1,-93,-7,yes,1,1,-59,6,0,0
+1705,E3 effort no bonus,29,20,female,24,1027337,46,6,5,bust,-1,-74,-1,yes,1,1,-47,5,0,0
+1706,E3 effort no bonus,29,20,female,25,1050022,91,5,1,bust,-1,-37,-4,no,0,-1,-62,10,1,950
+1707,E3 effort no bonus,29,20,female,26,1073302,95,10,11,bank,1,122,1,yes,1,1,27,2,1,74
+1708,E3 effort no bonus,29,20,female,27,1111835,37,2,5,bank,1,52,3,try harder,1,NA,-27,8,0,0
+1709,E3 effort no bonus,29,20,female,28,1220023,21,8,2,bust,-1,-82,-6,try harder,1,NA,-42,9,1,801
+1710,E3 effort no bonus,29,20,female,29,1255378,89,9,11,bank,1,104,2,yes,1,1,38,5,0,0
+1711,E3 effort no bonus,29,20,female,30,1283658,67,5,2,bust,-1,0,-3,try harder,1,NA,-25,9,1,621
+1712,E3 effort no bonus,29,20,female,31,1311278,69,9,12,bank,1,32,3,try harder,1,NA,-21,12,0,0
+1713,E3 effort no bonus,29,20,female,32,1358204,29,12,2,bust,-1,-19,-10,yes,1,1,-30,1,1,4
+1714,E3 effort no bonus,29,20,female,33,1374588,4,1,5,bank,1,62,4,yes,1,1,7,6,0,0
+1715,E3 effort no bonus,29,20,female,34,1402337,42,6,2,bust,-1,-35,-4,yes,1,1,-53,8,0,0
+1716,E3 effort no bonus,29,20,female,35,1444364,53,8,4,bust,-1,-63,-4,yes,1,1,-28,6,1,330
+1717,E3 effort no bonus,29,20,female,36,1489914,55,6,9,bank,1,50,3,no,0,-1,-22,4,0,0
+1718,E3 effort no bonus,29,20,female,37,1511943,39,4,1,bust,-1,-89,-3,yes,1,1,51,10,0,0
+1719,E3 effort no bonus,29,20,female,38,1601504,24,10,1,bust,-1,-42,-9,yes,1,1,-37,2,1,28
+1720,E3 effort no bonus,29,20,female,39,1623712,14,2,10,bank,1,76,8,no,0,-1,6,8,0,0
+1721,E3 effort no bonus,29,20,female,40,1649174,34,8,1,bust,-1,-75,-7,yes,1,1,-25,11,0,0
+1722,E3 effort no bonus,29,20,female,41,1673008,5,11,6,bust,-1,-79,-5,yes,1,1,-10,9,0,0
+1723,E3 effort no bonus,29,20,female,42,1793999,94,9,4,bust,-1,-55,-5,yes,1,1,-26,4,1,176
+1724,E3 effort no bonus,29,20,female,43,1829018,44,4,11,bank,1,62,7,no,0,-1,1,6,1,594
+1725,E3 effort no bonus,29,20,female,44,1856383,99,6,6,bank,1,114,0,yes,1,1,91,8,0,0
+1726,E3 effort no bonus,29,20,female,45,1902533,3,8,5,bust,-1,-61,-3,yes,1,1,-81,8,0,0
+1727,E3 effort no bonus,29,20,female,46,1923932,95,8,1,bust,-1,-56,-7,no,0,-1,-6,5,1,390
+1728,E3 effort no bonus,29,20,female,47,1942978,78,5,5,bank,1,51,0,yes,1,1,139,4,1,368
+1729,E3 effort no bonus,29,20,female,48,1963619,92,4,11,bank,1,90,7,yes,1,1,-72,6,1,390
+1730,E3 effort no bonus,29,20,female,49,1987186,65,6,6,bank,1,87,0,yes,1,1,164,4,1,280
+1731,E3 effort no bonus,29,20,female,50,2005843,70,4,12,bank,1,70,8,yes,1,1,-89,3,0,0
+1732,E3 effort no bonus,29,20,female,51,2028620,57,3,0,bust,-1,-68,-3,yes,1,1,-200,8,1,304
+1733,E3 effort no bonus,29,20,female,52,2068915,38,8,11,bank,1,86,3,yes,1,1,31,5,1,295
+1734,E3 effort no bonus,29,20,female,53,2089671,59,5,6,bank,1,65,1,yes,1,1,31,3,0,0
+1735,E3 effort no bonus,29,20,female,54,2116303,13,3,0,bust,-1,-85,-3,try harder,1,NA,-45,3,1,291
+1736,E3 effort no bonus,29,20,female,55,2137452,97,3,7,bank,1,92,4,yes,1,1,-62,7,0,0
+1737,E3 effort no bonus,29,20,female,56,2185578,73,7,2,bust,-1,-113,-5,yes,1,1,44,2,1,92
+1738,E3 effort no bonus,29,20,female,57,2200867,46,2,5,bank,1,80,3,yes,1,1,-11,8,1,112
+1739,E3 effort no bonus,29,20,female,58,2221291,14,8,8,bank,1,86,0,yes,1,1,111,4,1,116
+1740,E3 effort no bonus,29,20,female,59,2239179,29,4,4,bank,1,90,0,yes,1,1,135,NA,NA,NA
+1741,E3 effort no bonus,30,20,female,0,150573,79,4,6,bank,1,51,2,yes,1,1,31,4,1,344
+1742,E3 effort no bonus,30,20,female,1,166148,86,4,9,bank,1,97,5,yes,1,1,-200,4,1,392
+1743,E3 effort no bonus,30,20,female,2,186368,98,4,7,bank,1,0,3,yes,1,1,-72,6,1,426
+1744,E3 effort no bonus,30,20,female,3,206114,71,6,7,bank,1,0,1,no,0,-1,0,1,1,33
+1745,E3 effort no bonus,30,20,female,4,232377,33,1,12,bank,1,-52,11,try harder,1,NA,42,1,1,57
+1746,E3 effort no bonus,30,20,female,5,247584,57,1,1,bank,1,-66,0,no,0,-1,-38,12,0,0
+1747,E3 effort no bonus,30,20,female,6,270889,18,12,1,bust,-1,-200,-11,try harder,1,NA,0,1,1,63
+1748,E3 effort no bonus,30,20,female,7,287387,63,1,7,bank,1,-48,6,no,0,-1,-115,1,1,64
+1749,E3 effort no bonus,30,20,female,8,309420,64,1,1,bank,1,32,0,try harder,1,NA,30,1,1,44
+1750,E3 effort no bonus,30,20,female,9,328243,44,1,12,bank,1,-36,11,try harder,1,NA,-44,1,1,9
+1751,E3 effort no bonus,30,20,female,10,341959,9,1,3,bank,1,27,2,try harder,1,NA,31,9,1,585
+1752,E3 effort no bonus,30,20,female,11,363197,65,9,12,bank,1,76,3,no,0,-1,80,1,1,43
+1753,E3 effort no bonus,30,20,female,12,379659,43,1,2,bank,1,13,1,no,0,-1,11,1,1,16
+1754,E3 effort no bonus,30,20,female,13,394270,16,1,10,bank,1,23,9,no,0,-1,1,1,1,86
+1755,E3 effort no bonus,30,20,female,14,411689,86,1,4,bank,1,26,3,try harder,1,NA,34,1,1,88
+1756,E3 effort no bonus,30,20,female,15,433442,88,1,1,bank,1,21,0,try harder,1,NA,0,1,1,80
+1757,E3 effort no bonus,30,20,female,16,447517,80,1,10,bank,1,23,9,try harder,1,NA,43,6,0,0
+1758,E3 effort no bonus,30,20,female,17,464912,16,6,0,bust,-1,29,-6,try harder,1,NA,0,1,1,98
+1759,E3 effort no bonus,30,20,female,18,477040,98,1,3,bank,1,57,2,try harder,1,NA,0,1,1,5
+1760,E3 effort no bonus,30,20,female,19,491561,5,1,6,bank,1,-44,5,try harder,1,NA,6,7,1,665
+1761,E3 effort no bonus,30,20,female,20,509957,95,7,9,bank,1,24,2,no,0,-1,-1,7,0,0
+1762,E3 effort no bonus,30,20,female,21,531816,28,7,3,bust,-1,-85,-4,try harder,1,NA,0,1,1,51
+1763,E3 effort no bonus,30,20,female,22,544960,51,1,1,bank,1,19,0,try harder,1,NA,0,1,1,91
+1764,E3 effort no bonus,30,20,female,23,559370,91,1,5,bank,1,-39,4,try harder,1,NA,56,8,1,464
+1765,E3 effort no bonus,30,20,female,24,581027,58,8,9,bank,1,29,1,no,0,-1,29,1,1,66
+1766,E3 effort no bonus,30,20,female,25,598737,66,1,12,bank,1,-34,11,try harder,1,NA,44,8,0,0
+1767,E3 effort no bonus,30,20,female,26,617393,27,8,6,bust,-1,42,-2,try harder,1,NA,34,4,1,376
+1768,E3 effort no bonus,30,20,female,27,633796,94,4,6,bank,1,45,2,no,0,-1,26,2,1,104
+1769,E3 effort no bonus,30,20,female,28,649504,52,2,6,bank,1,-55,4,no,0,-1,-46,4,1,216
+1770,E3 effort no bonus,30,20,female,29,667347,54,4,4,bank,1,36,0,no,0,-1,-43,6,1,156
+1771,E3 effort no bonus,30,20,female,30,685266,26,6,8,bank,1,-52,2,no,0,-1,-47,4,1,364
+1772,E3 effort no bonus,30,20,female,31,705365,91,4,10,bank,1,43,6,no,0,-1,22,2,1,102
+1773,E3 effort no bonus,30,20,female,32,729535,51,2,3,bank,1,18,1,no,0,-1,38,2,1,80
+1774,E3 effort no bonus,30,20,female,33,761700,40,2,2,bank,1,4,0,no,0,-1,37,4,1,400
+1775,E3 effort no bonus,30,20,female,34,776969,100,4,4,bank,1,37,0,no,0,-1,-35,2,1,114
+1776,E3 effort no bonus,30,20,female,35,795346,57,2,8,bank,1,29,6,no,0,-1,36,2,1,24
+1777,E3 effort no bonus,30,20,female,36,817224,12,2,11,bank,1,14,9,no,0,-1,-25,3,1,159
+1778,E3 effort no bonus,30,20,female,37,835929,53,3,3,bank,1,28,0,no,0,-1,22,2,0,0
+1779,E3 effort no bonus,30,20,female,38,850378,31,2,0,bust,-1,31,-2,no,0,-1,42,4,1,308
+1780,E3 effort no bonus,30,20,female,39,866153,77,4,10,bank,1,29,6,try harder,1,NA,-15,1,1,88
+1781,E3 effort no bonus,30,20,female,40,881073,88,1,12,bank,1,-24,11,no,0,-1,-21,4,0,0
+1782,E3 effort no bonus,30,20,female,41,902832,64,4,1,bust,-1,20,-3,no,0,-1,-23,1,1,30
+1783,E3 effort no bonus,30,20,female,42,926599,30,1,10,bank,1,34,9,no,0,-1,31,3,1,132
+1784,E3 effort no bonus,30,20,female,43,976121,44,3,12,bank,1,-1,9,try harder,1,NA,6,1,1,62
+1785,E3 effort no bonus,30,20,female,44,998533,62,1,12,bank,1,-2,11,no,0,-1,0,1,1,66
+1786,E3 effort no bonus,30,20,female,45,1011370,66,1,9,bank,1,37,8,no,0,-1,15,12,0,0
+1787,E3 effort no bonus,30,20,female,46,1042027,8,12,5,bust,-1,-49,-7,no,0,-1,0,2,1,178
+1788,E3 effort no bonus,30,20,female,47,1059861,89,2,6,bank,1,0,4,no,0,-1,0,1,1,3
+1789,E3 effort no bonus,30,20,female,48,1076409,3,1,8,bank,1,0,7,no,0,-1,0,1,0,0
+1790,E3 effort no bonus,30,20,female,49,1098823,67,1,0,bust,-1,-1,-1,no,0,-1,0,3,1,246
+1791,E3 effort no bonus,30,20,female,50,1113729,82,3,8,bank,1,0,5,no,0,-1,0,2,1,106
+1792,E3 effort no bonus,30,20,female,51,1129854,53,2,4,bank,1,0,2,no,0,-1,0,1,1,35
+1793,E3 effort no bonus,30,20,female,52,1143850,35,1,6,bank,1,0,5,no,0,-1,0,2,1,134
+1794,E3 effort no bonus,30,20,female,53,1167375,67,2,9,bank,1,0,7,try harder,1,NA,22,1,0,0
+1795,E3 effort no bonus,30,20,female,54,1184890,4,1,0,bust,-1,25,-1,no,0,-1,0,4,1,136
+1796,E3 effort no bonus,30,20,female,55,1202969,34,4,10,bank,1,13,6,no,0,-1,0,1,0,0
+1797,E3 effort no bonus,30,20,female,56,1217581,14,1,0,bust,-1,0,-1,no,0,-1,-45,5,1,415
+1798,E3 effort no bonus,30,20,female,57,1233815,83,5,12,bank,1,-1,7,no,0,-1,0,1,1,55
+1799,E3 effort no bonus,30,20,female,58,1250563,55,1,10,bank,1,0,9,no,0,-1,32,12,0,0
+1800,E3 effort no bonus,30,20,female,59,1283077,85,12,5,bust,-1,-200,-7,no,0,-1,-200,NA,NA,NA
