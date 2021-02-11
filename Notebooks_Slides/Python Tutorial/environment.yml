@@ -1,0 +1,19 @@
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - pandas
+  - pip
+  - matplotlib
+  - seaborn
+  - plotly
+  - bqplot
+  - ipywidgets
+  - bokeh
+  - scipy
+  - pyreadr
+  - plotnine
+  - statsmodels
+  - linearmodels
