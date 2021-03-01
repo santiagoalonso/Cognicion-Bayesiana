@@ -1,0 +1,3 @@
+1) print(name_theano_var.tag.test_value.shape) #prints shape of theano variable
+
+2) in sample() init use only adapt_diag if there are range errors i.e. jitter adds [-1,1] and could generate errors

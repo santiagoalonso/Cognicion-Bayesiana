@@ -1,0 +1,81 @@
+%% Creator: Inkscape inkscape 0.92.5, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'model_TTB_order.gv.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{304.87432861bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,1.42353737)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{model_TTB_order.gv.pdf}}%
+    \put(0.42774419,1.27887999){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}TTB+Order\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{model_TTB_order.gv.pdf}}%
+    \put(0.24600301,1.18015835){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$q \ questions$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{model_TTB_order.gv.pdf}}%
+    \put(0.35916439,1.08175715){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$i \ subj$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{model_TTB_order.gv.pdf}}%
+    \put(0.39196479,0.99811613){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$c \ cue$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{model_TTB_order.gv.pdf}}%
+    \put(0.42640521,0.91283508){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$v_{ic}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{model_TTB_order.gv.pdf}}%
+    \put(0.42968526,0.66355209){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$s_i$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{model_TTB_order.gv.pdf}}%
+    \put(0.43952538,0.40114883){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$t_{iq}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=8]{model_TTB_order.gv.pdf}}%
+    \put(0.4493655,0.15186578){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$y_{iq}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=9]{model_TTB_order.gv.pdf}}%
+    \put(0.64288786,0.66355209){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$a_q$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=10]{model_TTB_order.gv.pdf}}%
+    \put(0.1312016,0.66355209){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$b_q$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=11]{model_TTB_order.gv.pdf}}%
+    \put(0.82657011,0.40114883){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\gamma$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=12]{model_TTB_order.gv.pdf}}%
+    \put(0.75444446,1.18504458){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$t_{iq} = TTB_{s_i}(a_q,b_q)$\\$v_{ic} \sim Normal(0, 0.001)$\\$s_{i}$ = rank(v_{ic})\\$\gamma \sim Uniform(0.5,1)$\\$ y_{iq} \sim \begin{cases} \text{Bernoulli}(\gamma) \;\;\;\;\;\;\; \text{if $t_{iq} = a$} \\\text{Bernoulli}(1- \gamma) \; \text{if $t_{iq} = b$} \\\text{Bernoulli}(0.5) \;\;\;\;\; \text{otherwise} \end{cases}  $\end{tabular}}}}%
+  \end{picture}%
+\endgroup%
