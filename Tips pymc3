@@ -1,3 +1,9 @@
 1) print(name_theano_var.tag.test_value.shape) #prints shape of theano variable
 
-2) in sample() init use only adapt_diag if there are range errors i.e. jitter adds [-1,1] and could generate errors
+2) The pm.Data() works as a data container and it can be updated e.g. In a model previously defined, with mi_data = pm.Data("eta", eta), and called COR, I can resample with new data:
+    new_eta = np.array([1,2,3]) # or any matrix
+    with COR:
+        pm.set_data({"eta": new_eta}) 
+        trace = pm.sample(1000, init = 'adapt_diag', tune=1000, target_accept = 0.95) 
+
+3) in sample() init use only adapt_diag if there are range errors i.e. jitter adds [-1,1] and could generate errors

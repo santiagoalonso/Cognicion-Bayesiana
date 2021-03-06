@@ -169,4 +169,20 @@ def EV(v,w):
 def choice_rule(EV, luce):
     return 1/(1+np.exp(luce*(EV.iloc[:,0] - EV.iloc[:,1]))) #prob. of EV[1]
 
+
+def sign(num):
+    #num: 1D numpy array with numbers
+    signs = deepcopy(num)
+    signs[num<0] = -1
+    signs[num>0] = 1
+    signs[num==0] = 0
+    
+    return signs.astype('int')
+
+
+
+
+
+
+
     
