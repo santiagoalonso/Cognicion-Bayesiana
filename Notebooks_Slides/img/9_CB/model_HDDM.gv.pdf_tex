@@ -1,0 +1,97 @@
+%% Creator: Inkscape inkscape 0.92.5, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'model_HDDM.gv.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{350bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.53428571)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{model_HDDM.gv.pdf}}%
+    \put(0.49999999,0.47942858){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Hierarchical Drift Diffusion Model (HDDM)\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{model_HDDM.gv.pdf}}%
+    \put(0.31428571,0.05800002){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$j \ subject$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{model_HDDM.gv.pdf}}%
+    \put(0.48857142,0.05514288){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$i \ trial$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{model_HDDM.gv.pdf}}%
+    \put(0.04285714,0.41514287){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\mu_v$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{model_HDDM.gv.pdf}}%
+    \put(0.27142857,0.24942859){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$v_j$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{model_HDDM.gv.pdf}}%
+    \put(0.59999999,0.0837143){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$x_{ji}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{model_HDDM.gv.pdf}}%
+    \put(0.15714285,0.41514287){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\sigma_v$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=8]{model_HDDM.gv.pdf}}%
+    \put(0.27142857,0.41514287){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\mu_a$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=9]{model_HDDM.gv.pdf}}%
+    \put(0.38571428,0.24942859){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$a_j$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=10]{model_HDDM.gv.pdf}}%
+    \put(0.38571428,0.41514287){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\sigma_a$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=11]{model_HDDM.gv.pdf}}%
+    \put(0.49999999,0.41514287){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\mu_z$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=12]{model_HDDM.gv.pdf}}%
+    \put(0.49999999,0.24942859){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$z_j$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=13]{model_HDDM.gv.pdf}}%
+    \put(0.6142857,0.41514287){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\sigma_z$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=14]{model_HDDM.gv.pdf}}%
+    \put(0.72857141,0.41514287){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\mu_{ndt}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=15]{model_HDDM.gv.pdf}}%
+    \put(0.6142857,0.24942859){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$ndt_j$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=16]{model_HDDM.gv.pdf}}%
+    \put(0.84285713,0.41514287){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\sigma_{ndt}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=17]{model_HDDM.gv.pdf}}%
+    \put(0.72857141,0.24942859){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$s_v$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=18]{model_HDDM.gv.pdf}}%
+    \put(0.84285713,0.24942859){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$s_z$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=19]{model_HDDM.gv.pdf}}%
+    \put(0.95714284,0.24942859){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$s_{ndt}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=20]{model_HDDM.gv.pdf}}%
+    \put(-0.00765087,-0.04590523){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$ \mu_v \sim Normal(2,3)$\\$ \sigma_v \sim Half \ Normal(0,2)$\\$ \mu_a \sim Normal(1.5,0.75)$\\$ \sigma_a \sim Half \ Normal(0,0.1)$\\$ \mu_z \sim Normal(0.5,0.5)$\\$ \sigma_z \sim Half \ Normal(0,0.05)$\\$ \mu_{ndt} \sim Normal(0.4,0.2)$\\$ \sigma_{ndt} \sim Half \ Normal(0,1)$\\$ s_v \sim Half \ Normal(0,2)$\\$ s_z \sim Beta(1,3)$\\$ s_{ndt} \sim Half \ Normal(0,0.3)$\\$ a_j \sim \Gamma(\mu_a, \sigma_a^2)$\\$ v_j \sim Normal(\mu_v, \sigma_v^2)$\\$ z_j \sim invlogit(Normal(\mu_z, \sigma_z^2))$\\$ ndt_j \sim Normal(\mu_{ndt}, \sigma_{ndt}^2)$\\$ x_{ji} \sim \frac{\pi}{a_j^2} e^{\left( -v_j a_j z_j - \frac{v_j^2x}{2} \right)} \times \sum\limits_{k=1}^{\infty} k e^{\left(-\frac{k^2\pi^2x}{2a_j^2}\right)} sin(k \pi z_j)$\\\end{tabular}}}}%
+  \end{picture}%
+\endgroup%
