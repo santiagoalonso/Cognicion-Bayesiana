@@ -1,0 +1,86 @@
+%% Creator: Inkscape inkscape 0.92.5, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'model_hSDT.gv.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{334bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.74251497)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0.5,0.68502995){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Hierarchical Signal Detection Theory (SDT)\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{model_hSDT.gv.pdf}}%
+    \put(0.31886227,0.52634732){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$i \ people$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{model_hSDT.gv.pdf}}%
+    \put(0.33682635,0.61766468){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\lambda_c$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{model_hSDT.gv.pdf}}%
+    \put(0.43862275,0.44401199){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$c_i$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{model_hSDT.gv.pdf}}%
+    \put(0.66616766,0.25838324){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\theta_i^h$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{model_hSDT.gv.pdf}}%
+    \put(0.40269461,0.25838324){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\theta_i^f$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{model_hSDT.gv.pdf}}%
+    \put(0.45658682,0.61766468){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\mu_c$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{model_hSDT.gv.pdf}}%
+    \put(0.64820359,0.61766468){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\lambda_d$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=8]{model_hSDT.gv.pdf}}%
+    \put(0.65718563,0.44401199){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$d_i$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=9]{model_hSDT.gv.pdf}}%
+    \put(0.76796407,0.61766468){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\mu_d$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=10]{model_hSDT.gv.pdf}}%
+    \put(0.6002994,0.0727545){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$h_i$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=11]{model_hSDT.gv.pdf}}%
+    \put(0.33682635,0.0727545){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$f_i$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=12]{model_hSDT.gv.pdf}}%
+    \put(0.53443114,0.25838324){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$s_i$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=13]{model_hSDT.gv.pdf}}%
+    \put(0.27095808,0.25838324){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$n_i$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=14]{model_hSDT.gv.pdf}}%
+    \put(0.74166468,0.51614551){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\mu_c, \ \mu_d \sim Normal(0,0.001)$\\$\lambda_c, \ \lambda_d \sim Normal(0.001,0.001)$\\$d_i \sim Normal(\mu_d, \lambda_d)$\\$c_i \sim Normal(\mu_c, \lambda_c)$\\$\theta_i^h = \Phi(\frac{1}{2}d_i - c_i)$\\$\theta_i^f = \Phi(-\frac{1}{2}d_i - c_i)$\\$h_i \sim Binomial(\theta_i^h, s_i)$\\$f_i \sim Binomial(\theta_i^f, n_i)$\end{tabular}}}}%
+  \end{picture}%
+\endgroup%
