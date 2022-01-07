@@ -38,7 +38,7 @@
   \newcommand*\fsize{\dimexpr\f@size pt\relax}%
   \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
   \ifx\svgwidth\undefined%
-    \setlength{\unitlength}{408.61123657bp}%
+    \setlength{\unitlength}{156.37072754bp}%
     \ifx\svgscale\undefined%
       \relax%
     \else%
@@ -50,9 +50,28 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,0.75625304)%
+  \begin{picture}(1,1.17137208)%
     \lineheight{1}%
     \setlength\tabcolsep{0pt}%
+    \put(0.48977484,1.11022253){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}Whole Number Bias\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{model_WNB.gv.pdf}}%
+    \put(0.17540961,0.98418349){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$i \ trial$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{model_WNB.gv.pdf}}%
+    \put(0.44036956,0.8985599){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$r \ ratio = [Small, Big]$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{model_WNB.gv.pdf}}%
+    \put(0.66494453,0.79091982){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$W_{ir}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{model_WNB.gv.pdf}}%
+    \put(0.72250006,0.44558667){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\Phi(W_{ir})$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{model_WNB.gv.pdf}}%
+    \put(0.49227794,0.44558667){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$Ratio_{ir}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{model_WNB.gv.pdf}}%
+    \put(0.49227794,0.1002535){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$Choice_i$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{model_WNB.gv.pdf}}%
+    \put(0.31961138,0.79091982){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$L_{ir}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=8]{model_WNB.gv.pdf}}%
+    \put(0.26205585,0.44558667){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}$\Phi(L_{ir})$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=9]{model_WNB.gv.pdf}}%
+    \put(0.90733146,1.12192328){\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\\$ \Phi(W_{ir}) \sim N(W_{ir}, Weber \times W_{ir}) $\\$ \Phi(L_{ir}) \sim N(L_{ir}, Weber \times L_{ir})$\\$ Ratio_{ir} \sim Beta(W_{ir} + 1, L_{ir} + 1)$\\$ Choice_i \sim Bernoulli(pSM_i)$\\$ pSM_i = \frac{e^{f_{iB}}}{e^{f_{iB}}+e^{f_{iS}}}$\\$ f_{ir} = \beta_1 \Phi(W_{ir}) + \beta_2 \Phi(L_{ir}) + \beta_3 Ratio_{ir}$\\$ \beta_{num cues} \sim Uniform(-5,5)$\\$ \beta_{ratio cue} \sim Uniform(0,5)$\end{tabular}}}}%
+    \put(3.14413184,0.38834813){\makebox(0,0)[lt]{\begin{minipage}{2.48843241\unitlength}\raggedright \end{minipage}}}%
   \end{picture}%
 \endgroup%

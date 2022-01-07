@@ -12,9 +12,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="229pt"
-   height="249pt"
-   viewBox="0.00 0.00 229.00 249.00"
+   width="921.5542pt"
+   height="194.91211pt"
+   viewBox="0 0 921.5542 194.91211"
    version="1.1"
    id="svg122"
    sodipodi:docname="model_WNB.gv.svg"
@@ -45,188 +45,229 @@
      inkscape:window-height="1016"
      id="namedview124"
      showgrid="false"
-     inkscape:zoom="2.5240964"
-     inkscape:cx="152.66667"
-     inkscape:cy="166"
+     inkscape:zoom="0.89240284"
+     inkscape:cx="335.00949"
+     inkscape:cy="-59.317443"
      inkscape:window-x="72"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="graph0" />
-  <g
-     id="graph0"
-     class="graph"
-     transform="scale(1 1) rotate(0) translate(4 245)">
-    <title
-       id="title10">G</title>
-    <text
-       x="109.60859"
-       y="-181.2296"
-       font-size="14.00"
-       id="text14"
-       style="font-size:14px;font-family:Times, serif;text-anchor:middle">Whole Number Bias</text>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.66717803"
-       inkscape:connector-curvature="0"
-       id="path18"
-       d="m 59.362955,-7.9568734 c 0,0 99.384115,0 99.384115,0 3.29449,0 6.589,-4.8640306 6.589,-9.7280606 0,0 0,-144.299586 0,-144.299586 0,-4.86403 -3.29451,-9.72806 -6.589,-9.72806 0,0 -99.384115,0 -99.384115,0 -3.294501,0 -6.589002,4.86403 -6.589002,9.72806 0,0 0,144.299586 0,144.299586 0,4.86403 3.294501,9.7280606 6.589002,9.7280606" />
-    <text
-       style="font-size:14px;font-family:Times, serif;text-anchor:middle"
-       id="text20"
-       font-size="14.00"
-       y="-161.52078"
-       x="60.451069">$i \ trial$</text>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.67620522"
-       inkscape:connector-curvature="0"
-       id="path25"
-       d="m 65.848403,-61.97162 c 0,0 86.544677,0 86.544677,0 3.22527,0 6.45054,-5.103802 6.45054,-10.207604 0,0 0,-77.407666 0,-77.407666 0,-5.1038 -3.22527,-10.2076 -6.45054,-10.2076 0,0 -86.544677,0 -86.544677,0 -3.225266,0 -6.450534,5.1038 -6.450534,10.2076 0,0 0,77.407666 0,77.407666 0,5.103802 3.225268,10.207604 6.450534,10.207604" />
-    <text
-       style="font-size:14px;font-family:Times, serif;text-anchor:middle"
-       id="text27"
-       font-size="14.00"
-       y="-148.13176"
-       x="101.88305">$r \ ratio = [Small, Big]$</text>
-    <!-- w -->
-    <polygon
-       style="fill:#808080;stroke:#000000"
-       id="polygon32"
-       points="128,-126 146,-126 146,-144 128,-144 " />
-    <text
-       style="font-size:14px;font-family:Times, serif;text-anchor:middle"
-       id="text34"
-       font-size="14.00"
-       y="-131.3"
-       x="137">$W_{ir}$</text>
-    <!-- pw -->
-    <circle
-       style="fill:none;stroke:#000000"
-       r="9"
-       id="ellipse39"
-       cy="-81"
-       cx="146" />
-    <text
-       style="font-size:14px;font-family:Times, serif;text-anchor:middle"
-       id="text41"
-       font-size="14.00"
-       y="-77.300003"
-       x="146">$\Phi(W_{ir})$</text>
-    <!-- w&#45;&gt;pw -->
-    <path
-       style="fill:none;stroke:#000000"
-       inkscape:connector-curvature="0"
-       id="path46"
-       d="m 138.41,-125.88 c 1.19,6.91 2.95,17.09 4.48,25.9" />
-    <polygon
-       style="fill:#000000;stroke:#000000"
-       id="polygon48"
-       points="139.48,-99.15 146.38,-100.35 144.63,-89.9 " />
-    <!-- pratio -->
-    <circle
-       style="fill:none;stroke:#000000"
-       r="9"
-       id="ellipse53"
-       cy="-81"
-       cx="110" />
-    <text
-       style="font-size:14px;font-family:Times, serif;text-anchor:middle"
-       id="text55"
-       font-size="14.00"
-       y="-77.300003"
-       x="110">$Ratio_{ir}$</text>
-    <!-- w&#45;&gt;pratio -->
-    <path
-       style="fill:none;stroke:#000000"
-       inkscape:connector-curvature="0"
-       id="path60"
-       d="m 132.78,-125.88 c -3.83,7.39 -9.6,18.5 -14.38,27.69" />
-    <polygon
-       style="fill:#000000;stroke:#000000"
-       id="polygon62"
-       points="115.26,-99.72 121.47,-96.49 113.75,-89.23 " />
-    <!-- choice -->
-    <polygon
-       style="fill:#808080;stroke:#000000"
-       id="polygon67"
-       points="101,-18 119,-18 119,-36 101,-36 " />
-    <text
-       style="font-size:14px;font-family:Times, serif;text-anchor:middle"
-       id="text69"
-       font-size="14.00"
-       y="-23.299999"
-       x="110">$Choice_i$</text>
-    <!-- pw&#45;&gt;choice -->
-    <path
-       style="fill:none;stroke:#000000"
-       inkscape:connector-curvature="0"
-       id="path74"
-       d="m 141.29,-73.2 c -4.96,7.17 -12.99,18.76 -19.66,28.41" />
-    <polygon
-       style="fill:#000000;stroke:#000000"
-       id="polygon76"
-       points="118.59,-46.56 124.35,-42.58 115.78,-36.35 " />
-    <!-- l -->
-    <polygon
-       style="fill:#808080;stroke:#000000"
-       id="polygon81"
-       points="74,-126 92,-126 92,-144 74,-144 " />
-    <text
-       style="font-size:14px;font-family:Times, serif;text-anchor:middle"
-       id="text83"
-       font-size="14.00"
-       y="-131.3"
-       x="83">$L_{ir}$</text>
-    <!-- pl -->
-    <circle
-       style="fill:none;stroke:#000000"
-       r="9"
-       id="ellipse88"
-       cy="-81"
-       cx="74" />
-    <text
-       style="font-size:14px;font-family:Times, serif;text-anchor:middle"
-       id="text90"
-       font-size="14.00"
-       y="-77.300003"
-       x="74">$\Phi(L_{ir})$</text>
-    <!-- l&#45;&gt;pl -->
-    <path
-       style="fill:none;stroke:#000000"
-       inkscape:connector-curvature="0"
-       id="path95"
-       d="m 81.59,-125.88 c -1.19,6.91 -2.95,17.09 -4.48,25.9" />
-    <polygon
-       style="fill:#000000;stroke:#000000"
-       id="polygon97"
-       points="73.62,-100.35 80.52,-99.15 75.37,-89.9 " />
-    <!-- l&#45;&gt;pratio -->
-    <path
-       style="fill:none;stroke:#000000"
-       inkscape:connector-curvature="0"
-       id="path102"
-       d="m 87.22,-125.88 c 3.83,7.39 9.6,18.5 14.38,27.69" />
-    <polygon
-       style="fill:#000000;stroke:#000000"
-       id="polygon104"
-       points="98.53,-96.49 104.74,-99.72 106.25,-89.23 " />
-    <!-- pl&#45;&gt;choice -->
-    <path
-       style="fill:none;stroke:#000000"
-       inkscape:connector-curvature="0"
-       id="path109"
-       d="m 78.71,-73.2 c 4.96,7.17 12.99,18.76 19.66,28.41" />
-    <polygon
-       style="fill:#000000;stroke:#000000"
-       id="polygon111"
-       points="95.65,-42.58 101.41,-46.56 104.22,-36.35 " />
-    <!-- pratio&#45;&gt;choice -->
-    <path
-       style="fill:none;stroke:#000000"
-       inkscape:connector-curvature="0"
-       id="path116"
-       d="m 110,-71.88 c 0,6.83 0,16.85 0,25.59" />
-    <polygon
-       style="fill:#000000;stroke:#000000"
-       id="polygon118"
-       points="106.5,-46.24 113.5,-46.24 110,-36.24 " />
-  </g>
+     inkscape:current-layer="svg122" />
+  <text
+     style="font-size:14px;font-family:Times, serif;text-anchor:middle"
+     id="text14"
+     font-size="14.00"
+     y="15.638306"
+     x="76.586449">Whole Number Bias</text>
+  <path
+     d="m 26.340818,188.91103 c 0,0 99.384112,0 99.384112,0 3.29449,0 6.589,-4.86403 6.589,-9.72806 0,0 0,-144.299585 0,-144.299585 0,-4.86403 -3.29451,-9.72806 -6.589,-9.72806 0,0 -99.384112,0 -99.384112,0 -3.294501,0 -6.589002,4.86403 -6.589002,9.72806 0,0 0,144.299585 0,144.299585 0,4.86403 3.294501,9.72806 6.589002,9.72806"
+     id="path18"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000;stroke-width:0.66717803" />
+  <text
+     x="27.428928"
+     y="35.347122"
+     font-size="14.00"
+     id="text20"
+     style="font-size:14px;font-family:Times, serif;text-anchor:middle">$i \ trial$</text>
+  <path
+     d="m 32.826266,134.89628 c 0,0 86.544674,0 86.544674,0 3.22527,0 6.45054,-5.1038 6.45054,-10.2076 0,0 0,-77.407665 0,-77.407665 0,-5.1038 -3.22527,-10.2076 -6.45054,-10.2076 0,0 -86.544674,0 -86.544674,0 -3.225266,0 -6.450534,5.1038 -6.450534,10.2076 0,0 0,77.407665 0,77.407665 0,5.1038 3.225268,10.2076 6.450534,10.2076"
+     id="path25"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000;stroke-width:0.67620522" />
+  <text
+     x="68.860909"
+     y="48.736145"
+     font-size="14.00"
+     id="text27"
+     style="font-size:14px;font-family:Times, serif;text-anchor:middle">$r \ ratio = [Small, Big]$</text>
+  <polygon
+     points="128,-126 146,-126 146,-144 128,-144 "
+     id="polygon32"
+     style="fill:#808080;stroke:#000000"
+     transform="translate(-33.022137,196.8679)" />
+  <text
+     x="103.97786"
+     y="65.567902"
+     font-size="14.00"
+     id="text34"
+     style="font-size:14px;font-family:Times, serif;text-anchor:middle">$W_{ir}$</text>
+  <circle
+     cx="112.97786"
+     cy="115.8679"
+     id="ellipse39"
+     r="9"
+     style="fill:none;stroke:#000000" />
+  <text
+     x="112.97786"
+     y="119.5679"
+     font-size="14.00"
+     id="text41"
+     style="font-size:14px;font-family:Times, serif;text-anchor:middle">$\Phi(W_{ir})$</text>
+  <path
+     d="m 105.38786,70.987905 c 1.19,6.91 2.95,17.09 4.48,25.9"
+     id="path46"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000" />
+  <polygon
+     points="146.38,-100.35 144.63,-89.9 139.48,-99.15 "
+     id="polygon48"
+     style="fill:#000000;stroke:#000000"
+     transform="translate(-33.022137,196.8679)" />
+  <circle
+     cx="76.977859"
+     cy="115.8679"
+     id="ellipse53"
+     r="9"
+     style="fill:none;stroke:#000000" />
+  <text
+     x="76.977859"
+     y="119.5679"
+     font-size="14.00"
+     id="text55"
+     style="font-size:14px;font-family:Times, serif;text-anchor:middle">$Ratio_{ir}$</text>
+  <path
+     d="m 99.757863,70.987905 c -3.83,7.39 -9.6,18.5 -14.38,27.69"
+     id="path60"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000" />
+  <polygon
+     points="121.47,-96.49 113.75,-89.23 115.26,-99.72 "
+     id="polygon62"
+     style="fill:#000000;stroke:#000000"
+     transform="translate(-33.022137,196.8679)" />
+  <polygon
+     points="101,-18 119,-18 119,-36 101,-36 "
+     id="polygon67"
+     style="fill:#808080;stroke:#000000"
+     transform="translate(-33.022137,196.8679)" />
+  <text
+     x="76.977859"
+     y="173.5679"
+     font-size="14.00"
+     id="text69"
+     style="font-size:14px;font-family:Times, serif;text-anchor:middle">$Choice_i$</text>
+  <path
+     d="m 108.26786,123.6679 c -4.96,7.17 -12.989997,18.76 -19.659997,28.41"
+     id="path74"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000" />
+  <polygon
+     points="124.35,-42.58 115.78,-36.35 118.59,-46.56 "
+     id="polygon76"
+     style="fill:#000000;stroke:#000000"
+     transform="translate(-33.022137,196.8679)" />
+  <polygon
+     points="74,-126 92,-126 92,-144 74,-144 "
+     id="polygon81"
+     style="fill:#808080;stroke:#000000"
+     transform="translate(-33.022137,196.8679)" />
+  <text
+     x="49.977863"
+     y="65.567902"
+     font-size="14.00"
+     id="text83"
+     style="font-size:14px;font-family:Times, serif;text-anchor:middle">$L_{ir}$</text>
+  <circle
+     cx="40.977863"
+     cy="115.8679"
+     id="ellipse88"
+     r="9"
+     style="fill:none;stroke:#000000" />
+  <text
+     x="40.977863"
+     y="119.5679"
+     font-size="14.00"
+     id="text90"
+     style="font-size:14px;font-family:Times, serif;text-anchor:middle">$\Phi(L_{ir})$</text>
+  <path
+     d="m 48.567863,70.987905 c -1.19,6.91 -2.95,17.09 -4.48,25.9"
+     id="path95"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000" />
+  <polygon
+     points="80.52,-99.15 75.37,-89.9 73.62,-100.35 "
+     id="polygon97"
+     style="fill:#000000;stroke:#000000"
+     transform="translate(-33.022137,196.8679)" />
+  <path
+     d="m 54.197863,70.987905 c 3.83,7.39 9.6,18.5 14.38,27.69"
+     id="path102"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000" />
+  <polygon
+     points="104.74,-99.72 106.25,-89.23 98.53,-96.49 "
+     id="polygon104"
+     style="fill:#000000;stroke:#000000"
+     transform="translate(-33.022137,196.8679)" />
+  <path
+     d="m 45.687863,123.6679 c 4.96,7.17 12.99,18.76 19.66,28.41"
+     id="path109"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000" />
+  <polygon
+     points="101.41,-46.56 104.22,-36.35 95.65,-42.58 "
+     id="polygon111"
+     style="fill:#000000;stroke:#000000"
+     transform="translate(-33.022137,196.8679)" />
+  <path
+     d="m 76.977863,124.9879 c 0,6.83 0,16.85 0,25.59"
+     id="path116"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000" />
+  <polygon
+     points="113.5,-46.24 110,-36.24 106.5,-46.24 "
+     id="polygon118"
+     style="fill:#000000;stroke:#000000"
+     transform="translate(-33.022137,196.8679)" />
+  <text
+     xml:space="preserve"
+     style="font-size:20px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;stroke-width:0.75"
+     x="140.2417"
+     y="-27.5"
+     id="text72"><tspan
+       sodipodi:role="line"
+       id="tspan70"
+       x="140.2417"
+       y="-9.8046875"
+       style="stroke-width:0.75" /><tspan
+       sodipodi:role="line"
+       x="140.2417"
+       y="15.195312"
+       style="stroke-width:0.75"
+       id="tspan74">$ \Phi(W_{ir}) \sim N(W_{ir}, Weber \times W_{ir}) $</tspan><tspan
+       sodipodi:role="line"
+       x="140.2417"
+       y="40.195312"
+       style="stroke-width:0.75"
+       id="tspan76">$ \Phi(L_{ir}) \sim N(L_{ir}, Weber \times L_{ir})$</tspan><tspan
+       sodipodi:role="line"
+       x="140.2417"
+       y="65.195312"
+       style="stroke-width:0.75"
+       id="tspan78">$ Ratio_{ir} \sim Beta(W_{ir} + 1, L_{ir} + 1)$</tspan><tspan
+       sodipodi:role="line"
+       x="140.2417"
+       y="90.195312"
+       style="stroke-width:0.75"
+       id="tspan80">$ Choice_i \sim Bernoulli(pSM_i)$</tspan><tspan
+       sodipodi:role="line"
+       x="140.2417"
+       y="115.19531"
+       style="stroke-width:0.75"
+       id="tspan82">$ pSM_i = \frac{e^{f_{iB}}}{e^{f_{iB}}+e^{f_{iS}}}$</tspan><tspan
+       sodipodi:role="line"
+       x="140.2417"
+       y="140.19531"
+       style="stroke-width:0.75"
+       id="tspan84">$ f_{ir} = \beta_1 \Phi(W_{ir}) + \beta_2 \Phi(L_{ir}) + \beta_3 Ratio_{ir}$</tspan><tspan
+       sodipodi:role="line"
+       x="140.2417"
+       y="165.19531"
+       style="stroke-width:0.75"
+       id="tspan86">$ \beta_{num cues} Uniform(-5,5)$</tspan><tspan
+       sodipodi:role="line"
+       x="140.2417"
+       y="190.19531"
+       style="stroke-width:0.75"
+       id="tspan88">$ \beta_{ratio cue} Uniform(0,5)$</tspan></text>
 </svg>
