@@ -1,0 +1,8 @@
+key1.keys,key1.rt,key2.keys,key2.rt,key2_2.keys,key2_2.rt,key2_3.keys,key2_3.rt,key3.keys,key3.rt,key4.keys,key4.rt,respP.keys,respP.corr,respP.rt,Practice.thisRepN,Practice.thisTrialN,Practice.thisN,Practice.thisIndex,Practice.ran,ssAmount,llAmount,llDelay,session,participant,date,expName,psychopyVersion,OS,frameRate,key5.keys,key5.rt,respT.keys,respT.corr,respT.rt,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,trials.ran,ss_Amt,ss_Delay,ll_Amt,ll_Delay
+space,10.4896,space,12.9837,space,13.2723,space,2.6868,right,4.0378,space,2.3131,left,1,4.1069,0,0,0,1,1,25000,35000,150,002,Prueba,2022-04-01_15h39.35.486,tareaTDv3,2020.2.5,Win32,60,,,,,,,,,,,,,,
+,,,,,,,,,,,,left,0,6.1608,0,1,1,2,1,10000,19000,89,002,Prueba,2022-04-01_15h39.35.486,tareaTDv3,2020.2.5,Win32,60,,,,,,,,,,,,,,
+,,,,,,,,,,,,right,1,3.4429,0,2,2,0,1,10000,109000,9,002,Prueba,2022-04-01_15h39.35.486,tareaTDv3,2020.2.5,Win32,60,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,002,Prueba,2022-04-01_15h39.35.486,tareaTDv3,2020.2.5,Win32,60,g,43.1114,left,1,13.688,0,0,0,78,1,25000,0,125000,59
+,,,,,,,,,,,,,,,,,,,,,,,002,Prueba,2022-04-01_15h39.35.486,tareaTDv3,2020.2.5,Win32,60,,,left,1,3.7671,0,1,1,61,1,25000,0,55000,6
+,,,,,,,,,,,,,,,,,,,,,,,002,Prueba,2022-04-01_15h39.35.486,tareaTDv3,2020.2.5,Win32,60,,,left,1,4.8418,0,2,2,18,1,10000,0,110000,60
+,,,,,,,,,,,,,,,,,,,,,,,002,Prueba,2022-04-01_15h39.35.486,tareaTDv3,2020.2.5,Win32,60,,,,0,,0,3,3,20,1,10000,0,20000,90

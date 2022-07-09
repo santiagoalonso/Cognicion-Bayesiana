@@ -1,0 +1,1 @@
+this is a hypothetical delay discounting task modified from Lopez-Guzman et al. 2018 for spanish language and COP currency
