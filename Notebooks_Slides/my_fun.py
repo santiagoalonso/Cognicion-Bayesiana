@@ -35,14 +35,17 @@ def dropdown_convergence(param, trace):
     bysubj = ['alpha_N', 'beta_N', 'gamma_N', 'delta_N', 'lambda_N',
             'luce_N', 'alpha', 'beta', 'gamma', 'delta', 'lambbda',
             'luce']
-    if param in bysubj: #subject-level parameters
-        subj = np.random.randint(trace[param].shape[1]) #plots random subject
-        y = np.array(trace[param][:,subj])
-        x = np.linspace(0,trace[param].shape[0], len(y))
+    par = np.array(trace.posterior[param])
+    if param in bysubj: #subject-level parameters 
+        par = np.reshape(par, (par.shape[0]*par.shape[1], par.shape[2]))
+        subj = np.random.randint(par.shape[1]) #plots random subject
+        y = np.array(par[:,subj])
+        x = np.linspace(0,par.shape[0], len(y))
         plt.plot(x,y)
         plt.title(param);
     else: #group-level parameters
-        y = np.array(trace[param])
+        par = np.reshape(par, (par.shape[0]*par.shape[1], 1))
+        y = par
         x = np.linspace(0,len(y), len(y))
         plt.plot(x,y)
         plt.title(param);
